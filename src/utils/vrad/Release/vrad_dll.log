@@ -1,0 +1,48 @@
+﻿  BSPTreeData.cpp
+  ChunkFile.cpp
+  CollisionUtils.cpp
+  DispColl_Common.cpp
+  ScratchPad3D.cpp
+  ScratchPadUtils.cpp
+  builddisp.cpp
+  disp_common.cpp
+  disp_powerinfo.cpp
+  filesystem_helpers.cpp
+  loadcmdline.cpp
+  lumpfiles.cpp
+  memoverride.cpp
+  zip_utils.cpp
+  MySqlDatabase.cpp
+  bsplib.cpp
+  cmdlib.cpp
+  map_shared.cpp
+  mpi_stats.cpp
+  pacifier.cpp
+  physdll.cpp
+  polylib.cpp
+  scriplib.cpp
+  threads.cpp
+  tools_minidump.cpp
+  utilmatlib.cpp
+  vmpi_tools_shared.cpp
+  SampleHash.cpp
+  VRAD_DispColl.cpp
+  VRadDisps.cpp
+  VRadStaticProps.cpp
+  VradDetailProps.cpp
+  disp_vrad.cpp
+  imagepacker.cpp
+  incremental.cpp
+  leaf_ambient_lighting.cpp
+  lightmap.cpp
+  macro_texture.cpp
+  mpivrad.cpp
+  radial.cpp
+  trace.cpp
+  vismat.cpp
+  vrad.cpp
+  vraddll.cpp
+     Creating library .\Release\.\vrad_dll.lib and object .\Release\.\vrad_dll.exp
+  vrad_dll.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\utils\vrad\.\Release\.\vrad_dll.dll
+          1 fichier(s) copié(s).
+          1 fichier(s) copié(s).

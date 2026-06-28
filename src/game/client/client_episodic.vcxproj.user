@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommand>C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments>-allowdebug -novid -windowed -noborder -dev -console -game "C:\Users\Elouan\Documents\sdk\mod_hl2\sp\game\mod_episodic"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommand>C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments>-allowdebug -novid -windowed -noborder -dev -console -game "C:\Users\Elouan\Documents\sdk\mod_hl2\sp\game\mod_episodic"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArgumentsHistory>-allowdebug -novid -windowed -noborder -dev -console -game "C:\Users\Elouan\Documents\sdk\mod_hl2\sp\game\mod_episodic"|</LocalDebuggerCommandArgumentsHistory>
+  </PropertyGroup>
+</Project>

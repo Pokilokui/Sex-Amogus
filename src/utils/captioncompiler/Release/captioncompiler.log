@@ -1,0 +1,12 @@
+﻿  compiledcaptionswap.cpp
+  filesystem_helpers.cpp
+  filesystem_init.cpp
+  stringregistry.cpp
+  memoverride.cpp
+  cmdlib.cpp
+  filesystem_tools.cpp
+  pacifier.cpp
+  scriplib.cpp
+  captioncompiler.cpp
+     Creating library .\Release\.\captioncompiler.lib and object .\Release\.\captioncompiler.exp
+  captioncompiler.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\utils\captioncompiler\.\Release\.\captioncompiler.exe

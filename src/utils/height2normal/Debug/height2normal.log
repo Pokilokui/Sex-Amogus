@@ -1,0 +1,9 @@
+﻿  Compiling pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 12.00.40629.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\public\tier0\pointeroverride.asm
+  Running VPC CRC Check - height2normal.vpc
+  height2normal.cpp
+     Creating library .\Debug\.\height2normal.lib and object .\Debug\.\height2normal.exp
+  height2normal.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\utils\height2normal\.\Debug\.\height2normal.exe

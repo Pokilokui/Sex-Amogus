@@ -1,0 +1,18 @@
+﻿  language.cpp
+  memoverride.cpp
+  vgui_controls.cpp
+  gamepadui_achievements.cpp
+  gamepadui_basepanel.cpp
+  gamepadui_button.cpp
+  gamepadui_frame.cpp
+  gamepadui_genericconfirmation.cpp
+  gamepadui_interface.cpp
+  gamepadui_mainmenu.cpp
+  gamepadui_newgame.cpp
+  gamepadui_options.cpp
+  gamepadui_savegame.cpp
+  gamepadui_util.cpp
+     Creating library .\Release_mod_episodic\\gamepadui.lib and object .\Release_mod_episodic\\gamepadui.exp
+  gamepadui_episodic.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\game\gamepadui\.\Release_mod_episodic\gamepadui.dll
+          1 fichier(s) copié(s).
+          1 fichier(s) copié(s).

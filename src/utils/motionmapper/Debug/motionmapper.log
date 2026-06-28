@@ -1,0 +1,15 @@
+﻿  Compiling pointeroverride.asm
+   Assembling: C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\public\tier0\pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 12.00.40629.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  Running VPC CRC Check - motionmapper.vpc
+  cmdlib.cpp
+  filesystem_helpers.cpp
+  filesystem_init.cpp
+  filesystem_tools.cpp
+  memoverride.cpp
+  motionmapper.cpp
+  scriplib.cpp
+     Creating library .\Debug\.\motionmapper.lib and object .\Debug\.\motionmapper.exp
+  motionmapper.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\utils\motionmapper\.\Debug\.\motionmapper.exe

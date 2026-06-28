@@ -1,0 +1,8 @@
+﻿  filesystem_helpers.cpp
+  filesystem_init.cpp
+  memoverride.cpp
+  cmdlib.cpp
+  filesystem_tools.cpp
+  vice.cpp
+     Creating library .\Release\.\vice.lib and object .\Release\.\vice.exp
+  vice.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\utils\vice\.\Release\.\vice.exe

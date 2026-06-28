@@ -1,0 +1,6 @@
+﻿  gamedata.cpp
+  gdclass.cpp
+  gdvar.cpp
+  inputoutput.cpp
+  wckeyvalues.cpp
+  fgdlib.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\fgdlib\..\lib\public\.\fgdlib.lib

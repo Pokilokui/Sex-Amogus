@@ -1,0 +1,5 @@
+﻿  StdAfx.cpp
+  memoverride.cpp
+  vvis_launcher.cpp
+     Creating library .\Release\.\vvis.lib and object .\Release\.\vvis.exp
+  vvis_launcher.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\utils\vvis_launcher\.\Release\.\vvis.exe
