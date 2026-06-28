@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/Weapons/V_physics_gun/physics"
+	"$bumpmap" "models/Weapons/V_physics_gun/physics_normal"
+        "$envmap" "env_cubemap"
+        "$normalmapalphaenvmapmask" "1"
+        "$envmaptint" "[.10 .10 .10]"
+}

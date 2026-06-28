@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_wasteland_hl2/barricade_composite01"
+	"$surfaceprop" "wood"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+}

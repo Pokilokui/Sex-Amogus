@@ -1,0 +1,11 @@
+vertexlitgeneric
+{
+$basetexture "tile/white_wall_tile004c"
+$surfaceprop default
+$bumpmap "tile/white_wall_tile004_height-ssbump"
+
+$detailscale ".4"
+$detailblendfactor .45
+$detailblendmode 0
+"%keywords" "portal2 chamber destruction"
+}

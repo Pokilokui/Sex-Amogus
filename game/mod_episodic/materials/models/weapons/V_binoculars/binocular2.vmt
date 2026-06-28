@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Weapons/v_binoculars/binocular2"
+	"$bumpmap" "models/Weapons/v_binoculars/binocular2_normal"
+}

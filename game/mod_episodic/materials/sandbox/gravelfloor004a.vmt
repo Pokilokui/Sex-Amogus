@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "nature/gravelfloor004a"
+	"$surfaceprop" "dirt"
+	"$bumpmap" "nature/gravelfloor004a_normal"
+}

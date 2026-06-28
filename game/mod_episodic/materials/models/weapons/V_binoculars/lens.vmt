@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Weapons/v_binoculars/lens"
+	"$bumpmap" "models/Weapons/v_binoculars/lens_normal"
+        "$envmap" "env_cubemap"
+	"$envmaptint" "[.25 .25 .25]"
+	"$normalmapalphaenvmapmask" 1
+}

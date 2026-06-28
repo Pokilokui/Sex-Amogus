@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "brick/brickwall003a"
+	"$bumpmap" "brick/brickwall003a_normal"
+}

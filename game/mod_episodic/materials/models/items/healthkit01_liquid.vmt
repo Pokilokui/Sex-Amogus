@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	$basetexture "Models/Items/Healthkit01_liquid"
+	$basetexturetransform "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+	$surfaceprop metal
+	$envmap env_cubemap
+	$envmaptint "[ .5 .5 .5]"
+	$model 1
+	$selfillum 1
+	$texoffset "[0 0]"
+
+	Proxies
+	{
+	LinearRamp
+		{
+		resultVar "$texoffset[1]"
+		rate .1
+		} 
+	TextureTransform
+		{
+		translateVar $texoffset
+		resultVar $basetexturetransform
+		} 
+	}
+}
+
+

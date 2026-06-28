@@ -1,0 +1,8 @@
+vertexlitgeneric
+{
+$basetexture "anim_wp/framework/backpanels_color01"
+$bumpmap "anim_wp/framework/backpanels_color01_height-ssbump"
+"%keywords" "portal2 bts destruction"
+$surfaceprop metal
+"%noportal" 1
+}

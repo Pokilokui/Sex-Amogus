@@ -1,0 +1,28 @@
+"VertexLitGeneric"
+{
+	$basetexture		"Models/Items/Battery01"
+	$surfaceprop 		 metal
+	$envmap				 env_cubemap
+	$envmaptint			"[ .5 .5 .5]"
+	$envmapmask			"Models/Items/Battery01_mask"
+	$selfillum			 1
+	
+	//blue light soft pulse
+	$detail				"Models/Items/Battery01_detail"	
+	$detailscale 		1
+	$detailblendfactor	1
+	$detailblendmode	5		//glowy
+	
+	
+	Proxies
+	{
+		Sine
+		{
+			resultVar	$detailblendfactor
+			sinemin		0
+			sinemax		1
+			sineperiod	5.00
+		}
+	}
+}
+

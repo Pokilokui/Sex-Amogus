@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "gm_construct/grass1"
+	"$surfaceprop" "grass"
+
+	// if there was a detailtransform, we could probably scroll the clouds
+	"$detail" "gm_construct/grass_clouds"
+	"$detailscale" "0.005"
+}

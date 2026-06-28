@@ -1,0 +1,7 @@
+"Teeth"
+{
+	"$basetexture" "models/Mossman_episodic/fmouth"
+	"$clientshader" "MouthShader"
+	"$model" 1
+	"$halflambert" 1
+}
