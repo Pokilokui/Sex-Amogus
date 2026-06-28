@@ -1,0 +1,7729 @@
+// mp3 database, automatically generated
+songs
+{
+  file
+  {
+    filenumber 0
+    fromgame 1
+    subdirindex 0
+    short "citadel_hub_ambience1.mp3"
+    filename "ambient\levels\citadel\citadel_hub_ambience1.mp3"
+  }
+  file
+  {
+    filenumber 1
+    fromgame 1
+    subdirindex 0
+    short "german_win.mp3"
+    filename "ambient\german_win.mp3"
+  }
+  file
+  {
+    filenumber 2
+    fromgame 1
+    subdirindex 0
+    short "us_win.mp3"
+    filename "ambient\us_win.mp3"
+  }
+  file
+  {
+    filenumber 3
+    fromgame 1
+    subdirindex 0
+    short "comm_cap1_strategy_allied.mp3"
+    filename "commentary\dod_kalt\comm_cap1_strategy_allied.mp3"
+  }
+  file
+  {
+    filenumber 4
+    fromgame 1
+    subdirindex 0
+    short "comm_cap2_strategy_allied.mp3"
+    filename "commentary\dod_kalt\comm_cap2_strategy_allied.mp3"
+  }
+  file
+  {
+    filenumber 5
+    fromgame 1
+    subdirindex 0
+    short "comm_intro.mp3"
+    filename "commentary\dod_kalt\comm_intro.mp3"
+  }
+  file
+  {
+    filenumber 6
+    fromgame 1
+    subdirindex 0
+    short "comm_plaza_strategy_allied.mp3"
+    filename "commentary\dod_kalt\comm_plaza_strategy_allied.mp3"
+  }
+  file
+  {
+    filenumber 7
+    fromgame 1
+    subdirindex 0
+    short "comm_road_strategy_allied.mp3"
+    filename "commentary\dod_kalt\comm_road_strategy_allied.mp3"
+  }
+  file
+  {
+    filenumber 8
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song0.mp3"
+    filename "music\vlvx_song0.mp3"
+  }
+  file
+  {
+    filenumber 9
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song15.mp3"
+    filename "music\vlvx_song15.mp3"
+  }
+  file
+  {
+    filenumber 10
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song20.mp3"
+    filename "music\vlvx_song20.mp3"
+  }
+  file
+  {
+    filenumber 11
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song22.mp3"
+    filename "music\vlvx_song22.mp3"
+  }
+  file
+  {
+    filenumber 12
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song23.mp3"
+    filename "music\vlvx_song23.mp3"
+  }
+  file
+  {
+    filenumber 13
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song23ambient.mp3"
+    filename "music\vlvx_song23ambient.mp3"
+  }
+  file
+  {
+    filenumber 14
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song24.mp3"
+    filename "music\vlvx_song24.mp3"
+  }
+  file
+  {
+    filenumber 15
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song25.mp3"
+    filename "music\vlvx_song25.mp3"
+  }
+  file
+  {
+    filenumber 16
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song26.mp3"
+    filename "music\vlvx_song26.mp3"
+  }
+  file
+  {
+    filenumber 17
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song27.mp3"
+    filename "music\vlvx_song27.mp3"
+  }
+  file
+  {
+    filenumber 18
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song28.mp3"
+    filename "music\vlvx_song28.mp3"
+  }
+  file
+  {
+    filenumber 19
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song3.mp3"
+    filename "music\vlvx_song3.mp3"
+  }
+  file
+  {
+    filenumber 20
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song9.mp3"
+    filename "music\vlvx_song9.mp3"
+  }
+  file
+  {
+    filenumber 21
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song1.mp3"
+    filename "music\vlvx_song1.mp3"
+  }
+  file
+  {
+    filenumber 22
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song11.mp3"
+    filename "music\vlvx_song11.mp3"
+  }
+  file
+  {
+    filenumber 23
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song12.mp3"
+    filename "music\vlvx_song12.mp3"
+  }
+  file
+  {
+    filenumber 24
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song18.mp3"
+    filename "music\vlvx_song18.mp3"
+  }
+  file
+  {
+    filenumber 25
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song19a.mp3"
+    filename "music\vlvx_song19a.mp3"
+  }
+  file
+  {
+    filenumber 26
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song19b.mp3"
+    filename "music\vlvx_song19b.mp3"
+  }
+  file
+  {
+    filenumber 27
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song2.mp3"
+    filename "music\vlvx_song2.mp3"
+  }
+  file
+  {
+    filenumber 28
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song21.mp3"
+    filename "music\vlvx_song21.mp3"
+  }
+  file
+  {
+    filenumber 29
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song4.mp3"
+    filename "music\vlvx_song4.mp3"
+  }
+  file
+  {
+    filenumber 30
+    fromgame 1
+    subdirindex 0
+    short "vlvx_song8.mp3"
+    filename "music\vlvx_song8.mp3"
+  }
+  file
+  {
+    filenumber 31
+    fromgame 1
+    subdirindex 0
+    short "hl1_song10.mp3"
+    filename "music\hl1_song10.mp3"
+  }
+  file
+  {
+    filenumber 32
+    fromgame 1
+    subdirindex 0
+    short "hl1_song11.mp3"
+    filename "music\hl1_song11.mp3"
+  }
+  file
+  {
+    filenumber 33
+    fromgame 1
+    subdirindex 0
+    short "hl1_song14.mp3"
+    filename "music\hl1_song14.mp3"
+  }
+  file
+  {
+    filenumber 34
+    fromgame 1
+    subdirindex 0
+    short "hl1_song15.mp3"
+    filename "music\hl1_song15.mp3"
+  }
+  file
+  {
+    filenumber 35
+    fromgame 1
+    subdirindex 0
+    short "hl1_song17.mp3"
+    filename "music\hl1_song17.mp3"
+  }
+  file
+  {
+    filenumber 36
+    fromgame 1
+    subdirindex 0
+    short "hl1_song19.mp3"
+    filename "music\hl1_song19.mp3"
+  }
+  file
+  {
+    filenumber 37
+    fromgame 1
+    subdirindex 0
+    short "hl1_song20.mp3"
+    filename "music\hl1_song20.mp3"
+  }
+  file
+  {
+    filenumber 38
+    fromgame 1
+    subdirindex 0
+    short "hl1_song21.mp3"
+    filename "music\hl1_song21.mp3"
+  }
+  file
+  {
+    filenumber 39
+    fromgame 1
+    subdirindex 0
+    short "hl1_song24.mp3"
+    filename "music\hl1_song24.mp3"
+  }
+  file
+  {
+    filenumber 40
+    fromgame 1
+    subdirindex 0
+    short "hl1_song25_remix3.mp3"
+    filename "music\hl1_song25_remix3.mp3"
+  }
+  file
+  {
+    filenumber 41
+    fromgame 1
+    subdirindex 0
+    short "hl1_song26.mp3"
+    filename "music\hl1_song26.mp3"
+  }
+  file
+  {
+    filenumber 42
+    fromgame 1
+    subdirindex 0
+    short "hl1_song3.mp3"
+    filename "music\hl1_song3.mp3"
+  }
+  file
+  {
+    filenumber 43
+    fromgame 1
+    subdirindex 0
+    short "hl1_song5.mp3"
+    filename "music\hl1_song5.mp3"
+  }
+  file
+  {
+    filenumber 44
+    fromgame 1
+    subdirindex 0
+    short "hl1_song6.mp3"
+    filename "music\hl1_song6.mp3"
+  }
+  file
+  {
+    filenumber 45
+    fromgame 1
+    subdirindex 0
+    short "hl1_song9.mp3"
+    filename "music\hl1_song9.mp3"
+  }
+  file
+  {
+    filenumber 46
+    fromgame 1
+    subdirindex 0
+    short "hl2_intro.mp3"
+    filename "music\hl2_intro.mp3"
+  }
+  file
+  {
+    filenumber 47
+    fromgame 1
+    subdirindex 0
+    short "hl2_song0.mp3"
+    filename "music\hl2_song0.mp3"
+  }
+  file
+  {
+    filenumber 48
+    fromgame 1
+    subdirindex 0
+    short "hl2_song1.mp3"
+    filename "music\hl2_song1.mp3"
+  }
+  file
+  {
+    filenumber 49
+    fromgame 1
+    subdirindex 0
+    short "hl2_song10.mp3"
+    filename "music\hl2_song10.mp3"
+  }
+  file
+  {
+    filenumber 50
+    fromgame 1
+    subdirindex 0
+    short "hl2_song11.mp3"
+    filename "music\hl2_song11.mp3"
+  }
+  file
+  {
+    filenumber 51
+    fromgame 1
+    subdirindex 0
+    short "hl2_song12_long.mp3"
+    filename "music\hl2_song12_long.mp3"
+  }
+  file
+  {
+    filenumber 52
+    fromgame 1
+    subdirindex 0
+    short "hl2_song13.mp3"
+    filename "music\hl2_song13.mp3"
+  }
+  file
+  {
+    filenumber 53
+    fromgame 1
+    subdirindex 0
+    short "hl2_song14.mp3"
+    filename "music\hl2_song14.mp3"
+  }
+  file
+  {
+    filenumber 54
+    fromgame 1
+    subdirindex 0
+    short "hl2_song15.mp3"
+    filename "music\hl2_song15.mp3"
+  }
+  file
+  {
+    filenumber 55
+    fromgame 1
+    subdirindex 0
+    short "hl2_song16.mp3"
+    filename "music\hl2_song16.mp3"
+  }
+  file
+  {
+    filenumber 56
+    fromgame 1
+    subdirindex 0
+    short "hl2_song17.mp3"
+    filename "music\hl2_song17.mp3"
+  }
+  file
+  {
+    filenumber 57
+    fromgame 1
+    subdirindex 0
+    short "hl2_song19.mp3"
+    filename "music\hl2_song19.mp3"
+  }
+  file
+  {
+    filenumber 58
+    fromgame 1
+    subdirindex 0
+    short "hl2_song2.mp3"
+    filename "music\hl2_song2.mp3"
+  }
+  file
+  {
+    filenumber 59
+    fromgame 1
+    subdirindex 0
+    short "hl2_song20_submix0.mp3"
+    filename "music\hl2_song20_submix0.mp3"
+  }
+  file
+  {
+    filenumber 60
+    fromgame 1
+    subdirindex 0
+    short "hl2_song20_submix4.mp3"
+    filename "music\hl2_song20_submix4.mp3"
+  }
+  file
+  {
+    filenumber 61
+    fromgame 1
+    subdirindex 0
+    short "hl2_song23_suitsong3.mp3"
+    filename "music\hl2_song23_suitsong3.mp3"
+  }
+  file
+  {
+    filenumber 62
+    fromgame 1
+    subdirindex 0
+    short "hl2_song25_teleporter.mp3"
+    filename "music\hl2_song25_teleporter.mp3"
+  }
+  file
+  {
+    filenumber 63
+    fromgame 1
+    subdirindex 0
+    short "hl2_song26.mp3"
+    filename "music\hl2_song26.mp3"
+  }
+  file
+  {
+    filenumber 64
+    fromgame 1
+    subdirindex 0
+    short "hl2_song26_trainstation1.mp3"
+    filename "music\hl2_song26_trainstation1.mp3"
+  }
+  file
+  {
+    filenumber 65
+    fromgame 1
+    subdirindex 0
+    short "hl2_song27_trainstation2.mp3"
+    filename "music\hl2_song27_trainstation2.mp3"
+  }
+  file
+  {
+    filenumber 66
+    fromgame 1
+    subdirindex 0
+    short "hl2_song28.mp3"
+    filename "music\hl2_song28.mp3"
+  }
+  file
+  {
+    filenumber 67
+    fromgame 1
+    subdirindex 0
+    short "hl2_song29.mp3"
+    filename "music\hl2_song29.mp3"
+  }
+  file
+  {
+    filenumber 68
+    fromgame 1
+    subdirindex 0
+    short "hl2_song3.mp3"
+    filename "music\hl2_song3.mp3"
+  }
+  file
+  {
+    filenumber 69
+    fromgame 1
+    subdirindex 0
+    short "hl2_song30.mp3"
+    filename "music\hl2_song30.mp3"
+  }
+  file
+  {
+    filenumber 70
+    fromgame 1
+    subdirindex 0
+    short "hl2_song31.mp3"
+    filename "music\hl2_song31.mp3"
+  }
+  file
+  {
+    filenumber 71
+    fromgame 1
+    subdirindex 0
+    short "hl2_song32.mp3"
+    filename "music\hl2_song32.mp3"
+  }
+  file
+  {
+    filenumber 72
+    fromgame 1
+    subdirindex 0
+    short "hl2_song33.mp3"
+    filename "music\hl2_song33.mp3"
+  }
+  file
+  {
+    filenumber 73
+    fromgame 1
+    subdirindex 0
+    short "hl2_song4.mp3"
+    filename "music\hl2_song4.mp3"
+  }
+  file
+  {
+    filenumber 74
+    fromgame 1
+    subdirindex 0
+    short "hl2_song6.mp3"
+    filename "music\hl2_song6.mp3"
+  }
+  file
+  {
+    filenumber 75
+    fromgame 1
+    subdirindex 0
+    short "hl2_song7.mp3"
+    filename "music\hl2_song7.mp3"
+  }
+  file
+  {
+    filenumber 76
+    fromgame 1
+    subdirindex 0
+    short "hl2_song8.mp3"
+    filename "music\hl2_song8.mp3"
+  }
+  file
+  {
+    filenumber 77
+    fromgame 1
+    subdirindex 0
+    short "radio1.mp3"
+    filename "music\radio1.mp3"
+  }
+  file
+  {
+    filenumber 78
+    fromgame 1
+    subdirindex 0
+    short "ravenholm_1.mp3"
+    filename "music\ravenholm_1.mp3"
+  }
+  file
+  {
+    filenumber 79
+    fromgame 1
+    subdirindex 0
+    short "hl1_stinger_song16.mp3"
+    filename "music\stingers\hl1_stinger_song16.mp3"
+  }
+  file
+  {
+    filenumber 80
+    fromgame 1
+    subdirindex 0
+    short "hl1_stinger_song27.mp3"
+    filename "music\stingers\hl1_stinger_song27.mp3"
+  }
+  file
+  {
+    filenumber 81
+    fromgame 1
+    subdirindex 0
+    short "hl1_stinger_song28.mp3"
+    filename "music\stingers\hl1_stinger_song28.mp3"
+  }
+  file
+  {
+    filenumber 82
+    fromgame 1
+    subdirindex 0
+    short "hl1_stinger_song7.mp3"
+    filename "music\stingers\hl1_stinger_song7.mp3"
+  }
+  file
+  {
+    filenumber 83
+    fromgame 1
+    subdirindex 0
+    short "hl1_stinger_song8.mp3"
+    filename "music\stingers\hl1_stinger_song8.mp3"
+  }
+  file
+  {
+    filenumber 84
+    fromgame 1
+    subdirindex 0
+    short "half-life01.mp3"
+    filename "music\half-life01.mp3"
+  }
+  file
+  {
+    filenumber 85
+    fromgame 1
+    subdirindex 0
+    short "half-life02.mp3"
+    filename "music\half-life02.mp3"
+  }
+  file
+  {
+    filenumber 86
+    fromgame 1
+    subdirindex 0
+    short "half-life03.mp3"
+    filename "music\half-life03.mp3"
+  }
+  file
+  {
+    filenumber 87
+    fromgame 1
+    subdirindex 0
+    short "half-life04.mp3"
+    filename "music\half-life04.mp3"
+  }
+  file
+  {
+    filenumber 88
+    fromgame 1
+    subdirindex 0
+    short "half-life05.mp3"
+    filename "music\half-life05.mp3"
+  }
+  file
+  {
+    filenumber 89
+    fromgame 1
+    subdirindex 0
+    short "half-life06.mp3"
+    filename "music\half-life06.mp3"
+  }
+  file
+  {
+    filenumber 90
+    fromgame 1
+    subdirindex 0
+    short "half-life07.mp3"
+    filename "music\half-life07.mp3"
+  }
+  file
+  {
+    filenumber 91
+    fromgame 1
+    subdirindex 0
+    short "half-life08.mp3"
+    filename "music\half-life08.mp3"
+  }
+  file
+  {
+    filenumber 92
+    fromgame 1
+    subdirindex 0
+    short "half-life09.mp3"
+    filename "music\half-life09.mp3"
+  }
+  file
+  {
+    filenumber 93
+    fromgame 1
+    subdirindex 0
+    short "half-life10.mp3"
+    filename "music\half-life10.mp3"
+  }
+  file
+  {
+    filenumber 94
+    fromgame 1
+    subdirindex 0
+    short "half-life11.mp3"
+    filename "music\half-life11.mp3"
+  }
+  file
+  {
+    filenumber 95
+    fromgame 1
+    subdirindex 0
+    short "half-life12.mp3"
+    filename "music\half-life12.mp3"
+  }
+  file
+  {
+    filenumber 96
+    fromgame 1
+    subdirindex 0
+    short "half-life13.mp3"
+    filename "music\half-life13.mp3"
+  }
+  file
+  {
+    filenumber 97
+    fromgame 1
+    subdirindex 0
+    short "half-life14.mp3"
+    filename "music\half-life14.mp3"
+  }
+  file
+  {
+    filenumber 98
+    fromgame 1
+    subdirindex 0
+    short "half-life15.mp3"
+    filename "music\half-life15.mp3"
+  }
+  file
+  {
+    filenumber 99
+    fromgame 1
+    subdirindex 0
+    short "half-life16.mp3"
+    filename "music\half-life16.mp3"
+  }
+  file
+  {
+    filenumber 100
+    fromgame 1
+    subdirindex 0
+    short "half-life17.mp3"
+    filename "music\half-life17.mp3"
+  }
+  file
+  {
+    filenumber 101
+    fromgame 1
+    subdirindex 0
+    short "prospero01_0.mp3"
+    filename "music\prospero01_0.mp3"
+  }
+  file
+  {
+    filenumber 102
+    fromgame 1
+    subdirindex 0
+    short "prospero01_a.mp3"
+    filename "music\prospero01_a.mp3"
+  }
+  file
+  {
+    filenumber 103
+    fromgame 1
+    subdirindex 0
+    short "prospero01_b.mp3"
+    filename "music\prospero01_b.mp3"
+  }
+  file
+  {
+    filenumber 104
+    fromgame 1
+    subdirindex 0
+    short "prospero01_c.mp3"
+    filename "music\prospero01_c.mp3"
+  }
+  file
+  {
+    filenumber 105
+    fromgame 1
+    subdirindex 0
+    short "prospero01_d.mp3"
+    filename "music\prospero01_d.mp3"
+  }
+  file
+  {
+    filenumber 106
+    fromgame 1
+    subdirindex 0
+    short "prospero02.mp3"
+    filename "music\prospero02.mp3"
+  }
+  file
+  {
+    filenumber 107
+    fromgame 1
+    subdirindex 0
+    short "prospero03.mp3"
+    filename "music\prospero03.mp3"
+  }
+  file
+  {
+    filenumber 108
+    fromgame 1
+    subdirindex 0
+    short "prospero04.mp3"
+    filename "music\prospero04.mp3"
+  }
+  file
+  {
+    filenumber 109
+    fromgame 1
+    subdirindex 0
+    short "prospero05.mp3"
+    filename "music\prospero05.mp3"
+  }
+  file
+  {
+    filenumber 110
+    fromgame 1
+    subdirindex 0
+    short "suspense01.mp3"
+    filename "music\suspense01.mp3"
+  }
+  file
+  {
+    filenumber 111
+    fromgame 1
+    subdirindex 0
+    short "suspense02.mp3"
+    filename "music\suspense02.mp3"
+  }
+  file
+  {
+    filenumber 112
+    fromgame 1
+    subdirindex 0
+    short "suspense03.mp3"
+    filename "music\suspense03.mp3"
+  }
+  file
+  {
+    filenumber 113
+    fromgame 1
+    subdirindex 0
+    short "suspense05.mp3"
+    filename "music\suspense05.mp3"
+  }
+  file
+  {
+    filenumber 114
+    fromgame 1
+    subdirindex 0
+    short "suspense07.mp3"
+    filename "music\suspense07.mp3"
+  }
+  file
+  {
+    filenumber 115
+    fromgame 1
+    subdirindex 0
+    short "gamestartup1.mp3"
+    filename "ui\gamestartup1.mp3"
+  }
+  file
+  {
+    filenumber 116
+    fromgame 1
+    subdirindex 0
+    short "gamestartup2.mp3"
+    filename "ui\gamestartup2.mp3"
+  }
+  file
+  {
+    filenumber 117
+    fromgame 1
+    subdirindex 0
+    short "gamestartup3.mp3"
+    filename "ui\gamestartup3.mp3"
+  }
+  file
+  {
+    filenumber 118
+    fromgame 1
+    subdirindex 0
+    short "gamestartup4.mp3"
+    filename "ui\gamestartup4.mp3"
+  }
+  file
+  {
+    filenumber 119
+    fromgame 1
+    subdirindex 0
+    short "gamestartup5.mp3"
+    filename "ui\gamestartup5.mp3"
+  }
+  file
+  {
+    filenumber 120
+    fromfs 1
+    subdirindex 1
+    short "1-01.mp3"
+    filename "1-01. full moon full life.mp3"
+  }
+  file
+  {
+    filenumber 121
+    fromfs 1
+    subdirindex 1
+    short "1-10.mp3"
+    filename "1-10. when the moon's reaching out stars -reload-.mp3"
+  }
+  file
+  {
+    filenumber 122
+    fromfs 1
+    subdirindex 1
+    short "1-11.mp3"
+    filename "1-11. iwatodai dorm -reload-.mp3"
+  }
+  file
+  {
+    filenumber 123
+    fromfs 1
+    subdirindex 1
+    short "1-14.mp3"
+    filename "1-14. mass destruction -reload-.mp3"
+  }
+  file
+  {
+    filenumber 124
+    fromfs 1
+    subdirindex 1
+    short "1-16.mp3"
+    filename "1-16. color your night.mp3"
+  }
+  file
+  {
+    filenumber 125
+    fromfs 1
+    subdirindex 1
+    short "1-30.mp3"
+    filename "1-30. it’s going down now.mp3"
+  }
+  file
+  {
+    filenumber 126
+    fromfs 1
+    subdirindex 2
+    short "04.mp3"
+    filename "04. ashley's song.mp3"
+  }
+  file
+  {
+    filenumber 127
+    fromfs 1
+    subdirindex 2
+    short "116 Ashley's Song (English).mp3"
+    filename "116 ashley's song (english).mp3"
+  }
+  file
+  {
+    filenumber 128
+    fromfs 1
+    subdirindex 2
+    short "Anamanaguchi Feat.mp3"
+    filename "anamanaguchi feat. hatsune miku - miku (japanese version).mp3"
+  }
+  file
+  {
+    filenumber 129
+    fromfs 1
+    subdirindex 2
+    short "Bayonetta - Fly Me To The Moon (Climax).mp3"
+    filename "bayonetta - fly me to the moon (climax).mp3"
+  }
+  file
+  {
+    filenumber 130
+    fromfs 1
+    subdirindex 2
+    short "1-01.mp3"
+    filename "bayonetta original soundtrack (2009)\1-01. opening demo.mp3"
+  }
+  file
+  {
+    filenumber 131
+    fromfs 1
+    subdirindex 2
+    short "1-02.mp3"
+    filename "bayonetta original soundtrack (2009)\1-02. one of a kind.mp3"
+  }
+  file
+  {
+    filenumber 132
+    fromfs 1
+    subdirindex 2
+    short "1-03.mp3"
+    filename "bayonetta original soundtrack (2009)\1-03. ev01 the beginning.mp3"
+  }
+  file
+  {
+    filenumber 133
+    fromfs 1
+    subdirindex 2
+    short "1-04.mp3"
+    filename "bayonetta original soundtrack (2009)\1-04. gm01 chapter start.mp3"
+  }
+  file
+  {
+    filenumber 134
+    fromfs 1
+    subdirindex 2
+    short "1-05.mp3"
+    filename "bayonetta original soundtrack (2009)\1-05. ev02-1 prologue.mp3"
+  }
+  file
+  {
+    filenumber 135
+    fromfs 1
+    subdirindex 2
+    short "1-06.mp3"
+    filename "bayonetta original soundtrack (2009)\1-06. ev02-2 the angels descend a.mp3"
+  }
+  file
+  {
+    filenumber 136
+    fromfs 1
+    subdirindex 2
+    short "1-07.mp3"
+    filename "bayonetta original soundtrack (2009)\1-07. riders of the light.mp3"
+  }
+  file
+  {
+    filenumber 137
+    fromfs 1
+    subdirindex 2
+    short "1-08.mp3"
+    filename "bayonetta original soundtrack (2009)\1-08. fly me to the moon (8 climax mix).mp3"
+  }
+  file
+  {
+    filenumber 138
+    fromfs 1
+    subdirindex 2
+    short "1-09.mp3"
+    filename "bayonetta original soundtrack (2009)\1-09. ev03-1 drive with enzo.mp3"
+  }
+  file
+  {
+    filenumber 139
+    fromfs 1
+    subdirindex 2
+    short "1-10.mp3"
+    filename "bayonetta original soundtrack (2009)\1-10. ev03-2 jeanne appears.mp3"
+  }
+  file
+  {
+    filenumber 140
+    fromfs 1
+    subdirindex 2
+    short "1-11.mp3"
+    filename "bayonetta original soundtrack (2009)\1-11. st01 the crashing military transport.mp3"
+  }
+  file
+  {
+    filenumber 141
+    fromfs 1
+    subdirindex 2
+    short "1-12.mp3"
+    filename "bayonetta original soundtrack (2009)\1-12. ev04-1 dance with jeanne.mp3"
+  }
+  file
+  {
+    filenumber 142
+    fromfs 1
+    subdirindex 2
+    short "1-13.mp3"
+    filename "bayonetta original soundtrack (2009)\1-13. ev04-2 signs of unrest.mp3"
+  }
+  file
+  {
+    filenumber 143
+    fromfs 1
+    subdirindex 2
+    short "1-14.mp3"
+    filename "bayonetta original soundtrack (2009)\1-14. the gates of hell.mp3"
+  }
+  file
+  {
+    filenumber 144
+    fromfs 1
+    subdirindex 2
+    short "1-15.mp3"
+    filename "bayonetta original soundtrack (2009)\1-15. ev05 scarborough fair equipped.mp3"
+  }
+  file
+  {
+    filenumber 145
+    fromfs 1
+    subdirindex 2
+    short "1-16.mp3"
+    filename "bayonetta original soundtrack (2009)\1-16. st02 vigrid station platform.mp3"
+  }
+  file
+  {
+    filenumber 146
+    fromfs 1
+    subdirindex 2
+    short "1-17.mp3"
+    filename "bayonetta original soundtrack (2009)\1-17. theme of bayonetta mysterious destiny.mp3"
+  }
+  file
+  {
+    filenumber 147
+    fromfs 1
+    subdirindex 2
+    short "1-18.mp3"
+    filename "bayonetta original soundtrack (2009)\1-18. st03 vigrid town area.mp3"
+  }
+  file
+  {
+    filenumber 148
+    fromfs 1
+    subdirindex 2
+    short "1-19.mp3"
+    filename "bayonetta original soundtrack (2009)\1-19. ev06-1 the angels descend b.mp3"
+  }
+  file
+  {
+    filenumber 149
+    fromfs 1
+    subdirindex 2
+    short "1-20.mp3"
+    filename "bayonetta original soundtrack (2009)\1-20. ev06-2 bayonetta ready to fight a.mp3"
+  }
+  file
+  {
+    filenumber 150
+    fromfs 1
+    subdirindex 2
+    short "1-21.mp3"
+    filename "bayonetta original soundtrack (2009)\1-21. the heavies.mp3"
+  }
+  file
+  {
+    filenumber 151
+    fromfs 1
+    subdirindex 2
+    short "1-22.mp3"
+    filename "bayonetta original soundtrack (2009)\1-22. infernal demon summoning.mp3"
+  }
+  file
+  {
+    filenumber 152
+    fromfs 1
+    subdirindex 2
+    short "1-23.mp3"
+    filename "bayonetta original soundtrack (2009)\1-23. fortitudo in labors and dangers (movement 1).mp3"
+  }
+  file
+  {
+    filenumber 153
+    fromfs 1
+    subdirindex 2
+    short "1-24.mp3"
+    filename "bayonetta original soundtrack (2009)\1-24. gm02 chapter clear.mp3"
+  }
+  file
+  {
+    filenumber 154
+    fromfs 1
+    subdirindex 2
+    short "1-25.mp3"
+    filename "bayonetta original soundtrack (2009)\1-25. ev07-1 jeanne bike action.mp3"
+  }
+  file
+  {
+    filenumber 155
+    fromfs 1
+    subdirindex 2
+    short "1-26.mp3"
+    filename "bayonetta original soundtrack (2009)\1-26. ev07-2 conversation with jeanne.mp3"
+  }
+  file
+  {
+    filenumber 156
+    fromfs 1
+    subdirindex 2
+    short "1-27.mp3"
+    filename "bayonetta original soundtrack (2009)\1-27. ev07-3 in the battleground inside the memories a.mp3"
+  }
+  file
+  {
+    filenumber 157
+    fromfs 1
+    subdirindex 2
+    short "1-28.mp3"
+    filename "bayonetta original soundtrack (2009)\1-28. battle for the umbra throne.mp3"
+  }
+  file
+  {
+    filenumber 158
+    fromfs 1
+    subdirindex 2
+    short "1-29.mp3"
+    filename "bayonetta original soundtrack (2009)\1-29. ev08 the angels descend c.mp3"
+  }
+  file
+  {
+    filenumber 159
+    fromfs 1
+    subdirindex 2
+    short "1-30.mp3"
+    filename "bayonetta original soundtrack (2009)\1-30. ev09-1 luka appears.mp3"
+  }
+  file
+  {
+    filenumber 160
+    fromfs 1
+    subdirindex 2
+    short "1-31.mp3"
+    filename "bayonetta original soundtrack (2009)\1-31. ev09-2 conversation with luka a.mp3"
+  }
+  file
+  {
+    filenumber 161
+    fromfs 1
+    subdirindex 2
+    short "1-32.mp3"
+    filename "bayonetta original soundtrack (2009)\1-32. ev09-3 conversation with luka b.mp3"
+  }
+  file
+  {
+    filenumber 162
+    fromfs 1
+    subdirindex 2
+    short "1-33.mp3"
+    filename "bayonetta original soundtrack (2009)\1-33. ev09-4 the angels descend d.mp3"
+  }
+  file
+  {
+    filenumber 163
+    fromfs 1
+    subdirindex 2
+    short "1-34.mp3"
+    filename "bayonetta original soundtrack (2009)\1-34. ev09-5 bayonetta ready to fight b.mp3"
+  }
+  file
+  {
+    filenumber 164
+    fromfs 1
+    subdirindex 2
+    short "1-35.mp3"
+    filename "bayonetta original soundtrack (2009)\1-35. pinch!.mp3"
+  }
+  file
+  {
+    filenumber 165
+    fromfs 1
+    subdirindex 2
+    short "1-36.mp3"
+    filename "bayonetta original soundtrack (2009)\1-36. ev10-1 the mysterious girl, cereza appears.mp3"
+  }
+  file
+  {
+    filenumber 166
+    fromfs 1
+    subdirindex 2
+    short "1-37.mp3"
+    filename "bayonetta original soundtrack (2009)\1-37. ev10-2 fortitudo, appearing.mp3"
+  }
+  file
+  {
+    filenumber 167
+    fromfs 1
+    subdirindex 2
+    short "1-38.mp3"
+    filename "bayonetta original soundtrack (2009)\1-38. ev11 conversation with fortitudo.mp3"
+  }
+  file
+  {
+    filenumber 168
+    fromfs 1
+    subdirindex 2
+    short "2-01.mp3"
+    filename "bayonetta original soundtrack (2009)\2-01. st04 town area swallowed by lava.mp3"
+  }
+  file
+  {
+    filenumber 169
+    fromfs 1
+    subdirindex 2
+    short "2-02.mp3"
+    filename "bayonetta original soundtrack (2009)\2-02. ev12-1 in the nick of time!.mp3"
+  }
+  file
+  {
+    filenumber 170
+    fromfs 1
+    subdirindex 2
+    short "2-03.mp3"
+    filename "bayonetta original soundtrack (2009)\2-03. ev12-2 action!.mp3"
+  }
+  file
+  {
+    filenumber 171
+    fromfs 1
+    subdirindex 2
+    short "2-04.mp3"
+    filename "bayonetta original soundtrack (2009)\2-04. st05 underground cave.mp3"
+  }
+  file
+  {
+    filenumber 172
+    fromfs 1
+    subdirindex 2
+    short "2-05.mp3"
+    filename "bayonetta original soundtrack (2009)\2-05. paradiso - paradise of light.mp3"
+  }
+  file
+  {
+    filenumber 173
+    fromfs 1
+    subdirindex 2
+    short "2-06.mp3"
+    filename "bayonetta original soundtrack (2009)\2-06. god's hymns a.mp3"
+  }
+  file
+  {
+    filenumber 174
+    fromfs 1
+    subdirindex 2
+    short "2-07.mp3"
+    filename "bayonetta original soundtrack (2009)\2-07. god's hymns b.mp3"
+  }
+  file
+  {
+    filenumber 175
+    fromfs 1
+    subdirindex 2
+    short "2-08.mp3"
+    filename "bayonetta original soundtrack (2009)\2-08. ev13 fortitudo, again.mp3"
+  }
+  file
+  {
+    filenumber 176
+    fromfs 1
+    subdirindex 2
+    short "2-09.mp3"
+    filename "bayonetta original soundtrack (2009)\2-09. fortitudo - in labors and dangers.mp3"
+  }
+  file
+  {
+    filenumber 177
+    fromfs 1
+    subdirindex 2
+    short "2-10.mp3"
+    filename "bayonetta original soundtrack (2009)\2-10. climatic battle.mp3"
+  }
+  file
+  {
+    filenumber 178
+    fromfs 1
+    subdirindex 2
+    short "2-11.mp3"
+    filename "bayonetta original soundtrack (2009)\2-11. let’s hit the climax!.mp3"
+  }
+  file
+  {
+    filenumber 179
+    fromfs 1
+    subdirindex 2
+    short "2-12.mp3"
+    filename "bayonetta original soundtrack (2009)\2-12. st06 moonlight valley.mp3"
+  }
+  file
+  {
+    filenumber 180
+    fromfs 1
+    subdirindex 2
+    short "2-13.mp3"
+    filename "bayonetta original soundtrack (2009)\2-13. ev14-1 confrontation with jeanne a.mp3"
+  }
+  file
+  {
+    filenumber 181
+    fromfs 1
+    subdirindex 2
+    short "2-14.mp3"
+    filename "bayonetta original soundtrack (2009)\2-14. ev14-2 confrontation with jeanne b.mp3"
+  }
+  file
+  {
+    filenumber 182
+    fromfs 1
+    subdirindex 2
+    short "2-15.mp3"
+    filename "bayonetta original soundtrack (2009)\2-15. red & black.mp3"
+  }
+  file
+  {
+    filenumber 183
+    fromfs 1
+    subdirindex 2
+    short "2-16.mp3"
+    filename "bayonetta original soundtrack (2009)\2-16. st07 the witches' trading grounds.mp3"
+  }
+  file
+  {
+    filenumber 184
+    fromfs 1
+    subdirindex 2
+    short "2-17.mp3"
+    filename "bayonetta original soundtrack (2009)\2-17. ev15 cereza.mp3"
+  }
+  file
+  {
+    filenumber 185
+    fromfs 1
+    subdirindex 2
+    short "2-18.mp3"
+    filename "bayonetta original soundtrack (2009)\2-18. first love.mp3"
+  }
+  file
+  {
+    filenumber 186
+    fromfs 1
+    subdirindex 2
+    short "2-19.mp3"
+    filename "bayonetta original soundtrack (2009)\2-19. heartbreak.mp3"
+  }
+  file
+  {
+    filenumber 187
+    fromfs 1
+    subdirindex 2
+    short "2-20.mp3"
+    filename "bayonetta original soundtrack (2009)\2-20. ev16 sexy battle.mp3"
+  }
+  file
+  {
+    filenumber 188
+    fromfs 1
+    subdirindex 2
+    short "2-21.mp3"
+    filename "bayonetta original soundtrack (2009)\2-21. ev17 cunning.mp3"
+  }
+  file
+  {
+    filenumber 189
+    fromfs 1
+    subdirindex 2
+    short "2-22.mp3"
+    filename "bayonetta original soundtrack (2009)\2-22. ev18 temperantia appears.mp3"
+  }
+  file
+  {
+    filenumber 190
+    fromfs 1
+    subdirindex 2
+    short "2-23.mp3"
+    filename "bayonetta original soundtrack (2009)\2-23. temperantia - in foregoing pleasures.mp3"
+  }
+  file
+  {
+    filenumber 191
+    fromfs 1
+    subdirindex 2
+    short "2-24.mp3"
+    filename "bayonetta original soundtrack (2009)\2-24. splash wave (8 climax mix).mp3"
+  }
+  file
+  {
+    filenumber 192
+    fromfs 1
+    subdirindex 2
+    short "2-25.mp3"
+    filename "bayonetta original soundtrack (2009)\2-25. after burner (8 climax mix).mp3"
+  }
+  file
+  {
+    filenumber 193
+    fromfs 1
+    subdirindex 2
+    short "2-26.mp3"
+    filename "bayonetta original soundtrack (2009)\2-26. magnificent 7 (8 climax mix).mp3"
+  }
+  file
+  {
+    filenumber 194
+    fromfs 1
+    subdirindex 2
+    short "3-01.mp3"
+    filename "bayonetta original soundtrack (2009)\3-01. st08 paradiso - graveyard of remembrance of time.mp3"
+  }
+  file
+  {
+    filenumber 195
+    fromfs 1
+    subdirindex 2
+    short "3-02.mp3"
+    filename "bayonetta original soundtrack (2009)\3-02. ev19-1 in the battleground inside the memories b.mp3"
+  }
+  file
+  {
+    filenumber 196
+    fromfs 1
+    subdirindex 2
+    short "3-03.mp3"
+    filename "bayonetta original soundtrack (2009)\3-03. ev19-2 in the battleground inside the memories, attack.mp3"
+  }
+  file
+  {
+    filenumber 197
+    fromfs 1
+    subdirindex 2
+    short "3-04.mp3"
+    filename "bayonetta original soundtrack (2009)\3-04. st09 paradiso - sea of stars.mp3"
+  }
+  file
+  {
+    filenumber 198
+    fromfs 1
+    subdirindex 2
+    short "3-05.mp3"
+    filename "bayonetta original soundtrack (2009)\3-05. ev20 luka glimpses bayonetta's battle.mp3"
+  }
+  file
+  {
+    filenumber 199
+    fromfs 1
+    subdirindex 2
+    short "3-06.mp3"
+    filename "bayonetta original soundtrack (2009)\3-06. ev21-1 iustitia appears a.mp3"
+  }
+  file
+  {
+    filenumber 200
+    fromfs 1
+    subdirindex 2
+    short "3-07.mp3"
+    filename "bayonetta original soundtrack (2009)\3-07. ev21-2 luka's wild idea a.mp3"
+  }
+  file
+  {
+    filenumber 201
+    fromfs 1
+    subdirindex 2
+    short "3-08.mp3"
+    filename "bayonetta original soundtrack (2009)\3-08. ev21-3 iustitia appears b.mp3"
+  }
+  file
+  {
+    filenumber 202
+    fromfs 1
+    subdirindex 2
+    short "3-09.mp3"
+    filename "bayonetta original soundtrack (2009)\3-09. ev21-4 iustitia appears c.mp3"
+  }
+  file
+  {
+    filenumber 203
+    fromfs 1
+    subdirindex 2
+    short "3-10.mp3"
+    filename "bayonetta original soundtrack (2009)\3-10. iustitia - in giving every man his due.mp3"
+  }
+  file
+  {
+    filenumber 204
+    fromfs 1
+    subdirindex 2
+    short "3-11.mp3"
+    filename "bayonetta original soundtrack (2009)\3-11. ev22-1 at the airbase, luka's speech a.mp3"
+  }
+  file
+  {
+    filenumber 205
+    fromfs 1
+    subdirindex 2
+    short "3-12.mp3"
+    filename "bayonetta original soundtrack (2009)\3-12. ev22-2 eyes of the world.mp3"
+  }
+  file
+  {
+    filenumber 206
+    fromfs 1
+    subdirindex 2
+    short "3-13.mp3"
+    filename "bayonetta original soundtrack (2009)\3-13. ev22-3 at the airbase, luka's speech b.mp3"
+  }
+  file
+  {
+    filenumber 207
+    fromfs 1
+    subdirindex 2
+    short "3-14.mp3"
+    filename "bayonetta original soundtrack (2009)\3-14. ev22-4 at the airbase, attack.mp3"
+  }
+  file
+  {
+    filenumber 208
+    fromfs 1
+    subdirindex 2
+    short "3-15.mp3"
+    filename "bayonetta original soundtrack (2009)\3-15. st10 the giant military transport, valkyrie.mp3"
+  }
+  file
+  {
+    filenumber 209
+    fromfs 1
+    subdirindex 2
+    short "3-16.mp3"
+    filename "bayonetta original soundtrack (2009)\3-16. ev23-1 confrontation with jeanne c.mp3"
+  }
+  file
+  {
+    filenumber 210
+    fromfs 1
+    subdirindex 2
+    short "3-17.mp3"
+    filename "bayonetta original soundtrack (2009)\3-17. ev23-2 the crashing valkyrie.mp3"
+  }
+  file
+  {
+    filenumber 211
+    fromfs 1
+    subdirindex 2
+    short "3-18.mp3"
+    filename "bayonetta original soundtrack (2009)\3-18. st11 save cereza!.mp3"
+  }
+  file
+  {
+    filenumber 212
+    fromfs 1
+    subdirindex 2
+    short "3-19.mp3"
+    filename "bayonetta original soundtrack (2009)\3-19. ev24-1 sapientia appears a.mp3"
+  }
+  file
+  {
+    filenumber 213
+    fromfs 1
+    subdirindex 2
+    short "3-20.mp3"
+    filename "bayonetta original soundtrack (2009)\3-20. ev24-2 sapientia appears b.mp3"
+  }
+  file
+  {
+    filenumber 214
+    fromfs 1
+    subdirindex 2
+    short "3-21.mp3"
+    filename "bayonetta original soundtrack (2009)\3-21. sapientia - in the choice between good and evil.mp3"
+  }
+  file
+  {
+    filenumber 215
+    fromfs 1
+    subdirindex 2
+    short "3-22.mp3"
+    filename "bayonetta original soundtrack (2009)\3-22. ev25 luka's wild idea b.mp3"
+  }
+  file
+  {
+    filenumber 216
+    fromfs 1
+    subdirindex 2
+    short "3-23.mp3"
+    filename "bayonetta original soundtrack (2009)\3-23. space harrier (8 climax mix).mp3"
+  }
+  file
+  {
+    filenumber 217
+    fromfs 1
+    subdirindex 2
+    short "3-24.mp3"
+    filename "bayonetta original soundtrack (2009)\3-24. wiwi jumbo (heaven sent mix).mp3"
+  }
+  file
+  {
+    filenumber 218
+    fromfs 1
+    subdirindex 2
+    short "3-25.mp3"
+    filename "bayonetta original soundtrack (2009)\3-25. ev26-1 before the final battle with jeanne a.mp3"
+  }
+  file
+  {
+    filenumber 219
+    fromfs 1
+    subdirindex 2
+    short "3-26.mp3"
+    filename "bayonetta original soundtrack (2009)\3-26. ev26-2 before the final battle with jeanne b.mp3"
+  }
+  file
+  {
+    filenumber 220
+    fromfs 1
+    subdirindex 2
+    short "3-27.mp3"
+    filename "bayonetta original soundtrack (2009)\3-27. ev26-3 before the final battle with jeanne c.mp3"
+  }
+  file
+  {
+    filenumber 221
+    fromfs 1
+    subdirindex 2
+    short "3-28.mp3"
+    filename "bayonetta original soundtrack (2009)\3-28. blood & darkness.mp3"
+  }
+  file
+  {
+    filenumber 222
+    fromfs 1
+    subdirindex 2
+    short "3-29.mp3"
+    filename "bayonetta original soundtrack (2009)\3-29. ev27-1 jeanne a.mp3"
+  }
+  file
+  {
+    filenumber 223
+    fromfs 1
+    subdirindex 2
+    short "3-30.mp3"
+    filename "bayonetta original soundtrack (2009)\3-30. ev27-2 truth.mp3"
+  }
+  file
+  {
+    filenumber 224
+    fromfs 1
+    subdirindex 2
+    short "3-31.mp3"
+    filename "bayonetta original soundtrack (2009)\3-31. ev27-3 jeanne b.mp3"
+  }
+  file
+  {
+    filenumber 225
+    fromfs 1
+    subdirindex 2
+    short "3-32.mp3"
+    filename "bayonetta original soundtrack (2009)\3-32. ev27-4 miraculous return!.mp3"
+  }
+  file
+  {
+    filenumber 226
+    fromfs 1
+    subdirindex 2
+    short "3-33.mp3"
+    filename "bayonetta original soundtrack (2009)\3-33. ev27-5 bayonetta and luka.mp3"
+  }
+  file
+  {
+    filenumber 227
+    fromfs 1
+    subdirindex 2
+    short "4-01.mp3"
+    filename "bayonetta original soundtrack (2009)\4-01. ev28 to the ithavoll building.mp3"
+  }
+  file
+  {
+    filenumber 228
+    fromfs 1
+    subdirindex 2
+    short "4-02.mp3"
+    filename "bayonetta original soundtrack (2009)\4-02. st12 ithavoll building lower floors.mp3"
+  }
+  file
+  {
+    filenumber 229
+    fromfs 1
+    subdirindex 2
+    short "4-03.mp3"
+    filename "bayonetta original soundtrack (2009)\4-03. st13 ithavoll building upper floors.mp3"
+  }
+  file
+  {
+    filenumber 230
+    fromfs 1
+    subdirindex 2
+    short "4-04.mp3"
+    filename "bayonetta original soundtrack (2009)\4-04. ev29-1 balder's speech a.mp3"
+  }
+  file
+  {
+    filenumber 231
+    fromfs 1
+    subdirindex 2
+    short "4-05.mp3"
+    filename "bayonetta original soundtrack (2009)\4-05. ev29-2 balder's speech b.mp3"
+  }
+  file
+  {
+    filenumber 232
+    fromfs 1
+    subdirindex 2
+    short "4-06.mp3"
+    filename "bayonetta original soundtrack (2009)\4-06. ev29-3 balder's speech c.mp3"
+  }
+  file
+  {
+    filenumber 233
+    fromfs 1
+    subdirindex 2
+    short "4-07.mp3"
+    filename "bayonetta original soundtrack (2009)\4-07. ev29-4 balder's speech d.mp3"
+  }
+  file
+  {
+    filenumber 234
+    fromfs 1
+    subdirindex 2
+    short "4-08.mp3"
+    filename "bayonetta original soundtrack (2009)\4-08. ev29-5 luka, deceased.mp3"
+  }
+  file
+  {
+    filenumber 235
+    fromfs 1
+    subdirindex 2
+    short "4-09.mp3"
+    filename "bayonetta original soundtrack (2009)\4-09. ev29-6 balder.mp3"
+  }
+  file
+  {
+    filenumber 236
+    fromfs 1
+    subdirindex 2
+    short "4-10.mp3"
+    filename "bayonetta original soundtrack (2009)\4-10. you may call me father.mp3"
+  }
+  file
+  {
+    filenumber 237
+    fromfs 1
+    subdirindex 2
+    short "4-11.mp3"
+    filename "bayonetta original soundtrack (2009)\4-11. ev30-1 the end of the journey.mp3"
+  }
+  file
+  {
+    filenumber 238
+    fromfs 1
+    subdirindex 2
+    short "4-12.mp3"
+    filename "bayonetta original soundtrack (2009)\4-12. ev30-2 bayonetta seized by the statue of god.mp3"
+  }
+  file
+  {
+    filenumber 239
+    fromfs 1
+    subdirindex 2
+    short "4-13.mp3"
+    filename "bayonetta original soundtrack (2009)\4-13. ev31-1 jeanne, to the space a.mp3"
+  }
+  file
+  {
+    filenumber 240
+    fromfs 1
+    subdirindex 2
+    short "4-14.mp3"
+    filename "bayonetta original soundtrack (2009)\4-14. ev31-2 jeanne, to the space b.mp3"
+  }
+  file
+  {
+    filenumber 241
+    fromfs 1
+    subdirindex 2
+    short "4-15.mp3"
+    filename "bayonetta original soundtrack (2009)\4-15. friend.mp3"
+  }
+  file
+  {
+    filenumber 242
+    fromfs 1
+    subdirindex 2
+    short "4-16.mp3"
+    filename "bayonetta original soundtrack (2009)\4-16. ev32 jeanne, deceased.mp3"
+  }
+  file
+  {
+    filenumber 243
+    fromfs 1
+    subdirindex 2
+    short "4-17.mp3"
+    filename "bayonetta original soundtrack (2009)\4-17. the greatest jubilee.mp3"
+  }
+  file
+  {
+    filenumber 244
+    fromfs 1
+    subdirindex 2
+    short "4-18.mp3"
+    filename "bayonetta original soundtrack (2009)\4-18. ev33 staff roll….mp3"
+  }
+  file
+  {
+    filenumber 245
+    fromfs 1
+    subdirindex 2
+    short "4-19.mp3"
+    filename "bayonetta original soundtrack (2009)\4-19. ev34 luka views the night sky.mp3"
+  }
+  file
+  {
+    filenumber 246
+    fromfs 1
+    subdirindex 2
+    short "4-20.mp3"
+    filename "bayonetta original soundtrack (2009)\4-20. ev35-1 epilogue.mp3"
+  }
+  file
+  {
+    filenumber 247
+    fromfs 1
+    subdirindex 2
+    short "4-21.mp3"
+    filename "bayonetta original soundtrack (2009)\4-21. ev35-2 romance.mp3"
+  }
+  file
+  {
+    filenumber 248
+    fromfs 1
+    subdirindex 2
+    short "4-22.mp3"
+    filename "bayonetta original soundtrack (2009)\4-22. let’s dance, boys!.mp3"
+  }
+  file
+  {
+    filenumber 249
+    fromfs 1
+    subdirindex 2
+    short "4-23.mp3"
+    filename "bayonetta original soundtrack (2009)\4-23. fly me to the moon.mp3"
+  }
+  file
+  {
+    filenumber 250
+    fromfs 1
+    subdirindex 2
+    short "4-24.mp3"
+    filename "bayonetta original soundtrack (2009)\4-24. memory.mp3"
+  }
+  file
+  {
+    filenumber 251
+    fromfs 1
+    subdirindex 2
+    short "5-01.mp3"
+    filename "bayonetta original soundtrack (2009)\5-01. magical sound shower  out run.mp3"
+  }
+  file
+  {
+    filenumber 252
+    fromfs 1
+    subdirindex 2
+    short "5-02.mp3"
+    filename "bayonetta original soundtrack (2009)\5-02. splash wave  out run.mp3"
+  }
+  file
+  {
+    filenumber 253
+    fromfs 1
+    subdirindex 2
+    short "5-03.mp3"
+    filename "bayonetta original soundtrack (2009)\5-03. after burner  after burner.mp3"
+  }
+  file
+  {
+    filenumber 254
+    fromfs 1
+    subdirindex 2
+    short "5-04.mp3"
+    filename "bayonetta original soundtrack (2009)\5-04. after burner  after burner ii.mp3"
+  }
+  file
+  {
+    filenumber 255
+    fromfs 1
+    subdirindex 2
+    short "5-05. After Burner With Melody Ver.mp3"
+    filename "bayonetta original soundtrack (2009)\5-05. after burner with melody ver.  after burner ii.mp3"
+  }
+  file
+  {
+    filenumber 256
+    fromfs 1
+    subdirindex 2
+    short "5-06.mp3"
+    filename "bayonetta original soundtrack (2009)\5-06. boss  fantasy zone.mp3"
+  }
+  file
+  {
+    filenumber 257
+    fromfs 1
+    subdirindex 2
+    short "5-07.mp3"
+    filename "bayonetta original soundtrack (2009)\5-07. theme  space harrier.mp3"
+  }
+  file
+  {
+    filenumber 258
+    fromfs 1
+    subdirindex 2
+    short "5-08.mp3"
+    filename "bayonetta original soundtrack (2009)\5-08. gm03 angel attack.mp3"
+  }
+  file
+  {
+    filenumber 259
+    fromfs 1
+    subdirindex 2
+    short "5-09.mp3"
+    filename "bayonetta original soundtrack (2009)\5-09. gm04 verse result jingle.mp3"
+  }
+  file
+  {
+    filenumber 260
+    fromfs 1
+    subdirindex 2
+    short "5-10.mp3"
+    filename "bayonetta original soundtrack (2009)\5-10. gm05 silver medal acquisition jingle.mp3"
+  }
+  file
+  {
+    filenumber 261
+    fromfs 1
+    subdirindex 2
+    short "5-11.mp3"
+    filename "bayonetta original soundtrack (2009)\5-11. gm06 gold medal acquisition jingle.mp3"
+  }
+  file
+  {
+    filenumber 262
+    fromfs 1
+    subdirindex 2
+    short "5-12.mp3"
+    filename "bayonetta original soundtrack (2009)\5-12. gm07 platinum medal acquisition jingle.mp3"
+  }
+  file
+  {
+    filenumber 263
+    fromfs 1
+    subdirindex 2
+    short "5-13.mp3"
+    filename "bayonetta original soundtrack (2009)\5-13. angelic hymns military march.mp3"
+  }
+  file
+  {
+    filenumber 264
+    fromfs 1
+    subdirindex 2
+    short "5-14.mp3"
+    filename "bayonetta original soundtrack (2009)\5-14. angelic hymns moonlight.mp3"
+  }
+  file
+  {
+    filenumber 265
+    fromfs 1
+    subdirindex 2
+    short "5-15.mp3"
+    filename "bayonetta original soundtrack (2009)\5-15. angelic hymns fantaisie impromptu.mp3"
+  }
+  file
+  {
+    filenumber 266
+    fromfs 1
+    subdirindex 2
+    short "5-16.mp3"
+    filename "bayonetta original soundtrack (2009)\5-16. angelic hymns sonata for two pianos.mp3"
+  }
+  file
+  {
+    filenumber 267
+    fromfs 1
+    subdirindex 2
+    short "5-17.mp3"
+    filename "bayonetta original soundtrack (2009)\5-17. angelic hymns skaters' waltz.mp3"
+  }
+  file
+  {
+    filenumber 268
+    fromfs 1
+    subdirindex 2
+    short "5-18.mp3"
+    filename "bayonetta original soundtrack (2009)\5-18. angelic hymns the ride of the valkyries.mp3"
+  }
+  file
+  {
+    filenumber 269
+    fromfs 1
+    subdirindex 2
+    short "5-19.mp3"
+    filename "bayonetta original soundtrack (2009)\5-19. angelic hymns hallelujah.mp3"
+  }
+  file
+  {
+    filenumber 270
+    fromfs 1
+    subdirindex 2
+    short "5-20.mp3"
+    filename "bayonetta original soundtrack (2009)\5-20. angelic hymns jupiter.mp3"
+  }
+  file
+  {
+    filenumber 271
+    fromfs 1
+    subdirindex 2
+    short "5-21.mp3"
+    filename "bayonetta original soundtrack (2009)\5-21. angelic hymns mars.mp3"
+  }
+  file
+  {
+    filenumber 272
+    fromfs 1
+    subdirindex 2
+    short "5-22.mp3"
+    filename "bayonetta original soundtrack (2009)\5-22. 2008 tokyo game show trailer.mp3"
+  }
+  file
+  {
+    filenumber 273
+    fromfs 1
+    subdirindex 2
+    short "5-23.mp3"
+    filename "bayonetta original soundtrack (2009)\5-23. bayonetta image song prototype a.mp3"
+  }
+  file
+  {
+    filenumber 274
+    fromfs 1
+    subdirindex 2
+    short "5-24.mp3"
+    filename "bayonetta original soundtrack (2009)\5-24. mysterious destiny prototype.mp3"
+  }
+  file
+  {
+    filenumber 275
+    fromfs 1
+    subdirindex 2
+    short "5-25.mp3"
+    filename "bayonetta original soundtrack (2009)\5-25. bayonetta image song prototype b.mp3"
+  }
+  file
+  {
+    filenumber 276
+    fromfs 1
+    subdirindex 2
+    short "5-26.mp3"
+    filename "bayonetta original soundtrack (2009)\5-26. bayonetta image song prototype c.mp3"
+  }
+  file
+  {
+    filenumber 277
+    fromfs 1
+    subdirindex 2
+    short "5-27.mp3"
+    filename "bayonetta original soundtrack (2009)\5-27. in trouble! prototype.mp3"
+  }
+  file
+  {
+    filenumber 278
+    fromfs 1
+    subdirindex 2
+    short "5-28.mp3"
+    filename "bayonetta original soundtrack (2009)\5-28. mysterious destiny retro version.mp3"
+  }
+  file
+  {
+    filenumber 279
+    fromfs 1
+    subdirindex 2
+    short "5-29.mp3"
+    filename "bayonetta original soundtrack (2009)\5-29. one of a kind retro version.mp3"
+  }
+  file
+  {
+    filenumber 280
+    fromfs 1
+    subdirindex 2
+    short "Daddy ! Daddy ! Do !.mp3"
+    filename "daddy ! daddy ! do !.mp3"
+  }
+  file
+  {
+    filenumber 281
+    fromfs 1
+    subdirindex 2
+    short "DECO-27 - ??????? feat.mp3"
+    filename "deco-27 - ??????? feat. ????.mp3"
+  }
+  file
+  {
+    filenumber 282
+    fromfs 1
+    subdirindex 2
+    short "7-01 Fódlan Winds (Thunder).mp3"
+    filename "fire emblem three houses\7-01 fódlan winds (thunder).mp3"
+  }
+  file
+  {
+    filenumber 283
+    fromfs 1
+    subdirindex 2
+    short "7-02 Blue Skies and a Battle (Thunder).mp3"
+    filename "fire emblem three houses\7-02 blue skies and a battle (thunder).mp3"
+  }
+  file
+  {
+    filenumber 284
+    fromfs 1
+    subdirindex 2
+    short "7-03 Tearing Through Heaven (Thunder).mp3"
+    filename "fire emblem three houses\7-03 tearing through heaven (thunder).mp3"
+  }
+  file
+  {
+    filenumber 285
+    fromfs 1
+    subdirindex 2
+    short "7-04 Roar of Dominion (Thunder).mp3"
+    filename "fire emblem three houses\7-04 roar of dominion (thunder).mp3"
+  }
+  file
+  {
+    filenumber 286
+    fromfs 1
+    subdirindex 2
+    short "7-05 Chasing Daybreak (Thunder).mp3"
+    filename "fire emblem three houses\7-05 chasing daybreak (thunder).mp3"
+  }
+  file
+  {
+    filenumber 287
+    fromfs 1
+    subdirindex 2
+    short "7-06 Between Heaven and Earth (Thunder).mp3"
+    filename "fire emblem three houses\7-06 between heaven and earth (thunder).mp3"
+  }
+  file
+  {
+    filenumber 288
+    fromfs 1
+    subdirindex 2
+    short "7-07 The Long Road (Thunder).mp3"
+    filename "fire emblem three houses\7-07 the long road (thunder).mp3"
+  }
+  file
+  {
+    filenumber 289
+    fromfs 1
+    subdirindex 2
+    short "7-08 The Apex of the World (Thunder).mp3"
+    filename "fire emblem three houses\7-08 the apex of the world (thunder).mp3"
+  }
+  file
+  {
+    filenumber 290
+    fromfs 1
+    subdirindex 2
+    short "7-09 God-Shattering Star (Thunder).mp3"
+    filename "fire emblem three houses\7-09 god-shattering star (thunder).mp3"
+  }
+  file
+  {
+    filenumber 291
+    fromfs 1
+    subdirindex 2
+    short "7-10 A Funeral of Flowers (Thunder).mp3"
+    filename "fire emblem three houses\7-10 a funeral of flowers (thunder).mp3"
+  }
+  file
+  {
+    filenumber 292
+    fromfs 1
+    subdirindex 2
+    short "7-11 Dwelling of the Ancient Gods (Thunder).mp3"
+    filename "fire emblem three houses\7-11 dwelling of the ancient gods (thunder).mp3"
+  }
+  file
+  {
+    filenumber 293
+    fromfs 1
+    subdirindex 2
+    short "7-12 Shambhala (Area 17 Redux) (Thunder).mp3"
+    filename "fire emblem three houses\7-12 shambhala (area 17 redux) (thunder).mp3"
+  }
+  file
+  {
+    filenumber 294
+    fromfs 1
+    subdirindex 2
+    short "7-13 Tempest of Seasons (Thunder).mp3"
+    filename "fire emblem three houses\7-13 tempest of seasons (thunder).mp3"
+  }
+  file
+  {
+    filenumber 295
+    fromfs 1
+    subdirindex 2
+    short "7-14 Wrath Strike (Thunder).mp3"
+    filename "fire emblem three houses\7-14 wrath strike (thunder).mp3"
+  }
+  file
+  {
+    filenumber 296
+    fromfs 1
+    subdirindex 2
+    short "7-15 The Verge of Death (Thunder).mp3"
+    filename "fire emblem three houses\7-15 the verge of death (thunder).mp3"
+  }
+  file
+  {
+    filenumber 297
+    fromfs 1
+    subdirindex 2
+    short "7-16 Paths That Will Never Cross (Thunder).mp3"
+    filename "fire emblem three houses\7-16 paths that will never cross (thunder).mp3"
+  }
+  file
+  {
+    filenumber 298
+    fromfs 1
+    subdirindex 2
+    short "7-17 Indomitable Will (Thunder).mp3"
+    filename "fire emblem three houses\7-17 indomitable will (thunder).mp3"
+  }
+  file
+  {
+    filenumber 299
+    fromfs 1
+    subdirindex 2
+    short "7-18 Corridor of the Tempest (Thunder).mp3"
+    filename "fire emblem three houses\7-18 corridor of the tempest (thunder).mp3"
+  }
+  file
+  {
+    filenumber 300
+    fromfs 1
+    subdirindex 2
+    short "7-19 The Shackled Wolves (Thunder).mp3"
+    filename "fire emblem three houses\7-19 the shackled wolves (thunder).mp3"
+  }
+  file
+  {
+    filenumber 301
+    fromfs 1
+    subdirindex 2
+    short "7-20 At What Cost (Thunder).mp3"
+    filename "fire emblem three houses\7-20 at what cost (thunder).mp3"
+  }
+  file
+  {
+    filenumber 302
+    fromfs 1
+    subdirindex 2
+    short "7-21 The Time to Act.mp3"
+    filename "fire emblem three houses\7-21 the time to act.mp3"
+  }
+  file
+  {
+    filenumber 303
+    fromfs 1
+    subdirindex 2
+    short "7-22 Eternal Bond.mp3"
+    filename "fire emblem three houses\7-22 eternal bond.mp3"
+  }
+  file
+  {
+    filenumber 304
+    fromfs 1
+    subdirindex 2
+    short "7-23 Id (Purpose).mp3"
+    filename "fire emblem three houses\7-23 id (purpose).mp3"
+  }
+  file
+  {
+    filenumber 305
+    fromfs 1
+    subdirindex 2
+    short "7-24 Conquest (Ablaze).mp3"
+    filename "fire emblem three houses\7-24 conquest (ablaze).mp3"
+  }
+  file
+  {
+    filenumber 306
+    fromfs 1
+    subdirindex 2
+    short "7-25 Beneath a New Light (Roy’s Courage).mp3"
+    filename "fire emblem three houses\7-25 beneath a new light (roy’s courage).mp3"
+  }
+  file
+  {
+    filenumber 307
+    fromfs 1
+    subdirindex 2
+    short "7-26 March to Deliverance.mp3"
+    filename "fire emblem three houses\7-26 march to deliverance.mp3"
+  }
+  file
+  {
+    filenumber 308
+    fromfs 1
+    subdirindex 2
+    short "7-27 With Mila’s Divine Protection.mp3"
+    filename "fire emblem three houses\7-27 with mila’s divine protection.mp3"
+  }
+  file
+  {
+    filenumber 309
+    fromfs 1
+    subdirindex 2
+    short "7-28 Alight (Storm).mp3"
+    filename "fire emblem three houses\7-28 alight (storm).mp3"
+  }
+  file
+  {
+    filenumber 310
+    fromfs 1
+    subdirindex 2
+    short "7-29 A Dark Fall (Fire).mp3"
+    filename "fire emblem three houses\7-29 a dark fall (fire).mp3"
+  }
+  file
+  {
+    filenumber 311
+    fromfs 1
+    subdirindex 2
+    short "7-30 Destiny (Ablaze).mp3"
+    filename "fire emblem three houses\7-30 destiny (ablaze).mp3"
+  }
+  file
+  {
+    filenumber 312
+    fromfs 1
+    subdirindex 2
+    short "7-31 Jingle Selection.mp3"
+    filename "fire emblem three houses\7-31 jingle selection.mp3"
+  }
+  file
+  {
+    filenumber 313
+    fromfs 1
+    subdirindex 2
+    short "GIRI GIRI.mp3"
+    filename "giri giri.mp3"
+  }
+  file
+  {
+    filenumber 314
+    fromfs 1
+    subdirindex 2
+    short "Hikaru Nara - Shigatsu Wa Kimi No Uso Lyric.mp3"
+    filename "hikaru nara - shigatsu wa kimi no uso lyric.mp3"
+  }
+  file
+  {
+    filenumber 315
+    fromfs 1
+    subdirindex 2
+    short "Hubert LAVOINON - Canard coin coin !.mp3"
+    filename "hubert lavoinon - canard coin coin !.mp3"
+  }
+  file
+  {
+    filenumber 316
+    fromfs 1
+    subdirindex 2
+    short "01 - Seattle Incident.mp3"
+    filename "life is strange 2 original score\01 - seattle incident.mp3"
+  }
+  file
+  {
+    filenumber 317
+    fromfs 1
+    subdirindex 2
+    short "02 - Nightbus.mp3"
+    filename "life is strange 2 original score\02 - nightbus.mp3"
+  }
+  file
+  {
+    filenumber 318
+    fromfs 1
+    subdirindex 2
+    short "03 - Seattle.mp3"
+    filename "life is strange 2 original score\03 - seattle.mp3"
+  }
+  file
+  {
+    filenumber 319
+    fromfs 1
+    subdirindex 2
+    short "04 - Drifters.mp3"
+    filename "life is strange 2 original score\04 - drifters.mp3"
+  }
+  file
+  {
+    filenumber 320
+    fromfs 1
+    subdirindex 2
+    short "05 - Into The Woods.mp3"
+    filename "life is strange 2 original score\05 - into the woods.mp3"
+  }
+  file
+  {
+    filenumber 321
+    fromfs 1
+    subdirindex 2
+    short "06 - Home.mp3"
+    filename "life is strange 2 original score\06 - home.mp3"
+  }
+  file
+  {
+    filenumber 322
+    fromfs 1
+    subdirindex 2
+    short "07 - Winter Woods.mp3"
+    filename "life is strange 2 original score\07 - winter woods.mp3"
+  }
+  file
+  {
+    filenumber 323
+    fromfs 1
+    subdirindex 2
+    short "08 - Lisbeth.mp3"
+    filename "life is strange 2 original score\08 - lisbeth.mp3"
+  }
+  file
+  {
+    filenumber 324
+    fromfs 1
+    subdirindex 2
+    short "09 - Chaos.mp3"
+    filename "life is strange 2 original score\09 - chaos.mp3"
+  }
+  file
+  {
+    filenumber 325
+    fromfs 1
+    subdirindex 2
+    short "10 - Karen.mp3"
+    filename "life is strange 2 original score\10 - karen.mp3"
+  }
+  file
+  {
+    filenumber 326
+    fromfs 1
+    subdirindex 2
+    short "01.mp3"
+    filename "life is strange true colors original soundtrack\01. novo amor - haven (from life is strange) (instrumental).mp3"
+  }
+  file
+  {
+    filenumber 327
+    fromfs 1
+    subdirindex 2
+    short "02.mp3"
+    filename "life is strange true colors original soundtrack\02. corre - rituals.mp3"
+  }
+  file
+  {
+    filenumber 328
+    fromfs 1
+    subdirindex 2
+    short "38.mp3"
+    filename "life is strange true colors original soundtrack\38. novo amor - haven (from life is strange).mp3"
+  }
+  file
+  {
+    filenumber 329
+    fromfs 1
+    subdirindex 2
+    short "39.mp3"
+    filename "life is strange true colors original soundtrack\39. rebecca harris, franklin mockett, apm music - to walk alone (a).mp3"
+  }
+  file
+  {
+    filenumber 330
+    fromfs 1
+    subdirindex 2
+    short "42.mp3"
+    filename "life is strange true colors original soundtrack\42. lions and tigers - memory.mp3"
+  }
+  file
+  {
+    filenumber 331
+    fromfs 1
+    subdirindex 2
+    short "43.mp3"
+    filename "life is strange true colors original soundtrack\43. think of the children - alabaster daydreams.mp3"
+  }
+  file
+  {
+    filenumber 332
+    fromfs 1
+    subdirindex 2
+    short "44.mp3"
+    filename "life is strange true colors original soundtrack\44. dick walter - cobwebs and rainbows (male vocal) (e).mp3"
+  }
+  file
+  {
+    filenumber 333
+    fromfs 1
+    subdirindex 2
+    short "57.mp3"
+    filename "life is strange true colors original soundtrack\57. agnus & julia stone - unnamed song.mp3"
+  }
+  file
+  {
+    filenumber 334
+    fromfs 1
+    subdirindex 2
+    short "Blister in the Sun.mp3"
+    filename "life is strange true colors original soundtrack\blister in the sun.mp3"
+  }
+  file
+  {
+    filenumber 335
+    fromfs 1
+    subdirindex 2
+    short "01.mp3"
+    filename "mario kart wii ost mp3\01. mario kart wii (channel menu).mp3"
+  }
+  file
+  {
+    filenumber 336
+    fromfs 1
+    subdirindex 2
+    short "02.mp3"
+    filename "mario kart wii ost mp3\02. opening movie.mp3"
+  }
+  file
+  {
+    filenumber 337
+    fromfs 1
+    subdirindex 2
+    short "03.mp3"
+    filename "mario kart wii ost mp3\03. mario kart wii.mp3"
+  }
+  file
+  {
+    filenumber 338
+    fromfs 1
+    subdirindex 2
+    short "04.mp3"
+    filename "mario kart wii ost mp3\04. main menu (layer 1).mp3"
+  }
+  file
+  {
+    filenumber 339
+    fromfs 1
+    subdirindex 2
+    short "05.mp3"
+    filename "mario kart wii ost mp3\05. main menu (layer 2).mp3"
+  }
+  file
+  {
+    filenumber 340
+    fromfs 1
+    subdirindex 2
+    short "06.mp3"
+    filename "mario kart wii ost mp3\06. main menu (layer 3).mp3"
+  }
+  file
+  {
+    filenumber 341
+    fromfs 1
+    subdirindex 2
+    short "07.mp3"
+    filename "mario kart wii ost mp3\07. main menu (layer 4).mp3"
+  }
+  file
+  {
+    filenumber 342
+    fromfs 1
+    subdirindex 2
+    short "08.mp3"
+    filename "mario kart wii ost mp3\08. main menu (medley).mp3"
+  }
+  file
+  {
+    filenumber 343
+    fromfs 1
+    subdirindex 2
+    short "09.mp3"
+    filename "mario kart wii ost mp3\09. course intro (race).mp3"
+  }
+  file
+  {
+    filenumber 344
+    fromfs 1
+    subdirindex 2
+    short "10.mp3"
+    filename "mario kart wii ost mp3\10. starting grid.mp3"
+  }
+  file
+  {
+    filenumber 345
+    fromfs 1
+    subdirindex 2
+    short "100.mp3"
+    filename "mario kart wii ost mp3\100. gcn mario circuit (final lap).mp3"
+  }
+  file
+  {
+    filenumber 346
+    fromfs 1
+    subdirindex 2
+    short "101.mp3"
+    filename "mario kart wii ost mp3\101. snes mario circuit 3.mp3"
+  }
+  file
+  {
+    filenumber 347
+    fromfs 1
+    subdirindex 2
+    short "102.mp3"
+    filename "mario kart wii ost mp3\102. snes mario circuit 3 (final lap).mp3"
+  }
+  file
+  {
+    filenumber 348
+    fromfs 1
+    subdirindex 2
+    short "103.mp3"
+    filename "mario kart wii ost mp3\103. ds peach gardens.mp3"
+  }
+  file
+  {
+    filenumber 349
+    fromfs 1
+    subdirindex 2
+    short "104.mp3"
+    filename "mario kart wii ost mp3\104. ds peach gardens (final lap).mp3"
+  }
+  file
+  {
+    filenumber 350
+    fromfs 1
+    subdirindex 2
+    short "105.mp3"
+    filename "mario kart wii ost mp3\105. gcn dk mountain.mp3"
+  }
+  file
+  {
+    filenumber 351
+    fromfs 1
+    subdirindex 2
+    short "106.mp3"
+    filename "mario kart wii ost mp3\106. gcn dk mountain (final lap).mp3"
+  }
+  file
+  {
+    filenumber 352
+    fromfs 1
+    subdirindex 2
+    short "107.mp3"
+    filename "mario kart wii ost mp3\107. n64 bowser's castle.mp3"
+  }
+  file
+  {
+    filenumber 353
+    fromfs 1
+    subdirindex 2
+    short "108.mp3"
+    filename "mario kart wii ost mp3\108. n64 bowser's castle (final lap).mp3"
+  }
+  file
+  {
+    filenumber 354
+    fromfs 1
+    subdirindex 2
+    short "109.mp3"
+    filename "mario kart wii ost mp3\109. course intro (battle).mp3"
+  }
+  file
+  {
+    filenumber 355
+    fromfs 1
+    subdirindex 2
+    short "11.mp3"
+    filename "mario kart wii ost mp3\11. mario circuit - luigi circuit.mp3"
+  }
+  file
+  {
+    filenumber 356
+    fromfs 1
+    subdirindex 2
+    short "110.mp3"
+    filename "mario kart wii ost mp3\110. block plaza.mp3"
+  }
+  file
+  {
+    filenumber 357
+    fromfs 1
+    subdirindex 2
+    short "111.mp3"
+    filename "mario kart wii ost mp3\111. block plaza (time's running out).mp3"
+  }
+  file
+  {
+    filenumber 358
+    fromfs 1
+    subdirindex 2
+    short "112.mp3"
+    filename "mario kart wii ost mp3\112. delfino pier.mp3"
+  }
+  file
+  {
+    filenumber 359
+    fromfs 1
+    subdirindex 2
+    short "113.mp3"
+    filename "mario kart wii ost mp3\113. delfino pier (time's running out).mp3"
+  }
+  file
+  {
+    filenumber 360
+    fromfs 1
+    subdirindex 2
+    short "114.mp3"
+    filename "mario kart wii ost mp3\114. funky stadium.mp3"
+  }
+  file
+  {
+    filenumber 361
+    fromfs 1
+    subdirindex 2
+    short "115.mp3"
+    filename "mario kart wii ost mp3\115. funky stadium (time's running out).mp3"
+  }
+  file
+  {
+    filenumber 362
+    fromfs 1
+    subdirindex 2
+    short "116.mp3"
+    filename "mario kart wii ost mp3\116. chain chomp roulette.mp3"
+  }
+  file
+  {
+    filenumber 363
+    fromfs 1
+    subdirindex 2
+    short "117.mp3"
+    filename "mario kart wii ost mp3\117. chain chomp roulette (time's running out).mp3"
+  }
+  file
+  {
+    filenumber 364
+    fromfs 1
+    subdirindex 2
+    short "118.mp3"
+    filename "mario kart wii ost mp3\118. thwomp desert.mp3"
+  }
+  file
+  {
+    filenumber 365
+    fromfs 1
+    subdirindex 2
+    short "119.mp3"
+    filename "mario kart wii ost mp3\119. thwomp desert (time's running out).mp3"
+  }
+  file
+  {
+    filenumber 366
+    fromfs 1
+    subdirindex 2
+    short "12.mp3"
+    filename "mario kart wii ost mp3\12. final lap.mp3"
+  }
+  file
+  {
+    filenumber 367
+    fromfs 1
+    subdirindex 2
+    short "120.mp3"
+    filename "mario kart wii ost mp3\120. snes battle course 4.mp3"
+  }
+  file
+  {
+    filenumber 368
+    fromfs 1
+    subdirindex 2
+    short "121.mp3"
+    filename "mario kart wii ost mp3\121. snes battle course 4 (time's running out).mp3"
+  }
+  file
+  {
+    filenumber 369
+    fromfs 1
+    subdirindex 2
+    short "122.mp3"
+    filename "mario kart wii ost mp3\122. gba battle course 3.mp3"
+  }
+  file
+  {
+    filenumber 370
+    fromfs 1
+    subdirindex 2
+    short "123.mp3"
+    filename "mario kart wii ost mp3\123. gba battle course 3 (time's running out).mp3"
+  }
+  file
+  {
+    filenumber 371
+    fromfs 1
+    subdirindex 2
+    short "124.mp3"
+    filename "mario kart wii ost mp3\124. n64 skyscraper.mp3"
+  }
+  file
+  {
+    filenumber 372
+    fromfs 1
+    subdirindex 2
+    short "125.mp3"
+    filename "mario kart wii ost mp3\125. n64 skyscraper (time's running out).mp3"
+  }
+  file
+  {
+    filenumber 373
+    fromfs 1
+    subdirindex 2
+    short "126.mp3"
+    filename "mario kart wii ost mp3\126. gcn cookie land.mp3"
+  }
+  file
+  {
+    filenumber 374
+    fromfs 1
+    subdirindex 2
+    short "127.mp3"
+    filename "mario kart wii ost mp3\127. gcn cookie land (time's running out).mp3"
+  }
+  file
+  {
+    filenumber 375
+    fromfs 1
+    subdirindex 2
+    short "128.mp3"
+    filename "mario kart wii ost mp3\128. ds twilight house.mp3"
+  }
+  file
+  {
+    filenumber 376
+    fromfs 1
+    subdirindex 2
+    short "129.mp3"
+    filename "mario kart wii ost mp3\129. ds twilight house (time's running out).mp3"
+  }
+  file
+  {
+    filenumber 377
+    fromfs 1
+    subdirindex 2
+    short "13.mp3"
+    filename "mario kart wii ost mp3\13. mario circuit - luigi circuit (final lap).mp3"
+  }
+  file
+  {
+    filenumber 378
+    fromfs 1
+    subdirindex 2
+    short "130.mp3"
+    filename "mario kart wii ost mp3\130. battle mode - 1st place.mp3"
+  }
+  file
+  {
+    filenumber 379
+    fromfs 1
+    subdirindex 2
+    short "131.mp3"
+    filename "mario kart wii ost mp3\131. battle mode - victory.mp3"
+  }
+  file
+  {
+    filenumber 380
+    fromfs 1
+    subdirindex 2
+    short "132.mp3"
+    filename "mario kart wii ost mp3\132. battle mode - victory results.mp3"
+  }
+  file
+  {
+    filenumber 381
+    fromfs 1
+    subdirindex 2
+    short "133.mp3"
+    filename "mario kart wii ost mp3\133. battle mode - draw.mp3"
+  }
+  file
+  {
+    filenumber 382
+    fromfs 1
+    subdirindex 2
+    short "134.mp3"
+    filename "mario kart wii ost mp3\134. battle mode - defeat.mp3"
+  }
+  file
+  {
+    filenumber 383
+    fromfs 1
+    subdirindex 2
+    short "135.mp3"
+    filename "mario kart wii ost mp3\135. battle mode - defeat results.mp3"
+  }
+  file
+  {
+    filenumber 384
+    fromfs 1
+    subdirindex 2
+    short "136.mp3"
+    filename "mario kart wii ost mp3\136. records.mp3"
+  }
+  file
+  {
+    filenumber 385
+    fromfs 1
+    subdirindex 2
+    short "137.mp3"
+    filename "mario kart wii ost mp3\137. pause menu.mp3"
+  }
+  file
+  {
+    filenumber 386
+    fromfs 1
+    subdirindex 2
+    short "138.mp3"
+    filename "mario kart wii ost mp3\138. mega mushroom.mp3"
+  }
+  file
+  {
+    filenumber 387
+    fromfs 1
+    subdirindex 2
+    short "139.mp3"
+    filename "mario kart wii ost mp3\139. kart unlocked.mp3"
+  }
+  file
+  {
+    filenumber 388
+    fromfs 1
+    subdirindex 2
+    short "14.mp3"
+    filename "mario kart wii ost mp3\14. 1st place.mp3"
+  }
+  file
+  {
+    filenumber 389
+    fromfs 1
+    subdirindex 2
+    short "140.mp3"
+    filename "mario kart wii ost mp3\140. course intro (mission).mp3"
+  }
+  file
+  {
+    filenumber 390
+    fromfs 1
+    subdirindex 2
+    short "141.mp3"
+    filename "mario kart wii ost mp3\141. mission mode - success.mp3"
+  }
+  file
+  {
+    filenumber 391
+    fromfs 1
+    subdirindex 2
+    short "142.mp3"
+    filename "mario kart wii ost mp3\142. mission mode - fail.mp3"
+  }
+  file
+  {
+    filenumber 392
+    fromfs 1
+    subdirindex 2
+    short "143.mp3"
+    filename "mario kart wii ost mp3\143. mission mode - boss battle.mp3"
+  }
+  file
+  {
+    filenumber 393
+    fromfs 1
+    subdirindex 2
+    short "144.mp3"
+    filename "mario kart wii ost mp3\144. mission mode - boss success.mp3"
+  }
+  file
+  {
+    filenumber 394
+    fromfs 1
+    subdirindex 2
+    short "145.mp3"
+    filename "mario kart wii ost mp3\145. time attack - first.mp3"
+  }
+  file
+  {
+    filenumber 395
+    fromfs 1
+    subdirindex 2
+    short "146.mp3"
+    filename "mario kart wii ost mp3\146. wi-fi menu.mp3"
+  }
+  file
+  {
+    filenumber 396
+    fromfs 1
+    subdirindex 2
+    short "147.mp3"
+    filename "mario kart wii ost mp3\147. course intro (wi-fi).mp3"
+  }
+  file
+  {
+    filenumber 397
+    fromfs 1
+    subdirindex 2
+    short "148.mp3"
+    filename "mario kart wii ost mp3\148. wi-fi match ghost replay.mp3"
+  }
+  file
+  {
+    filenumber 398
+    fromfs 1
+    subdirindex 2
+    short "149.mp3"
+    filename "mario kart wii ost mp3\149. mario kart channel menu.mp3"
+  }
+  file
+  {
+    filenumber 399
+    fromfs 1
+    subdirindex 2
+    short "15.mp3"
+    filename "mario kart wii ost mp3\15. 2nd-6th place.mp3"
+  }
+  file
+  {
+    filenumber 400
+    fromfs 1
+    subdirindex 2
+    short "150.mp3"
+    filename "mario kart wii ost mp3\150. mario kart wii channel (channel menu).mp3"
+  }
+  file
+  {
+    filenumber 401
+    fromfs 1
+    subdirindex 2
+    short "16.mp3"
+    filename "mario kart wii ost mp3\16. 1st-6th place results.mp3"
+  }
+  file
+  {
+    filenumber 402
+    fromfs 1
+    subdirindex 2
+    short "17.mp3"
+    filename "mario kart wii ost mp3\17. 7th-12th place.mp3"
+  }
+  file
+  {
+    filenumber 403
+    fromfs 1
+    subdirindex 2
+    short "18.mp3"
+    filename "mario kart wii ost mp3\18. 7th-12th place results.mp3"
+  }
+  file
+  {
+    filenumber 404
+    fromfs 1
+    subdirindex 2
+    short "19.mp3"
+    filename "mario kart wii ost mp3\19. moo moo meadows.mp3"
+  }
+  file
+  {
+    filenumber 405
+    fromfs 1
+    subdirindex 2
+    short "20.mp3"
+    filename "mario kart wii ost mp3\20. moo moo meadows (final lap).mp3"
+  }
+  file
+  {
+    filenumber 406
+    fromfs 1
+    subdirindex 2
+    short "21.mp3"
+    filename "mario kart wii ost mp3\21. mushroom gorge.mp3"
+  }
+  file
+  {
+    filenumber 407
+    fromfs 1
+    subdirindex 2
+    short "22.mp3"
+    filename "mario kart wii ost mp3\22. mushroom gorge (final lap).mp3"
+  }
+  file
+  {
+    filenumber 408
+    fromfs 1
+    subdirindex 2
+    short "23.mp3"
+    filename "mario kart wii ost mp3\23. toad's factory.mp3"
+  }
+  file
+  {
+    filenumber 409
+    fromfs 1
+    subdirindex 2
+    short "24.mp3"
+    filename "mario kart wii ost mp3\24. toad's factory (clapping).mp3"
+  }
+  file
+  {
+    filenumber 410
+    fromfs 1
+    subdirindex 2
+    short "25.mp3"
+    filename "mario kart wii ost mp3\25. toad's factory (final lap).mp3"
+  }
+  file
+  {
+    filenumber 411
+    fromfs 1
+    subdirindex 2
+    short "26.mp3"
+    filename "mario kart wii ost mp3\26. toad's factory (clapping) (final lap).mp3"
+  }
+  file
+  {
+    filenumber 412
+    fromfs 1
+    subdirindex 2
+    short "27.mp3"
+    filename "mario kart wii ost mp3\27. toad's factory (ost).mp3"
+  }
+  file
+  {
+    filenumber 413
+    fromfs 1
+    subdirindex 2
+    short "28.mp3"
+    filename "mario kart wii ost mp3\28. coconut mall.mp3"
+  }
+  file
+  {
+    filenumber 414
+    fromfs 1
+    subdirindex 2
+    short "29.mp3"
+    filename "mario kart wii ost mp3\29. coconut mall (final lap).mp3"
+  }
+  file
+  {
+    filenumber 415
+    fromfs 1
+    subdirindex 2
+    short "30.mp3"
+    filename "mario kart wii ost mp3\30. dk summit.mp3"
+  }
+  file
+  {
+    filenumber 416
+    fromfs 1
+    subdirindex 2
+    short "31.mp3"
+    filename "mario kart wii ost mp3\31. dk summit.mp3"
+  }
+  file
+  {
+    filenumber 417
+    fromfs 1
+    subdirindex 2
+    short "32.mp3"
+    filename "mario kart wii ost mp3\32. dk summit (final lap).mp3"
+  }
+  file
+  {
+    filenumber 418
+    fromfs 1
+    subdirindex 2
+    short "33.mp3"
+    filename "mario kart wii ost mp3\33. wario's gold mine.mp3"
+  }
+  file
+  {
+    filenumber 419
+    fromfs 1
+    subdirindex 2
+    short "34.mp3"
+    filename "mario kart wii ost mp3\34. wario's gold mine (mine).mp3"
+  }
+  file
+  {
+    filenumber 420
+    fromfs 1
+    subdirindex 2
+    short "35.mp3"
+    filename "mario kart wii ost mp3\35. wario's gold mine (final lap).mp3"
+  }
+  file
+  {
+    filenumber 421
+    fromfs 1
+    subdirindex 2
+    short "36.mp3"
+    filename "mario kart wii ost mp3\36. wario's gold mine (mine) (final lap).mp3"
+  }
+  file
+  {
+    filenumber 422
+    fromfs 1
+    subdirindex 2
+    short "37.mp3"
+    filename "mario kart wii ost mp3\37. wario's gold mine (ost).mp3"
+  }
+  file
+  {
+    filenumber 423
+    fromfs 1
+    subdirindex 2
+    short "38.mp3"
+    filename "mario kart wii ost mp3\38. daisy circuit.mp3"
+  }
+  file
+  {
+    filenumber 424
+    fromfs 1
+    subdirindex 2
+    short "39.mp3"
+    filename "mario kart wii ost mp3\39. daisy circuit (final lap).mp3"
+  }
+  file
+  {
+    filenumber 425
+    fromfs 1
+    subdirindex 2
+    short "40.mp3"
+    filename "mario kart wii ost mp3\40. koopa cape.mp3"
+  }
+  file
+  {
+    filenumber 426
+    fromfs 1
+    subdirindex 2
+    short "41.mp3"
+    filename "mario kart wii ost mp3\41. koopa cape (river).mp3"
+  }
+  file
+  {
+    filenumber 427
+    fromfs 1
+    subdirindex 2
+    short "42.mp3"
+    filename "mario kart wii ost mp3\42. koopa cape (underwater).mp3"
+  }
+  file
+  {
+    filenumber 428
+    fromfs 1
+    subdirindex 2
+    short "43.mp3"
+    filename "mario kart wii ost mp3\43. koopa cape (final lap).mp3"
+  }
+  file
+  {
+    filenumber 429
+    fromfs 1
+    subdirindex 2
+    short "44.mp3"
+    filename "mario kart wii ost mp3\44. koopa cape (river) (final lap).mp3"
+  }
+  file
+  {
+    filenumber 430
+    fromfs 1
+    subdirindex 2
+    short "45.mp3"
+    filename "mario kart wii ost mp3\45. koopa cape (underwater) (final lap).mp3"
+  }
+  file
+  {
+    filenumber 431
+    fromfs 1
+    subdirindex 2
+    short "46.mp3"
+    filename "mario kart wii ost mp3\46. koopa cape (ost).mp3"
+  }
+  file
+  {
+    filenumber 432
+    fromfs 1
+    subdirindex 2
+    short "47.mp3"
+    filename "mario kart wii ost mp3\47. maple treeway.mp3"
+  }
+  file
+  {
+    filenumber 433
+    fromfs 1
+    subdirindex 2
+    short "48.mp3"
+    filename "mario kart wii ost mp3\48. maple treeway (final lap).mp3"
+  }
+  file
+  {
+    filenumber 434
+    fromfs 1
+    subdirindex 2
+    short "49.mp3"
+    filename "mario kart wii ost mp3\49. grumble volcano.mp3"
+  }
+  file
+  {
+    filenumber 435
+    fromfs 1
+    subdirindex 2
+    short "50.mp3"
+    filename "mario kart wii ost mp3\50. grumble volcano (final lap).mp3"
+  }
+  file
+  {
+    filenumber 436
+    fromfs 1
+    subdirindex 2
+    short "51.mp3"
+    filename "mario kart wii ost mp3\51. dry dry ruins.mp3"
+  }
+  file
+  {
+    filenumber 437
+    fromfs 1
+    subdirindex 2
+    short "52.mp3"
+    filename "mario kart wii ost mp3\52. dry dry ruins (interior).mp3"
+  }
+  file
+  {
+    filenumber 438
+    fromfs 1
+    subdirindex 2
+    short "53.mp3"
+    filename "mario kart wii ost mp3\53. dry dry ruins (final lap).mp3"
+  }
+  file
+  {
+    filenumber 439
+    fromfs 1
+    subdirindex 2
+    short "54.mp3"
+    filename "mario kart wii ost mp3\54. dry dry ruins (interior) (final lap).mp3"
+  }
+  file
+  {
+    filenumber 440
+    fromfs 1
+    subdirindex 2
+    short "55.mp3"
+    filename "mario kart wii ost mp3\55. dry dry ruins (ost).mp3"
+  }
+  file
+  {
+    filenumber 441
+    fromfs 1
+    subdirindex 2
+    short "56.mp3"
+    filename "mario kart wii ost mp3\56. moonview highway.mp3"
+  }
+  file
+  {
+    filenumber 442
+    fromfs 1
+    subdirindex 2
+    short "57.mp3"
+    filename "mario kart wii ost mp3\57. moonview highway (city).mp3"
+  }
+  file
+  {
+    filenumber 443
+    fromfs 1
+    subdirindex 2
+    short "58.mp3"
+    filename "mario kart wii ost mp3\58. moonview highway (final lap).mp3"
+  }
+  file
+  {
+    filenumber 444
+    fromfs 1
+    subdirindex 2
+    short "59.mp3"
+    filename "mario kart wii ost mp3\59. moonview highway (city) (final lap).mp3"
+  }
+  file
+  {
+    filenumber 445
+    fromfs 1
+    subdirindex 2
+    short "60.mp3"
+    filename "mario kart wii ost mp3\60. moonview highway (ost).mp3"
+  }
+  file
+  {
+    filenumber 446
+    fromfs 1
+    subdirindex 2
+    short "61.mp3"
+    filename "mario kart wii ost mp3\61. bowser's castle.mp3"
+  }
+  file
+  {
+    filenumber 447
+    fromfs 1
+    subdirindex 2
+    short "62.mp3"
+    filename "mario kart wii ost mp3\62. bowser's castle (percussion).mp3"
+  }
+  file
+  {
+    filenumber 448
+    fromfs 1
+    subdirindex 2
+    short "63.mp3"
+    filename "mario kart wii ost mp3\63. bowser's castle (phaser).mp3"
+  }
+  file
+  {
+    filenumber 449
+    fromfs 1
+    subdirindex 2
+    short "64.mp3"
+    filename "mario kart wii ost mp3\64. bowser's castle (final lap).mp3"
+  }
+  file
+  {
+    filenumber 450
+    fromfs 1
+    subdirindex 2
+    short "65.mp3"
+    filename "mario kart wii ost mp3\65. bowser's castle (percussion) (final lap).mp3"
+  }
+  file
+  {
+    filenumber 451
+    fromfs 1
+    subdirindex 2
+    short "66.mp3"
+    filename "mario kart wii ost mp3\66. bowser's castle (phaser) (final lap).mp3"
+  }
+  file
+  {
+    filenumber 452
+    fromfs 1
+    subdirindex 2
+    short "67.mp3"
+    filename "mario kart wii ost mp3\67. bowser's castle (ost).mp3"
+  }
+  file
+  {
+    filenumber 453
+    fromfs 1
+    subdirindex 2
+    short "68.mp3"
+    filename "mario kart wii ost mp3\68. rainbow road.mp3"
+  }
+  file
+  {
+    filenumber 454
+    fromfs 1
+    subdirindex 2
+    short "69.mp3"
+    filename "mario kart wii ost mp3\69. rainbow road (final lap).mp3"
+  }
+  file
+  {
+    filenumber 455
+    fromfs 1
+    subdirindex 2
+    short "70.mp3"
+    filename "mario kart wii ost mp3\70. award ceremony - intro.mp3"
+  }
+  file
+  {
+    filenumber 456
+    fromfs 1
+    subdirindex 2
+    short "71.mp3"
+    filename "mario kart wii ost mp3\71. award ceremony - first.mp3"
+  }
+  file
+  {
+    filenumber 457
+    fromfs 1
+    subdirindex 2
+    short "72.mp3"
+    filename "mario kart wii ost mp3\72. award ceremony - middle.mp3"
+  }
+  file
+  {
+    filenumber 458
+    fromfs 1
+    subdirindex 2
+    short "73.mp3"
+    filename "mario kart wii ost mp3\73. award ceremony - last.mp3"
+  }
+  file
+  {
+    filenumber 459
+    fromfs 1
+    subdirindex 2
+    short "74.mp3"
+    filename "mario kart wii ost mp3\74. award ceremony (ost).mp3"
+  }
+  file
+  {
+    filenumber 460
+    fromfs 1
+    subdirindex 2
+    short "75.mp3"
+    filename "mario kart wii ost mp3\75. staff credits (part 1).mp3"
+  }
+  file
+  {
+    filenumber 461
+    fromfs 1
+    subdirindex 2
+    short "76.mp3"
+    filename "mario kart wii ost mp3\76. staff credits (part 2).mp3"
+  }
+  file
+  {
+    filenumber 462
+    fromfs 1
+    subdirindex 2
+    short "77.mp3"
+    filename "mario kart wii ost mp3\77. gcn peach beach.mp3"
+  }
+  file
+  {
+    filenumber 463
+    fromfs 1
+    subdirindex 2
+    short "78.mp3"
+    filename "mario kart wii ost mp3\78. gcn peach beach (final lap).mp3"
+  }
+  file
+  {
+    filenumber 464
+    fromfs 1
+    subdirindex 2
+    short "79.mp3"
+    filename "mario kart wii ost mp3\79. ds yoshi falls.mp3"
+  }
+  file
+  {
+    filenumber 465
+    fromfs 1
+    subdirindex 2
+    short "80.mp3"
+    filename "mario kart wii ost mp3\80. ds yoshi falls (final lap).mp3"
+  }
+  file
+  {
+    filenumber 466
+    fromfs 1
+    subdirindex 2
+    short "81.mp3"
+    filename "mario kart wii ost mp3\81. snes ghost valley 2.mp3"
+  }
+  file
+  {
+    filenumber 467
+    fromfs 1
+    subdirindex 2
+    short "82.mp3"
+    filename "mario kart wii ost mp3\82. snes ghost valley 2 (final lap).mp3"
+  }
+  file
+  {
+    filenumber 468
+    fromfs 1
+    subdirindex 2
+    short "83.mp3"
+    filename "mario kart wii ost mp3\83. n64 mario raceway.mp3"
+  }
+  file
+  {
+    filenumber 469
+    fromfs 1
+    subdirindex 2
+    short "84.mp3"
+    filename "mario kart wii ost mp3\84. n64 mario raceway (final lap).mp3"
+  }
+  file
+  {
+    filenumber 470
+    fromfs 1
+    subdirindex 2
+    short "85.mp3"
+    filename "mario kart wii ost mp3\85. n64 sherbet land.mp3"
+  }
+  file
+  {
+    filenumber 471
+    fromfs 1
+    subdirindex 2
+    short "86.mp3"
+    filename "mario kart wii ost mp3\86. n64 sherbet land (final lap).mp3"
+  }
+  file
+  {
+    filenumber 472
+    fromfs 1
+    subdirindex 2
+    short "87.mp3"
+    filename "mario kart wii ost mp3\87. gba shy guy beach.mp3"
+  }
+  file
+  {
+    filenumber 473
+    fromfs 1
+    subdirindex 2
+    short "88.mp3"
+    filename "mario kart wii ost mp3\88. gba shy guy beach (final lap).mp3"
+  }
+  file
+  {
+    filenumber 474
+    fromfs 1
+    subdirindex 2
+    short "89.mp3"
+    filename "mario kart wii ost mp3\89. ds delfino square.mp3"
+  }
+  file
+  {
+    filenumber 475
+    fromfs 1
+    subdirindex 2
+    short "90.mp3"
+    filename "mario kart wii ost mp3\90. ds delfino square (final lap).mp3"
+  }
+  file
+  {
+    filenumber 476
+    fromfs 1
+    subdirindex 2
+    short "91.mp3"
+    filename "mario kart wii ost mp3\91. gcn waluigi stadium.mp3"
+  }
+  file
+  {
+    filenumber 477
+    fromfs 1
+    subdirindex 2
+    short "92.mp3"
+    filename "mario kart wii ost mp3\92. gcn waluigi stadium (final lap).mp3"
+  }
+  file
+  {
+    filenumber 478
+    fromfs 1
+    subdirindex 2
+    short "93.mp3"
+    filename "mario kart wii ost mp3\93. ds desert hills.mp3"
+  }
+  file
+  {
+    filenumber 479
+    fromfs 1
+    subdirindex 2
+    short "94.mp3"
+    filename "mario kart wii ost mp3\94. ds desert hills (final lap).mp3"
+  }
+  file
+  {
+    filenumber 480
+    fromfs 1
+    subdirindex 2
+    short "95.mp3"
+    filename "mario kart wii ost mp3\95. gba bowser's castle.mp3"
+  }
+  file
+  {
+    filenumber 481
+    fromfs 1
+    subdirindex 2
+    short "96.mp3"
+    filename "mario kart wii ost mp3\96. gba bowser's castle (final lap).mp3"
+  }
+  file
+  {
+    filenumber 482
+    fromfs 1
+    subdirindex 2
+    short "97.mp3"
+    filename "mario kart wii ost mp3\97. n64 dk jungle parkway.mp3"
+  }
+  file
+  {
+    filenumber 483
+    fromfs 1
+    subdirindex 2
+    short "98.mp3"
+    filename "mario kart wii ost mp3\98. n64 dk jungle parkway (final lap).mp3"
+  }
+  file
+  {
+    filenumber 484
+    fromfs 1
+    subdirindex 2
+    short "99.mp3"
+    filename "mario kart wii ost mp3\99. gcn mario circuit.mp3"
+  }
+  file
+  {
+    filenumber 485
+    fromfs 1
+    subdirindex 2
+    short "moohn_ddlc.mp3"
+    filename "moohn_ddlc.mp3"
+  }
+  file
+  {
+    filenumber 486
+    fromfs 1
+    subdirindex 2
+    short "Ariana Grande - positions (official video)[Mpgun.mp3"
+    filename "musique enora\ariana grande - positions (official video)[mpgun.com].mp3"
+  }
+  file
+  {
+    filenumber 487
+    fromfs 1
+    subdirindex 2
+    short "Bad Word[Mpgun.mp3"
+    filename "musique enora\bad word[mpgun.com].mp3"
+  }
+  file
+  {
+    filenumber 488
+    fromfs 1
+    subdirindex 2
+    short "Bande Organisée - Sch - Kofs - Jul - Naps - Soso maness - Elams - Solda - Houari -- Clip Officiel[Mpgun.mp3"
+    filename "musique enora\bande organisée - sch - kofs - jul - naps - soso maness - elams - solda - houari -- clip officiel[mpgun.com].mp3"
+  }
+  file
+  {
+    filenumber 489
+    fromfs 1
+    subdirindex 2
+    short "BTS (?????) -ON- Kinetic Manifesto Film - Come Prima[Mpgun.mp3"
+    filename "musique enora\bts (?????) -on- kinetic manifesto film - come prima[mpgun.com].mp3"
+  }
+  file
+  {
+    filenumber 490
+    fromfs 1
+    subdirindex 2
+    short "Colonel Reyel - Aurélie (Clip officiel)[Mpgun.mp3"
+    filename "musique enora\colonel reyel - aurélie (clip officiel)[mpgun.com].mp3"
+  }
+  file
+  {
+    filenumber 491
+    fromfs 1
+    subdirindex 2
+    short "KARD 4th Mini Album -RED MOON- _ M-V[Mpgun.mp3"
+    filename "musique enora\kard 4th mini album -red moon- _ m-v[mpgun.com].mp3"
+  }
+  file
+  {
+    filenumber 492
+    fromfs 1
+    subdirindex 2
+    short "Katy Perry - Chained To The Rhythm (Official) ft.mp3"
+    filename "musique enora\katy perry - mix\katy perry - chained to the rhythm (official) ft. skip marley.mp3"
+  }
+  file
+  {
+    filenumber 493
+    fromfs 1
+    subdirindex 2
+    short "Katy Perry - Rise (Official).mp3"
+    filename "musique enora\katy perry - mix\katy perry - rise (official).mp3"
+  }
+  file
+  {
+    filenumber 494
+    fromfs 1
+    subdirindex 2
+    short "Timbaland - If We Ever Meet Again ft.mp3"
+    filename "musique enora\katy perry - mix\timbaland - if we ever meet again ft. katy perry.mp3"
+  }
+  file
+  {
+    filenumber 495
+    fromfs 1
+    subdirindex 2
+    short "Kids United - Winter 2016 ;-).mp3"
+    filename "musique enora\kids united - mix\kids united - winter 2016 ;-).mp3"
+  }
+  file
+  {
+    filenumber 496
+    fromfs 1
+    subdirindex 2
+    short "Kids United Nouvelle Génération - Summer Medley.mp3"
+    filename "musique enora\kids united - mix\kids united nouvelle génération - summer medley.mp3"
+  }
+  file
+  {
+    filenumber 497
+    fromfs 1
+    subdirindex 2
+    short "2 - Louane - On était beau (Clip Officiel).mp3"
+    filename "musique enora\louane - album\2 - louane - on était beau (clip officiel).mp3"
+  }
+  file
+  {
+    filenumber 498
+    fromfs 1
+    subdirindex 2
+    short "6 - Louane - No (Audio).mp3"
+    filename "musique enora\louane - album\6 - louane - no (audio).mp3"
+  }
+  file
+  {
+    filenumber 499
+    fromfs 1
+    subdirindex 2
+    short "9 - Louane - Nuit pourpre [Audio].mp3"
+    filename "musique enora\louane - album\9 - louane - nuit pourpre [audio].mp3"
+  }
+  file
+  {
+    filenumber 500
+    fromfs 1
+    subdirindex 2
+    short "Maroon 5 - Animals (Official Music Video)[Mpgun.mp3"
+    filename "musique enora\maroon 5 - animals (official music video)[mpgun.com].mp3"
+  }
+  file
+  {
+    filenumber 501
+    fromfs 1
+    subdirindex 2
+    short "Nightcore - Nightmare (Male Version) [Mpgun.mp3"
+    filename "musique enora\nightcore - nightmare (male version) [mpgun.com].mp3"
+  }
+  file
+  {
+    filenumber 502
+    fromfs 1
+    subdirindex 2
+    short "Nightcore- River[Mpgun.mp3"
+    filename "musique enora\nightcore- river[mpgun.com].mp3"
+  }
+  file
+  {
+    filenumber 503
+    fromfs 1
+    subdirindex 2
+    short "Panic! At The Disco- Victorious [OFFICIAL VIDEO][Mpgun.mp3"
+    filename "musique enora\panic! at the disco- victorious [official video][mpgun.com].mp3"
+  }
+  file
+  {
+    filenumber 504
+    fromfs 1
+    subdirindex 2
+    short "Sifax - Mecs de cités ft Sofiane (Clip Officiel)[Mpgun.mp3"
+    filename "musique enora\sifax - mecs de cités ft sofiane (clip officiel)[mpgun.com].mp3"
+  }
+  file
+  {
+    filenumber 505
+    fromfs 1
+    subdirindex 2
+    short "TAL - Le Passé (Clip Officiel).mp3"
+    filename "musique enora\tal - mix\tal - le passé (clip officiel).mp3"
+  }
+  file
+  {
+    filenumber 506
+    fromfs 1
+    subdirindex 2
+    short "TAL - Rien N'est Parfait (Clip Officiel).mp3"
+    filename "musique enora\tal - mix\tal - rien n'est parfait (clip officiel).mp3"
+  }
+  file
+  {
+    filenumber 507
+    fromfs 1
+    subdirindex 2
+    short "[MV] ??? (MAMAMOO) - AYA[Mpgun.mp3"
+    filename "musique enora\[mv] ??? (mamamoo) - aya[mpgun.com].mp3"
+  }
+  file
+  {
+    filenumber 508
+    fromfs 1
+    subdirindex 2
+    short "[MV] ???(MAMAMOO) - HIP[Mpgun.mp3"
+    filename "musique enora\[mv] ???(mamamoo) - hip[mpgun.com] (1).mp3"
+  }
+  file
+  {
+    filenumber 509
+    fromfs 1
+    subdirindex 2
+    short "« CLASH PANTOUFLE »__ MUSIQUE __ SWIMLY (Ft juju fitcats...ou pas)[Mpgun.mp3"
+    filename "musique enora\« clash pantoufle »__ musique __ swimly (ft juju fitcats...ou pas)[mpgun.com].mp3"
+  }
+  file
+  {
+    filenumber 510
+    fromfs 1
+    subdirindex 2
+    short "My Nonfiction.mp3"
+    filename "my nonfiction.mp3"
+  }
+  file
+  {
+    filenumber 511
+    fromfs 1
+    subdirindex 2
+    short "01.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\01. snow in summer.mp3"
+  }
+  file
+  {
+    filenumber 512
+    fromfs 1
+    subdirindex 2
+    short "02.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\02. hills of radiant winds.mp3"
+  }
+  file
+  {
+    filenumber 513
+    fromfs 1
+    subdirindex 2
+    short "03.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\03. the incomplete stone.mp3"
+  }
+  file
+  {
+    filenumber 514
+    fromfs 1
+    subdirindex 2
+    short "04.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\04. blu-bird.mp3"
+  }
+  file
+  {
+    filenumber 515
+    fromfs 1
+    subdirindex 2
+    short "05.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\05. song of the ancients - popola.mp3"
+  }
+  file
+  {
+    filenumber 516
+    fromfs 1
+    subdirindex 2
+    short "06.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\06. cold steel coffin.mp3"
+  }
+  file
+  {
+    filenumber 517
+    fromfs 1
+    subdirindex 2
+    short "07.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\07. grandma.mp3"
+  }
+  file
+  {
+    filenumber 518
+    fromfs 1
+    subdirindex 2
+    short "08.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\08. the wretched automatons.mp3"
+  }
+  file
+  {
+    filenumber 519
+    fromfs 1
+    subdirindex 2
+    short "09. Yonah - Pluck Ver.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\09. yonah - pluck ver..mp3"
+  }
+  file
+  {
+    filenumber 520
+    fromfs 1
+    subdirindex 2
+    short "10.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\10. city of commerce.mp3"
+  }
+  file
+  {
+    filenumber 521
+    fromfs 1
+    subdirindex 2
+    short "11.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\11. the prestigious mask.mp3"
+  }
+  file
+  {
+    filenumber 522
+    fromfs 1
+    subdirindex 2
+    short "12.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\12. temple of drifting sands.mp3"
+  }
+  file
+  {
+    filenumber 523
+    fromfs 1
+    subdirindex 2
+    short "13.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\13. gods bound by rules.mp3"
+  }
+  file
+  {
+    filenumber 524
+    fromfs 1
+    subdirindex 2
+    short "14. Dispossession - Piano Ver.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\14. dispossession - piano ver..mp3"
+  }
+  file
+  {
+    filenumber 525
+    fromfs 1
+    subdirindex 2
+    short "15.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\15. ashes of dreams - new.mp3"
+  }
+  file
+  {
+    filenumber 526
+    fromfs 1
+    subdirindex 2
+    short "16.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\16. kainé - premonition.mp3"
+  }
+  file
+  {
+    filenumber 527
+    fromfs 1
+    subdirindex 2
+    short "17.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\17. song of the ancients - devola.mp3"
+  }
+  file
+  {
+    filenumber 528
+    fromfs 1
+    subdirindex 2
+    short "18.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\18. the ultimate weapon.mp3"
+  }
+  file
+  {
+    filenumber 529
+    fromfs 1
+    subdirindex 2
+    short "19.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\19. halua.mp3"
+  }
+  file
+  {
+    filenumber 530
+    fromfs 1
+    subdirindex 2
+    short "20.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\20. deep crimson foe.mp3"
+  }
+  file
+  {
+    filenumber 531
+    fromfs 1
+    subdirindex 2
+    short "21.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\21. the lost forest.mp3"
+  }
+  file
+  {
+    filenumber 532
+    fromfs 1
+    subdirindex 2
+    short "22.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\22. his dream.mp3"
+  }
+  file
+  {
+    filenumber 533
+    fromfs 1
+    subdirindex 2
+    short "23.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\23. this dream.mp3"
+  }
+  file
+  {
+    filenumber 534
+    fromfs 1
+    subdirindex 2
+    short "24. Dispossession - Strings Ver.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\24. dispossession - strings ver..mp3"
+  }
+  file
+  {
+    filenumber 535
+    fromfs 1
+    subdirindex 2
+    short "25.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\25. kainé - salvation.mp3"
+  }
+  file
+  {
+    filenumber 536
+    fromfs 1
+    subdirindex 2
+    short "26.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\26. the dark colossus destroys all.mp3"
+  }
+  file
+  {
+    filenumber 537
+    fromfs 1
+    subdirindex 2
+    short "27. Yonah - Piano Ver.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\27. yonah - piano ver..mp3"
+  }
+  file
+  {
+    filenumber 538
+    fromfs 1
+    subdirindex 2
+    short "28.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\28. ashes of dreams - nouveau.mp3"
+  }
+  file
+  {
+    filenumber 539
+    fromfs 1
+    subdirindex 2
+    short "29.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\29. ashes of dreams - naudhaich.mp3"
+  }
+  file
+  {
+    filenumber 540
+    fromfs 1
+    subdirindex 2
+    short "30.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\30. ashes of dreams - lost music box version.mp3"
+  }
+  file
+  {
+    filenumber 541
+    fromfs 1
+    subdirindex 2
+    short "31.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\31. fleeting words - family.mp3"
+  }
+  file
+  {
+    filenumber 542
+    fromfs 1
+    subdirindex 2
+    short "32.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\32. fleeting words - outsider.mp3"
+  }
+  file
+  {
+    filenumber 543
+    fromfs 1
+    subdirindex 2
+    short "33.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\33. repose.mp3"
+  }
+  file
+  {
+    filenumber 544
+    fromfs 1
+    subdirindex 2
+    short "34.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\34. song of the ancients - hollow dreams.mp3"
+  }
+  file
+  {
+    filenumber 545
+    fromfs 1
+    subdirindex 2
+    short "35. Dispossession - Music Box Ver.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\35. dispossession - music box ver..mp3"
+  }
+  file
+  {
+    filenumber 546
+    fromfs 1
+    subdirindex 2
+    short "36.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\36. shadowlord's castle.mp3"
+  }
+  file
+  {
+    filenumber 547
+    fromfs 1
+    subdirindex 2
+    short "37.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\37. dance of the evanescent.mp3"
+  }
+  file
+  {
+    filenumber 548
+    fromfs 1
+    subdirindex 2
+    short "38.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\38. song of the ancients - fate.mp3"
+  }
+  file
+  {
+    filenumber 549
+    fromfs 1
+    subdirindex 2
+    short "39.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\39. emil - karma.mp3"
+  }
+  file
+  {
+    filenumber 550
+    fromfs 1
+    subdirindex 2
+    short "40.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\40. emil - sacrifice.mp3"
+  }
+  file
+  {
+    filenumber 551
+    fromfs 1
+    subdirindex 2
+    short "41.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\41. shadowlord.mp3"
+  }
+  file
+  {
+    filenumber 552
+    fromfs 1
+    subdirindex 2
+    short "42.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\42. analogous memories.mp3"
+  }
+  file
+  {
+    filenumber 553
+    fromfs 1
+    subdirindex 2
+    short "43.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\43. grandma - reunion.mp3"
+  }
+  file
+  {
+    filenumber 554
+    fromfs 1
+    subdirindex 2
+    short "44.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\44. kainé - escape.mp3"
+  }
+  file
+  {
+    filenumber 555
+    fromfs 1
+    subdirindex 2
+    short "45.mp3"
+    filename "nier replicant ver.1.22474487139... (ost)\all\45. ashes of dreams - aratanaru.mp3"
+  }
+  file
+  {
+    filenumber 556
+    fromfs 1
+    subdirindex 2
+    short "Olivine City (Remix).mp3"
+    filename "olivine city (remix).mp3"
+  }
+  file
+  {
+    filenumber 557
+    fromfs 1
+    subdirindex 2
+    short "radio1-[AudioTrimmer.mp3"
+    filename "radio1-[audiotrimmer.com].mp3"
+  }
+  file
+  {
+    filenumber 558
+    fromfs 1
+    subdirindex 2
+    short "revenge zombie land saga.mp3"
+    filename "revenge zombie land saga.mp3"
+  }
+  file
+  {
+    filenumber 559
+    fromfs 1
+    subdirindex 2
+    short "1-01.mp3"
+    filename "splatoon 3 - side order\1-01. introduction.mp3"
+  }
+  file
+  {
+    filenumber 560
+    fromfs 1
+    subdirindex 2
+    short "1-02. #0.mp3"
+    filename "splatoon 3 - side order\1-02. #0.1 style.mp3"
+  }
+  file
+  {
+    filenumber 561
+    fromfs 1
+    subdirindex 2
+    short "1-03.mp3"
+    filename "splatoon 3 - side order\1-03. leaving with pearl.mp3"
+  }
+  file
+  {
+    filenumber 562
+    fromfs 1
+    subdirindex 2
+    short "1-04.mp3"
+    filename "splatoon 3 - side order\1-04. trouble's coming.mp3"
+  }
+  file
+  {
+    filenumber 563
+    fromfs 1
+    subdirindex 2
+    short "1-05.mp3"
+    filename "splatoon 3 - side order\1-05. i'm acht.mp3"
+  }
+  file
+  {
+    filenumber 564
+    fromfs 1
+    subdirindex 2
+    short "1-06. #12.mp3"
+    filename "splatoon 3 - side order\1-06. #12.2 awakened.mp3"
+  }
+  file
+  {
+    filenumber 565
+    fromfs 1
+    subdirindex 2
+    short "1-07.mp3"
+    filename "splatoon 3 - side order\1-07. elevator (tutorial).mp3"
+  }
+  file
+  {
+    filenumber 566
+    fromfs 1
+    subdirindex 2
+    short "1-08.mp3"
+    filename "splatoon 3 - side order\1-08. floor clear! (tutorial).mp3"
+  }
+  file
+  {
+    filenumber 567
+    fromfs 1
+    subdirindex 2
+    short "1-09.mp3"
+    filename "splatoon 3 - side order\1-09. the administrator of order.mp3"
+  }
+  file
+  {
+    filenumber 568
+    fromfs 1
+    subdirindex 2
+    short "1-10.mp3"
+    filename "splatoon 3 - side order\1-10. unconscience.mp3"
+  }
+  file
+  {
+    filenumber 569
+    fromfs 1
+    subdirindex 2
+    short "1-11.mp3"
+    filename "splatoon 3 - side order\1-11. order itself.mp3"
+  }
+  file
+  {
+    filenumber 570
+    fromfs 1
+    subdirindex 2
+    short "1-12.mp3"
+    filename "splatoon 3 - side order\1-12. side order.mp3"
+  }
+  file
+  {
+    filenumber 571
+    fromfs 1
+    subdirindex 2
+    short "1-13.mp3"
+    filename "splatoon 3 - side order\1-13. origin of order.mp3"
+  }
+  file
+  {
+    filenumber 572
+    fromfs 1
+    subdirindex 2
+    short "1-14.mp3"
+    filename "splatoon 3 - side order\1-14. dramatic days.mp3"
+  }
+  file
+  {
+    filenumber 573
+    fromfs 1
+    subdirindex 2
+    short "1-15.mp3"
+    filename "splatoon 3 - side order\1-15. order sector [no sfx].mp3"
+  }
+  file
+  {
+    filenumber 574
+    fromfs 1
+    subdirindex 2
+    short "1-16.mp3"
+    filename "splatoon 3 - side order\1-16. foyer [no sfx].mp3"
+  }
+  file
+  {
+    filenumber 575
+    fromfs 1
+    subdirindex 2
+    short "1-17.mp3"
+    filename "splatoon 3 - side order\1-17. elevator: floor 1–10.mp3"
+  }
+  file
+  {
+    filenumber 576
+    fromfs 1
+    subdirindex 2
+    short "1-18.mp3"
+    filename "splatoon 3 - side order\1-18. floor clear! a.mp3"
+  }
+  file
+  {
+    filenumber 577
+    fromfs 1
+    subdirindex 2
+    short "1-19.mp3"
+    filename "splatoon 3 - side order\1-19. elevator: floor 11–20.mp3"
+  }
+  file
+  {
+    filenumber 578
+    fromfs 1
+    subdirindex 2
+    short "1-20.mp3"
+    filename "splatoon 3 - side order\1-20. floor clear! b.mp3"
+  }
+  file
+  {
+    filenumber 579
+    fromfs 1
+    subdirindex 2
+    short "1-21.mp3"
+    filename "splatoon 3 - side order\1-21. elevator: floor 21–29.mp3"
+  }
+  file
+  {
+    filenumber 580
+    fromfs 1
+    subdirindex 2
+    short "1-22.mp3"
+    filename "splatoon 3 - side order\1-22. floor clear! c.mp3"
+  }
+  file
+  {
+    filenumber 581
+    fromfs 1
+    subdirindex 2
+    short "1-23.mp3"
+    filename "splatoon 3 - side order\1-23. demol1sh.mp3"
+  }
+  file
+  {
+    filenumber 582
+    fromfs 1
+    subdirindex 2
+    short "1-24.mp3"
+    filename "splatoon 3 - side order\1-24. demoli2h.mp3"
+  }
+  file
+  {
+    filenumber 583
+    fromfs 1
+    subdirindex 2
+    short "1-25.mp3"
+    filename "splatoon 3 - side order\1-25. d3molish.mp3"
+  }
+  file
+  {
+    filenumber 584
+    fromfs 1
+    subdirindex 2
+    short "1-26.mp3"
+    filename "splatoon 3 - side order\1-26. jest1ng.mp3"
+  }
+  file
+  {
+    filenumber 585
+    fromfs 1
+    subdirindex 2
+    short "1-27.mp3"
+    filename "splatoon 3 - side order\1-27. je2ting.mp3"
+  }
+  file
+  {
+    filenumber 586
+    fromfs 1
+    subdirindex 2
+    short "1-28.mp3"
+    filename "splatoon 3 - side order\1-28. j3sting.mp3"
+  }
+  file
+  {
+    filenumber 587
+    fromfs 1
+    subdirindex 2
+    short "1-29.mp3"
+    filename "splatoon 3 - side order\1-29. rout1nes.mp3"
+  }
+  file
+  {
+    filenumber 588
+    fromfs 1
+    subdirindex 2
+    short "1-30.mp3"
+    filename "splatoon 3 - side order\1-30. routine2.mp3"
+  }
+  file
+  {
+    filenumber 589
+    fromfs 1
+    subdirindex 2
+    short "1-31.mp3"
+    filename "splatoon 3 - side order\1-31. routin3s.mp3"
+  }
+  file
+  {
+    filenumber 590
+    fromfs 1
+    subdirindex 2
+    short "1-32.mp3"
+    filename "splatoon 3 - side order\1-32. souven1r.mp3"
+  }
+  file
+  {
+    filenumber 591
+    fromfs 1
+    subdirindex 2
+    short "1-33.mp3"
+    filename "splatoon 3 - side order\1-33. 2ouvenir.mp3"
+  }
+  file
+  {
+    filenumber 592
+    fromfs 1
+    subdirindex 2
+    short "1-34.mp3"
+    filename "splatoon 3 - side order\1-34. souv3nir.mp3"
+  }
+  file
+  {
+    filenumber 593
+    fromfs 1
+    subdirindex 2
+    short "1-35.mp3"
+    filename "splatoon 3 - side order\1-35. j1tters.mp3"
+  }
+  file
+  {
+    filenumber 594
+    fromfs 1
+    subdirindex 2
+    short "1-36.mp3"
+    filename "splatoon 3 - side order\1-36. jitter2.mp3"
+  }
+  file
+  {
+    filenumber 595
+    fromfs 1
+    subdirindex 2
+    short "1-37.mp3"
+    filename "splatoon 3 - side order\1-37. jitt3rs.mp3"
+  }
+  file
+  {
+    filenumber 596
+    fromfs 1
+    subdirindex 2
+    short "1-38.mp3"
+    filename "splatoon 3 - side order\1-38. ctld sttrage.mp3"
+  }
+  file
+  {
+    filenumber 597
+    fromfs 1
+    subdirindex 2
+    short "1-39.mp3"
+    filename "splatoon 3 - side order\1-39. tcttptictn.mp3"
+  }
+  file
+  {
+    filenumber 598
+    fromfs 1
+    subdirindex 2
+    short "1-40.mp3"
+    filename "splatoon 3 - side order\1-40. echt tnslaught.mp3"
+  }
+  file
+  {
+    filenumber 599
+    fromfs 1
+    subdirindex 2
+    short "1-41.mp3"
+    filename "splatoon 3 - side order\1-41. boss floor clear!.mp3"
+  }
+  file
+  {
+    filenumber 600
+    fromfs 1
+    subdirindex 2
+    short "1-42.mp3"
+    filename "splatoon 3 - side order\1-42. elevator: floor 30.mp3"
+  }
+  file
+  {
+    filenumber 601
+    fromfs 1
+    subdirindex 2
+    short "1-43.mp3"
+    filename "splatoon 3 - side order\1-43. marina and order.mp3"
+  }
+  file
+  {
+    filenumber 602
+    fromfs 1
+    subdirindex 2
+    short "1-44.mp3"
+    filename "splatoon 3 - side order\1-44. the magistrate of order.mp3"
+  }
+  file
+  {
+    filenumber 603
+    fromfs 1
+    subdirindex 2
+    short "1-45.mp3"
+    filename "splatoon 3 - side order\1-45. new world order.mp3"
+  }
+  file
+  {
+    filenumber 604
+    fromfs 1
+    subdirindex 2
+    short "1-46.mp3"
+    filename "splatoon 3 - side order\1-46. blank world.mp3"
+  }
+  file
+  {
+    filenumber 605
+    fromfs 1
+    subdirindex 2
+    short "1-47.mp3"
+    filename "splatoon 3 - side order\1-47. eight finds the beat.mp3"
+  }
+  file
+  {
+    filenumber 606
+    fromfs 1
+    subdirindex 2
+    short "1-48.mp3"
+    filename "splatoon 3 - side order\1-48. spectrum obligato ~ ebb & flow (out of order).mp3"
+  }
+  file
+  {
+    filenumber 607
+    fromfs 1
+    subdirindex 2
+    short "1-49.mp3"
+    filename "splatoon 3 - side order\1-49. smollusk, case closed!.mp3"
+  }
+  file
+  {
+    filenumber 608
+    fromfs 1
+    subdirindex 2
+    short "1-50.mp3"
+    filename "splatoon 3 - side order\1-50. #47 onward.mp3"
+  }
+  file
+  {
+    filenumber 609
+    fromfs 1
+    subdirindex 2
+    short "1-51.mp3"
+    filename "splatoon 3 - side order\1-51. ascension clear!.mp3"
+  }
+  file
+  {
+    filenumber 610
+    fromfs 1
+    subdirindex 2
+    short "1-52.mp3"
+    filename "splatoon 3 - side order\1-52. ascension miss.mp3"
+  }
+  file
+  {
+    filenumber 611
+    fromfs 1
+    subdirindex 2
+    short "1-53.mp3"
+    filename "splatoon 3 - side order\1-53. order sector (after fight) [recording].mp3"
+  }
+  file
+  {
+    filenumber 612
+    fromfs 1
+    subdirindex 2
+    short "1-54.mp3"
+    filename "splatoon 3 - side order\1-54. foyer (after fight) [recording].mp3"
+  }
+  file
+  {
+    filenumber 613
+    fromfs 1
+    subdirindex 2
+    short "1-55.mp3"
+    filename "splatoon 3 - side order\1-55. smollusk returns.mp3"
+  }
+  file
+  {
+    filenumber 614
+    fromfs 1
+    subdirindex 2
+    short "1-56.mp3"
+    filename "splatoon 3 - side order\1-56. the one slight catch.mp3"
+  }
+  file
+  {
+    filenumber 615
+    fromfs 1
+    subdirindex 2
+    short "1-57.mp3"
+    filename "splatoon 3 - side order\1-57. short order.mp3"
+  }
+  file
+  {
+    filenumber 616
+    fromfs 1
+    subdirindex 2
+    short "1-58.mp3"
+    filename "splatoon 3 - side order\1-58. reward jingle.mp3"
+  }
+  file
+  {
+    filenumber 617
+    fromfs 1
+    subdirindex 2
+    short "1-59.mp3"
+    filename "splatoon 3 - side order\1-59. reward jingle (after ending).mp3"
+  }
+  file
+  {
+    filenumber 618
+    fromfs 1
+    subdirindex 2
+    short "2-01.mp3"
+    filename "splatoon 3 - side order\2-01. bonus track: side order 1st trailer.mp3"
+  }
+  file
+  {
+    filenumber 619
+    fromfs 1
+    subdirindex 2
+    short "2-02.mp3"
+    filename "splatoon 3 - side order\2-02. bonus track: side order 2nd trailer.mp3"
+  }
+  file
+  {
+    filenumber 620
+    fromfs 1
+    subdirindex 2
+    short "2-03. Bonus Track: Spectrum Obligato (Alt.mp3"
+    filename "splatoon 3 - side order\2-03. bonus track: spectrum obligato (alt. outro).mp3"
+  }
+  file
+  {
+    filenumber 621
+    fromfs 1
+    subdirindex 2
+    short "2-04.mp3"
+    filename "splatoon 3 - side order\2-04. bonus track: order sector (after fight) [no sfx].mp3"
+  }
+  file
+  {
+    filenumber 622
+    fromfs 1
+    subdirindex 2
+    short "2-05.mp3"
+    filename "splatoon 3 - side order\2-05. bonus track: foyer (after fight) [no sfx].mp3"
+  }
+  file
+  {
+    filenumber 623
+    fromfs 1
+    subdirindex 2
+    short "1-01 Channel Menu.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-01 channel menu.mp3"
+  }
+  file
+  {
+    filenumber 624
+    fromfs 1
+    subdirindex 2
+    short "1-02 Title.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-02 title.mp3"
+  }
+  file
+  {
+    filenumber 625
+    fromfs 1
+    subdirindex 2
+    short "1-03 The Legend of Zelda- Orchestra Piece #1.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-03 the legend of zelda- orchestra piece #1.mp3"
+  }
+  file
+  {
+    filenumber 626
+    fromfs 1
+    subdirindex 2
+    short "1-04 Menu Select.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-04 menu select.mp3"
+  }
+  file
+  {
+    filenumber 627
+    fromfs 1
+    subdirindex 2
+    short "1-05 Opening Demo.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-05 opening demo.mp3"
+  }
+  file
+  {
+    filenumber 628
+    fromfs 1
+    subdirindex 2
+    short "1-06 Meet Ilia.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-06 meet ilia.mp3"
+  }
+  file
+  {
+    filenumber 629
+    fromfs 1
+    subdirindex 2
+    short "1-07 Horse Grass - Epona's Song (Blow).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-07 horse grass - epona's song (blow).mp3"
+  }
+  file
+  {
+    filenumber 630
+    fromfs 1
+    subdirindex 2
+    short "1-08 Ordon Village.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-08 ordon village.mp3"
+  }
+  file
+  {
+    filenumber 631
+    fromfs 1
+    subdirindex 2
+    short "1-09 Ordon Ranch.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-09 ordon ranch.mp3"
+  }
+  file
+  {
+    filenumber 632
+    fromfs 1
+    subdirindex 2
+    short "1-10 Herd Game.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-10 herd game.mp3"
+  }
+  file
+  {
+    filenumber 633
+    fromfs 1
+    subdirindex 2
+    short "1-11 Mini-Game Goal.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-11 mini-game goal.mp3"
+  }
+  file
+  {
+    filenumber 634
+    fromfs 1
+    subdirindex 2
+    short "1-12 Inside a House.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-12 inside a house.mp3"
+  }
+  file
+  {
+    filenumber 635
+    fromfs 1
+    subdirindex 2
+    short "1-13 Hawk Grass (Blow).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-13 hawk grass (blow).mp3"
+  }
+  file
+  {
+    filenumber 636
+    fromfs 1
+    subdirindex 2
+    short "1-14 The Hawk and the Cat.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-14 the hawk and the cat.mp3"
+  }
+  file
+  {
+    filenumber 637
+    fromfs 1
+    subdirindex 2
+    short "1-15 Shop.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-15 shop.mp3"
+  }
+  file
+  {
+    filenumber 638
+    fromfs 1
+    subdirindex 2
+    short "1-16 Instruction in the Art of the Sword.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-16 instruction in the art of the sword.mp3"
+  }
+  file
+  {
+    filenumber 639
+    fromfs 1
+    subdirindex 2
+    short "1-17 Talo's Rescue.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-17 talo's rescue.mp3"
+  }
+  file
+  {
+    filenumber 640
+    fromfs 1
+    subdirindex 2
+    short "1-18 Battle First Half.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-18 battle first half.mp3"
+  }
+  file
+  {
+    filenumber 641
+    fromfs 1
+    subdirindex 2
+    short "1-19 Battle Second Half.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-19 battle second half.mp3"
+  }
+  file
+  {
+    filenumber 642
+    fromfs 1
+    subdirindex 2
+    short "1-20 Cave.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-20 cave.mp3"
+  }
+  file
+  {
+    filenumber 643
+    fromfs 1
+    subdirindex 2
+    short "1-21 Departure.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-21 departure.mp3"
+  }
+  file
+  {
+    filenumber 644
+    fromfs 1
+    subdirindex 2
+    short "1-22 Wild Goat.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-22 wild goat.mp3"
+  }
+  file
+  {
+    filenumber 645
+    fromfs 1
+    subdirindex 2
+    short "1-23 Ilia's Theme.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-23 ilia's theme.mp3"
+  }
+  file
+  {
+    filenumber 646
+    fromfs 1
+    subdirindex 2
+    short "1-24 Enter the Darkness.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-24 enter the darkness.mp3"
+  }
+  file
+  {
+    filenumber 647
+    fromfs 1
+    subdirindex 2
+    short "1-25 Link's Transformation.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-25 link's transformation.mp3"
+  }
+  file
+  {
+    filenumber 648
+    fromfs 1
+    subdirindex 2
+    short "1-26 Midna's Theme.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-26 midna's theme.mp3"
+  }
+  file
+  {
+    filenumber 649
+    fromfs 1
+    subdirindex 2
+    short "1-27 A Helping Hand.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-27 a helping hand.mp3"
+  }
+  file
+  {
+    filenumber 650
+    fromfs 1
+    subdirindex 2
+    short "1-28 Twilight.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-28 twilight.mp3"
+  }
+  file
+  {
+    filenumber 651
+    fromfs 1
+    subdirindex 2
+    short "1-29 Twilit Battle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-29 twilit battle.mp3"
+  }
+  file
+  {
+    filenumber 652
+    fromfs 1
+    subdirindex 2
+    short "1-30 Princess Zelda Appears.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-30 princess zelda appears.mp3"
+  }
+  file
+  {
+    filenumber 653
+    fromfs 1
+    subdirindex 2
+    short "1-31 Succumbed to Twilight.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-31 succumbed to twilight.mp3"
+  }
+  file
+  {
+    filenumber 654
+    fromfs 1
+    subdirindex 2
+    short "1-32 Meeting with Princess Zelda.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-32 meeting with princess zelda.mp3"
+  }
+  file
+  {
+    filenumber 655
+    fromfs 1
+    subdirindex 2
+    short "1-33 A Beast in the Village.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-33 a beast in the village.mp3"
+  }
+  file
+  {
+    filenumber 656
+    fromfs 1
+    subdirindex 2
+    short "1-34 Hawk Grass (Howl).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-34 hawk grass (howl).mp3"
+  }
+  file
+  {
+    filenumber 657
+    fromfs 1
+    subdirindex 2
+    short "1-35 Shadow Beast Battle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-35 shadow beast battle.mp3"
+  }
+  file
+  {
+    filenumber 658
+    fromfs 1
+    subdirindex 2
+    short "1-36 The Light Spirit Appears.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-36 the light spirit appears.mp3"
+  }
+  file
+  {
+    filenumber 659
+    fromfs 1
+    subdirindex 2
+    short "1-37 Reduced to a Netherworld.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-37 reduced to a netherworld.mp3"
+  }
+  file
+  {
+    filenumber 660
+    fromfs 1
+    subdirindex 2
+    short "1-38 Recover the Lost Light.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\1-38 recover the lost light.mp3"
+  }
+  file
+  {
+    filenumber 661
+    fromfs 1
+    subdirindex 2
+    short "2-01 The Lamentation of the Spirit.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-01 the lamentation of the spirit.mp3"
+  }
+  file
+  {
+    filenumber 662
+    fromfs 1
+    subdirindex 2
+    short "2-02 The Vessel of Light is Full of Tears.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-02 the vessel of light is full of tears.mp3"
+  }
+  file
+  {
+    filenumber 663
+    fromfs 1
+    subdirindex 2
+    short "2-03 The Hero Chosen by the Gods.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-03 the hero chosen by the gods.mp3"
+  }
+  file
+  {
+    filenumber 664
+    fromfs 1
+    subdirindex 2
+    short "2-04 Faron Woods.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-04 faron woods.mp3"
+  }
+  file
+  {
+    filenumber 665
+    fromfs 1
+    subdirindex 2
+    short "2-05 Hidden Skill Training.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-05 hidden skill training.mp3"
+  }
+  file
+  {
+    filenumber 666
+    fromfs 1
+    subdirindex 2
+    short "2-06 Hidden Skill Get.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-06 hidden skill get.mp3"
+  }
+  file
+  {
+    filenumber 667
+    fromfs 1
+    subdirindex 2
+    short "2-07 Forest Temple.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-07 forest temple.mp3"
+  }
+  file
+  {
+    filenumber 668
+    fromfs 1
+    subdirindex 2
+    short "2-08 Treasure Chest Open.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-08 treasure chest open.mp3"
+  }
+  file
+  {
+    filenumber 669
+    fromfs 1
+    subdirindex 2
+    short "2-09 Item Get.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-09 item get.mp3"
+  }
+  file
+  {
+    filenumber 670
+    fromfs 1
+    subdirindex 2
+    short "2-10 Small Item Get.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-10 small item get.mp3"
+  }
+  file
+  {
+    filenumber 671
+    fromfs 1
+    subdirindex 2
+    short "2-11 Rupee Get.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-11 rupee get.mp3"
+  }
+  file
+  {
+    filenumber 672
+    fromfs 1
+    subdirindex 2
+    short "2-12 Ooccoo's Theme.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-12 ooccoo's theme.mp3"
+  }
+  file
+  {
+    filenumber 673
+    fromfs 1
+    subdirindex 2
+    short "2-13 Ook Appears.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-13 ook appears.mp3"
+  }
+  file
+  {
+    filenumber 674
+    fromfs 1
+    subdirindex 2
+    short "2-14 Ook Battle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-14 ook battle.mp3"
+  }
+  file
+  {
+    filenumber 675
+    fromfs 1
+    subdirindex 2
+    short "2-15 Ook Defeated.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-15 ook defeated.mp3"
+  }
+  file
+  {
+    filenumber 676
+    fromfs 1
+    subdirindex 2
+    short "2-16 Twilit Parasite, Diababa Battle First Half.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-16 twilit parasite, diababa battle first half.mp3"
+  }
+  file
+  {
+    filenumber 677
+    fromfs 1
+    subdirindex 2
+    short "2-17 Twilit Parasite, Diababa Battle Second Half.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-17 twilit parasite, diababa battle second half.mp3"
+  }
+  file
+  {
+    filenumber 678
+    fromfs 1
+    subdirindex 2
+    short "2-18 Diababa Clear Fanfare.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-18 diababa clear fanfare.mp3"
+  }
+  file
+  {
+    filenumber 679
+    fromfs 1
+    subdirindex 2
+    short "2-19 Fused Shadow Get.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-19 fused shadow get.mp3"
+  }
+  file
+  {
+    filenumber 680
+    fromfs 1
+    subdirindex 2
+    short "2-20 Heart Container Get.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-20 heart container get.mp3"
+  }
+  file
+  {
+    filenumber 681
+    fromfs 1
+    subdirindex 2
+    short "2-21 The Next Light Spirit.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-21 the next light spirit.mp3"
+  }
+  file
+  {
+    filenumber 682
+    fromfs 1
+    subdirindex 2
+    short "2-22 Our Children Taken.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-22 our children taken.mp3"
+  }
+  file
+  {
+    filenumber 683
+    fromfs 1
+    subdirindex 2
+    short "2-23 Hyrule Plain Morning and Twilight Theme.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-23 hyrule plain morning and twilight theme.mp3"
+  }
+  file
+  {
+    filenumber 684
+    fromfs 1
+    subdirindex 2
+    short "2-24 Hyrule Plain Main Theme.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-24 hyrule plain main theme.mp3"
+  }
+  file
+  {
+    filenumber 685
+    fromfs 1
+    subdirindex 2
+    short "2-25 Hyrule Plain Night Theme.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-25 hyrule plain night theme.mp3"
+  }
+  file
+  {
+    filenumber 686
+    fromfs 1
+    subdirindex 2
+    short "2-26 Golden Bug Catch.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-26 golden bug catch.mp3"
+  }
+  file
+  {
+    filenumber 687
+    fromfs 1
+    subdirindex 2
+    short "2-27 Postman's Theme.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-27 postman's theme.mp3"
+  }
+  file
+  {
+    filenumber 688
+    fromfs 1
+    subdirindex 2
+    short "2-28 Scared.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-28 scared.mp3"
+  }
+  file
+  {
+    filenumber 689
+    fromfs 1
+    subdirindex 2
+    short "2-29 Having Faith in Link.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-29 having faith in link.mp3"
+  }
+  file
+  {
+    filenumber 690
+    fromfs 1
+    subdirindex 2
+    short "2-30 Burning Storehouse.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-30 burning storehouse.mp3"
+  }
+  file
+  {
+    filenumber 691
+    fromfs 1
+    subdirindex 2
+    short "2-31 Wolf Song 1 - Song of Healing (Howling Stone).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-31 wolf song 1 - song of healing (howling stone).mp3"
+  }
+  file
+  {
+    filenumber 692
+    fromfs 1
+    subdirindex 2
+    short "2-32 Wolf Song 1 - Song of Healing.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-32 wolf song 1 - song of healing.mp3"
+  }
+  file
+  {
+    filenumber 693
+    fromfs 1
+    subdirindex 2
+    short "2-33 Wolf Song 1 - Song of Healing (Duo).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-33 wolf song 1 - song of healing (duo).mp3"
+  }
+  file
+  {
+    filenumber 694
+    fromfs 1
+    subdirindex 2
+    short "2-34 Kakariko Saved.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-34 kakariko saved.mp3"
+  }
+  file
+  {
+    filenumber 695
+    fromfs 1
+    subdirindex 2
+    short "2-35 The Mountain-Dwelling Goron Tribe.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-35 the mountain-dwelling goron tribe.mp3"
+  }
+  file
+  {
+    filenumber 696
+    fromfs 1
+    subdirindex 2
+    short "2-36 Kakariko Village.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-36 kakariko village.mp3"
+  }
+  file
+  {
+    filenumber 697
+    fromfs 1
+    subdirindex 2
+    short "2-37 Sanctuary.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-37 sanctuary.mp3"
+  }
+  file
+  {
+    filenumber 698
+    fromfs 1
+    subdirindex 2
+    short "2-38 Graveyard.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-38 graveyard.mp3"
+  }
+  file
+  {
+    filenumber 699
+    fromfs 1
+    subdirindex 2
+    short "2-39 Death Mountain.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-39 death mountain.mp3"
+  }
+  file
+  {
+    filenumber 700
+    fromfs 1
+    subdirindex 2
+    short "2-40 Epona Appears.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-40 epona appears.mp3"
+  }
+  file
+  {
+    filenumber 701
+    fromfs 1
+    subdirindex 2
+    short "2-41 Rodeo Game.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-41 rodeo game.mp3"
+  }
+  file
+  {
+    filenumber 702
+    fromfs 1
+    subdirindex 2
+    short "2-42 Seize Epona Fanfare.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-42 seize epona fanfare.mp3"
+  }
+  file
+  {
+    filenumber 703
+    fromfs 1
+    subdirindex 2
+    short "2-43 Sumo Wrestling.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\2-43 sumo wrestling.mp3"
+  }
+  file
+  {
+    filenumber 704
+    fromfs 1
+    subdirindex 2
+    short "3-01 The Thundering Herd.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-01 the thundering herd.mp3"
+  }
+  file
+  {
+    filenumber 705
+    fromfs 1
+    subdirindex 2
+    short "3-02 Before the Battle at Eldin Bridge.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-02 before the battle at eldin bridge.mp3"
+  }
+  file
+  {
+    filenumber 706
+    fromfs 1
+    subdirindex 2
+    short "3-03 Battle at Eldin Bridge.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-03 battle at eldin bridge.mp3"
+  }
+  file
+  {
+    filenumber 707
+    fromfs 1
+    subdirindex 2
+    short "3-04 King Bulblin and Lord Bullbo Battle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-04 king bulblin and lord bullbo battle.mp3"
+  }
+  file
+  {
+    filenumber 708
+    fromfs 1
+    subdirindex 2
+    short "3-05 King Bulblin and Lord Bullbo Clear Fanfare.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-05 king bulblin and lord bullbo clear fanfare.mp3"
+  }
+  file
+  {
+    filenumber 709
+    fromfs 1
+    subdirindex 2
+    short "3-06 Courage.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-06 courage.mp3"
+  }
+  file
+  {
+    filenumber 710
+    fromfs 1
+    subdirindex 2
+    short "3-07 Inside Death Mountain.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-07 inside death mountain.mp3"
+  }
+  file
+  {
+    filenumber 711
+    fromfs 1
+    subdirindex 2
+    short "3-08 Goron Mines.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-08 goron mines.mp3"
+  }
+  file
+  {
+    filenumber 712
+    fromfs 1
+    subdirindex 2
+    short "3-09 Before Battle With Dangoro.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-09 before battle with dangoro.mp3"
+  }
+  file
+  {
+    filenumber 713
+    fromfs 1
+    subdirindex 2
+    short "3-10 Dangoro Battle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-10 dangoro battle.mp3"
+  }
+  file
+  {
+    filenumber 714
+    fromfs 1
+    subdirindex 2
+    short "3-11 Twilit Igniter, Fyrus Battle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-11 twilit igniter, fyrus battle.mp3"
+  }
+  file
+  {
+    filenumber 715
+    fromfs 1
+    subdirindex 2
+    short "3-12 Fyrus Clear Fanfare.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-12 fyrus clear fanfare.mp3"
+  }
+  file
+  {
+    filenumber 716
+    fromfs 1
+    subdirindex 2
+    short "3-13 Save Ilia.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-13 save ilia.mp3"
+  }
+  file
+  {
+    filenumber 717
+    fromfs 1
+    subdirindex 2
+    short "3-14 Burning Bridge.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-14 burning bridge.mp3"
+  }
+  file
+  {
+    filenumber 718
+    fromfs 1
+    subdirindex 2
+    short "3-15 Twilight Cargo Game.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-15 twilight cargo game.mp3"
+  }
+  file
+  {
+    filenumber 719
+    fromfs 1
+    subdirindex 2
+    short "3-16 Queen Rutela's Theme.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-16 queen rutela's theme.mp3"
+  }
+  file
+  {
+    filenumber 720
+    fromfs 1
+    subdirindex 2
+    short "3-17 Wolf Song 2 - Requiem of Spirit (Howling Stone).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-17 wolf song 2 - requiem of spirit (howling stone).mp3"
+  }
+  file
+  {
+    filenumber 721
+    fromfs 1
+    subdirindex 2
+    short "3-18 Wolf Song 2 - Requiem of Spirit.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-18 wolf song 2 - requiem of spirit.mp3"
+  }
+  file
+  {
+    filenumber 722
+    fromfs 1
+    subdirindex 2
+    short "3-19 Wolf Song 2 - Requiem of Spirit (Duo).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-19 wolf song 2 - requiem of spirit (duo).mp3"
+  }
+  file
+  {
+    filenumber 723
+    fromfs 1
+    subdirindex 2
+    short "3-20 Shadow Insect Battle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-20 shadow insect battle.mp3"
+  }
+  file
+  {
+    filenumber 724
+    fromfs 1
+    subdirindex 2
+    short "3-21 Hyrule Legend.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-21 hyrule legend.mp3"
+  }
+  file
+  {
+    filenumber 725
+    fromfs 1
+    subdirindex 2
+    short "3-22 Lake Hylia.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-22 lake hylia.mp3"
+  }
+  file
+  {
+    filenumber 726
+    fromfs 1
+    subdirindex 2
+    short "3-23 Fyer's Cannon.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-23 fyer's cannon.mp3"
+  }
+  file
+  {
+    filenumber 727
+    fromfs 1
+    subdirindex 2
+    short "3-24 Falbi's House.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-24 falbi's house.mp3"
+  }
+  file
+  {
+    filenumber 728
+    fromfs 1
+    subdirindex 2
+    short "3-25 Hyrule Castle Town.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-25 hyrule castle town.mp3"
+  }
+  file
+  {
+    filenumber 729
+    fromfs 1
+    subdirindex 2
+    short "3-26 Musicians.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-26 musicians.mp3"
+  }
+  file
+  {
+    filenumber 730
+    fromfs 1
+    subdirindex 2
+    short "3-27 Overpriced Shop.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-27 overpriced shop.mp3"
+  }
+  file
+  {
+    filenumber 731
+    fromfs 1
+    subdirindex 2
+    short "3-28 STAR Tent.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-28 star tent.mp3"
+  }
+  file
+  {
+    filenumber 732
+    fromfs 1
+    subdirindex 2
+    short "3-29 STAR Game.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-29 star game.mp3"
+  }
+  file
+  {
+    filenumber 733
+    fromfs 1
+    subdirindex 2
+    short "3-30 Agitha's Castle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-30 agitha's castle.mp3"
+  }
+  file
+  {
+    filenumber 734
+    fromfs 1
+    subdirindex 2
+    short "3-31 The Fortune-Telling Mansion.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\3-31 the fortune-telling mansion.mp3"
+  }
+  file
+  {
+    filenumber 735
+    fromfs 1
+    subdirindex 2
+    short "4-01 Reunion with Ilia.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-01 reunion with ilia.mp3"
+  }
+  file
+  {
+    filenumber 736
+    fromfs 1
+    subdirindex 2
+    short "4-02 Escorting Prince Ralis.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-02 escorting prince ralis.mp3"
+  }
+  file
+  {
+    filenumber 737
+    fromfs 1
+    subdirindex 2
+    short "4-03 Ralis, Prince of the Zoras.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-03 ralis, prince of the zoras.mp3"
+  }
+  file
+  {
+    filenumber 738
+    fromfs 1
+    subdirindex 2
+    short "4-04 Lakebed Temple.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-04 lakebed temple.mp3"
+  }
+  file
+  {
+    filenumber 739
+    fromfs 1
+    subdirindex 2
+    short "4-05 Deku Toad Battle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-05 deku toad battle.mp3"
+  }
+  file
+  {
+    filenumber 740
+    fromfs 1
+    subdirindex 2
+    short "4-06 Twilit Aquatic, Morpheel Battle First Half.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-06 twilit aquatic, morpheel battle first half.mp3"
+  }
+  file
+  {
+    filenumber 741
+    fromfs 1
+    subdirindex 2
+    short "4-07 Twilit Aquatic, Morpheel Battle Second Half.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-07 twilit aquatic, morpheel battle second half.mp3"
+  }
+  file
+  {
+    filenumber 742
+    fromfs 1
+    subdirindex 2
+    short "4-08 Zant Appears.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-08 zant appears.mp3"
+  }
+  file
+  {
+    filenumber 743
+    fromfs 1
+    subdirindex 2
+    short "4-09 Zant's Theme.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-09 zant's theme.mp3"
+  }
+  file
+  {
+    filenumber 744
+    fromfs 1
+    subdirindex 2
+    short "4-10 Light and Shadow.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-10 light and shadow.mp3"
+  }
+  file
+  {
+    filenumber 745
+    fromfs 1
+    subdirindex 2
+    short "4-11 Midna's Lament.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-11 midna's lament.mp3"
+  }
+  file
+  {
+    filenumber 746
+    fromfs 1
+    subdirindex 2
+    short "4-12 Reunion with Princess Zelda.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-12 reunion with princess zelda.mp3"
+  }
+  file
+  {
+    filenumber 747
+    fromfs 1
+    subdirindex 2
+    short "4-13 Sacrifice.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-13 sacrifice.mp3"
+  }
+  file
+  {
+    filenumber 748
+    fromfs 1
+    subdirindex 2
+    short "4-14 The Barrier Around the Castle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-14 the barrier around the castle.mp3"
+  }
+  file
+  {
+    filenumber 749
+    fromfs 1
+    subdirindex 2
+    short "4-15 Howling Stone 3 - Prelude of Light (Howling Stone).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-15 howling stone 3 - prelude of light (howling stone).mp3"
+  }
+  file
+  {
+    filenumber 750
+    fromfs 1
+    subdirindex 2
+    short "4-16 Howling Stone 3 - Prelude of Light.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-16 howling stone 3 - prelude of light.mp3"
+  }
+  file
+  {
+    filenumber 751
+    fromfs 1
+    subdirindex 2
+    short "4-17 Howling Stone 3 - Prelude of Light (Duo).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-17 howling stone 3 - prelude of light (duo).mp3"
+  }
+  file
+  {
+    filenumber 752
+    fromfs 1
+    subdirindex 2
+    short "4-18 Howling Stone 4 - Zelda's Lullaby (Howling Stone).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-18 howling stone 4 - zelda's lullaby (howling stone).mp3"
+  }
+  file
+  {
+    filenumber 753
+    fromfs 1
+    subdirindex 2
+    short "4-19 Howling Stone 4 - Zelda's Lullaby.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-19 howling stone 4 - zelda's lullaby.mp3"
+  }
+  file
+  {
+    filenumber 754
+    fromfs 1
+    subdirindex 2
+    short "4-20 Sacred Grove.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-20 sacred grove.mp3"
+  }
+  file
+  {
+    filenumber 755
+    fromfs 1
+    subdirindex 2
+    short "4-21 Guardians of the Sacred Grove.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-21 guardians of the sacred grove.mp3"
+  }
+  file
+  {
+    filenumber 756
+    fromfs 1
+    subdirindex 2
+    short "4-22 Master Sword.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-22 master sword.mp3"
+  }
+  file
+  {
+    filenumber 757
+    fromfs 1
+    subdirindex 2
+    short "4-23 Midna's Request.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-23 midna's request.mp3"
+  }
+  file
+  {
+    filenumber 758
+    fromfs 1
+    subdirindex 2
+    short "4-24 Horse Grass - Epona's Song (Howl).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-24 horse grass - epona's song (howl).mp3"
+  }
+  file
+  {
+    filenumber 759
+    fromfs 1
+    subdirindex 2
+    short "4-25 Wolf Song 5 - Song of Heroes (Howling Stone).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-25 wolf song 5 - song of heroes (howling stone).mp3"
+  }
+  file
+  {
+    filenumber 760
+    fromfs 1
+    subdirindex 2
+    short "4-26 Wolf Song 5 - Song of Heroes.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-26 wolf song 5 - song of heroes.mp3"
+  }
+  file
+  {
+    filenumber 761
+    fromfs 1
+    subdirindex 2
+    short "4-27 Wolf Song 5 - Song of Heroes (Duo).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-27 wolf song 5 - song of heroes (duo).mp3"
+  }
+  file
+  {
+    filenumber 762
+    fromfs 1
+    subdirindex 2
+    short "4-28 The Twilight Realm.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-28 the twilight realm.mp3"
+  }
+  file
+  {
+    filenumber 763
+    fromfs 1
+    subdirindex 2
+    short "4-29 Gerudo Desert.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-29 gerudo desert.mp3"
+  }
+  file
+  {
+    filenumber 764
+    fromfs 1
+    subdirindex 2
+    short "4-30 Arbiter's Grounds.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-30 arbiter's grounds.mp3"
+  }
+  file
+  {
+    filenumber 765
+    fromfs 1
+    subdirindex 2
+    short "4-31 The Death Sword Appears.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-31 the death sword appears.mp3"
+  }
+  file
+  {
+    filenumber 766
+    fromfs 1
+    subdirindex 2
+    short "4-32 Death Sword Battle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-32 death sword battle.mp3"
+  }
+  file
+  {
+    filenumber 767
+    fromfs 1
+    subdirindex 2
+    short "4-33 Twilit Fossil, Stallord Battle First Half.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-33 twilit fossil, stallord battle first half.mp3"
+  }
+  file
+  {
+    filenumber 768
+    fromfs 1
+    subdirindex 2
+    short "4-34 Twilit Fossil, Stallord Battle Second Half.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\4-34 twilit fossil, stallord battle second half.mp3"
+  }
+  file
+  {
+    filenumber 769
+    fromfs 1
+    subdirindex 2
+    short "5-01 Mirror of Twilight Fragmented.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-01 mirror of twilight fragmented.mp3"
+  }
+  file
+  {
+    filenumber 770
+    fromfs 1
+    subdirindex 2
+    short "5-02 The Sages' Theme.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-02 the sages' theme.mp3"
+  }
+  file
+  {
+    filenumber 771
+    fromfs 1
+    subdirindex 2
+    short "5-03 The Demon Thief.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-03 the demon thief.mp3"
+  }
+  file
+  {
+    filenumber 772
+    fromfs 1
+    subdirindex 2
+    short "5-04 Cargo Game.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-04 cargo game.mp3"
+  }
+  file
+  {
+    filenumber 773
+    fromfs 1
+    subdirindex 2
+    short "5-05 River Game.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-05 river game.mp3"
+  }
+  file
+  {
+    filenumber 774
+    fromfs 1
+    subdirindex 2
+    short "5-06 Fishing Hole.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-06 fishing hole.mp3"
+  }
+  file
+  {
+    filenumber 775
+    fromfs 1
+    subdirindex 2
+    short "5-07 Fishing Hit.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-07 fishing hit.mp3"
+  }
+  file
+  {
+    filenumber 776
+    fromfs 1
+    subdirindex 2
+    short "5-08 Fish Catch.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-08 fish catch.mp3"
+  }
+  file
+  {
+    filenumber 777
+    fromfs 1
+    subdirindex 2
+    short "5-09 Ordon Catfish Catch.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-09 ordon catfish catch.mp3"
+  }
+  file
+  {
+    filenumber 778
+    fromfs 1
+    subdirindex 2
+    short "5-10 Rollgoal.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-10 rollgoal.mp3"
+  }
+  file
+  {
+    filenumber 779
+    fromfs 1
+    subdirindex 2
+    short "5-11 Rollgoal Failure.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-11 rollgoal failure.mp3"
+  }
+  file
+  {
+    filenumber 780
+    fromfs 1
+    subdirindex 2
+    short "5-12 Zora's Domain.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-12 zora's domain.mp3"
+  }
+  file
+  {
+    filenumber 781
+    fromfs 1
+    subdirindex 2
+    short "5-13 Entering the Zora Prince's Throne Room.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-13 entering the zora prince's throne room.mp3"
+  }
+  file
+  {
+    filenumber 782
+    fromfs 1
+    subdirindex 2
+    short "5-14 Snowpeak.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-14 snowpeak.mp3"
+  }
+  file
+  {
+    filenumber 783
+    fromfs 1
+    subdirindex 2
+    short "5-15 Wolf Song 6 - Wind's Requiem (Howling Stone).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-15 wolf song 6 - wind's requiem (howling stone).mp3"
+  }
+  file
+  {
+    filenumber 784
+    fromfs 1
+    subdirindex 2
+    short "5-16 Wolf Song 6 - Wind's Requiem.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-16 wolf song 6 - wind's requiem.mp3"
+  }
+  file
+  {
+    filenumber 785
+    fromfs 1
+    subdirindex 2
+    short "5-17 Wolf Song 6 - Wind's Requiem (Duo).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-17 wolf song 6 - wind's requiem (duo).mp3"
+  }
+  file
+  {
+    filenumber 786
+    fromfs 1
+    subdirindex 2
+    short "5-18 Snowpeak Ruins.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-18 snowpeak ruins.mp3"
+  }
+  file
+  {
+    filenumber 787
+    fromfs 1
+    subdirindex 2
+    short "5-19 Darkhammer Appears.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-19 darkhammer appears.mp3"
+  }
+  file
+  {
+    filenumber 788
+    fromfs 1
+    subdirindex 2
+    short "5-20 Twilit Ice Mass, Blizzetta Battle First Half.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-20 twilit ice mass, blizzetta battle first half.mp3"
+  }
+  file
+  {
+    filenumber 789
+    fromfs 1
+    subdirindex 2
+    short "5-21 Twilit Ice Mass, Blizzetta Battle Second Half.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-21 twilit ice mass, blizzetta battle second half.mp3"
+  }
+  file
+  {
+    filenumber 790
+    fromfs 1
+    subdirindex 2
+    short "5-22 Love.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-22 love.mp3"
+  }
+  file
+  {
+    filenumber 791
+    fromfs 1
+    subdirindex 2
+    short "5-23 Boss Defeated.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-23 boss defeated.mp3"
+  }
+  file
+  {
+    filenumber 792
+    fromfs 1
+    subdirindex 2
+    short "5-24 Snowboarding.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-24 snowboarding.mp3"
+  }
+  file
+  {
+    filenumber 793
+    fromfs 1
+    subdirindex 2
+    short "5-25 Snowboarding Goal.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-25 snowboarding goal.mp3"
+  }
+  file
+  {
+    filenumber 794
+    fromfs 1
+    subdirindex 2
+    short "5-26 Snowboarding Failure.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-26 snowboarding failure.mp3"
+  }
+  file
+  {
+    filenumber 795
+    fromfs 1
+    subdirindex 2
+    short "5-27 Chamber of Stone - Past.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-27 chamber of stone - past.mp3"
+  }
+  file
+  {
+    filenumber 796
+    fromfs 1
+    subdirindex 2
+    short "5-28 Temple of Time.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-28 temple of time.mp3"
+  }
+  file
+  {
+    filenumber 797
+    fromfs 1
+    subdirindex 2
+    short "5-29 Darknut Battle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-29 darknut battle.mp3"
+  }
+  file
+  {
+    filenumber 798
+    fromfs 1
+    subdirindex 2
+    short "5-30 Twilit Arachnid, Armogohma Battle First Half.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-30 twilit arachnid, armogohma battle first half.mp3"
+  }
+  file
+  {
+    filenumber 799
+    fromfs 1
+    subdirindex 2
+    short "5-31 Armogohma Clear...mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-31 armogohma clear....mp3"
+  }
+  file
+  {
+    filenumber 800
+    fromfs 1
+    subdirindex 2
+    short "5-32 Twilit Arachnid, Armogohma Battle Second Half.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-32 twilit arachnid, armogohma battle second half.mp3"
+  }
+  file
+  {
+    filenumber 801
+    fromfs 1
+    subdirindex 2
+    short "5-33 Armogohma Clear Fanfare.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-33 armogohma clear fanfare.mp3"
+  }
+  file
+  {
+    filenumber 802
+    fromfs 1
+    subdirindex 2
+    short "5-34 The Hidden Village.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-34 the hidden village.mp3"
+  }
+  file
+  {
+    filenumber 803
+    fromfs 1
+    subdirindex 2
+    short "5-35 Wolf Song 7 - Ballad of Twilight (Howling Stone).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-35 wolf song 7 - ballad of twilight (howling stone).mp3"
+  }
+  file
+  {
+    filenumber 804
+    fromfs 1
+    subdirindex 2
+    short "5-36 Wolf Song 7 - Ballad of Twilight.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-36 wolf song 7 - ballad of twilight.mp3"
+  }
+  file
+  {
+    filenumber 805
+    fromfs 1
+    subdirindex 2
+    short "5-37 Wolf Song 7 - Ballad of Twilight (Duo).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-37 wolf song 7 - ballad of twilight (duo).mp3"
+  }
+  file
+  {
+    filenumber 806
+    fromfs 1
+    subdirindex 2
+    short "5-38 Ilia's Memory Restored.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-38 ilia's memory restored.mp3"
+  }
+  file
+  {
+    filenumber 807
+    fromfs 1
+    subdirindex 2
+    short "5-39 Jovani's House.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-39 jovani's house.mp3"
+  }
+  file
+  {
+    filenumber 808
+    fromfs 1
+    subdirindex 2
+    short "5-40 Malo's Mart.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-40 malo's mart.mp3"
+  }
+  file
+  {
+    filenumber 809
+    fromfs 1
+    subdirindex 2
+    short "5-41 Sky Character Get.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-41 sky character get.mp3"
+  }
+  file
+  {
+    filenumber 810
+    fromfs 1
+    subdirindex 2
+    short "5-42 The Sky Cannon.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-42 the sky cannon.mp3"
+  }
+  file
+  {
+    filenumber 811
+    fromfs 1
+    subdirindex 2
+    short "5-43 Cannon Repair.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\5-43 cannon repair.mp3"
+  }
+  file
+  {
+    filenumber 812
+    fromfs 1
+    subdirindex 2
+    short "6-01 City in the Sky.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-01 city in the sky.mp3"
+  }
+  file
+  {
+    filenumber 813
+    fromfs 1
+    subdirindex 2
+    short "6-02 Aeralfos Appears.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-02 aeralfos appears.mp3"
+  }
+  file
+  {
+    filenumber 814
+    fromfs 1
+    subdirindex 2
+    short "6-03 Twilit Dragon, Argorok Battle First Half.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-03 twilit dragon, argorok battle first half.mp3"
+  }
+  file
+  {
+    filenumber 815
+    fromfs 1
+    subdirindex 2
+    short "6-04 Twilit Dragon, Argorok Battle Second Half.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-04 twilit dragon, argorok battle second half.mp3"
+  }
+  file
+  {
+    filenumber 816
+    fromfs 1
+    subdirindex 2
+    short "6-05 Great Fairy's Fountain.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-05 great fairy's fountain.mp3"
+  }
+  file
+  {
+    filenumber 817
+    fromfs 1
+    subdirindex 2
+    short "6-06 Mirror of Twilight Completed.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-06 mirror of twilight completed.mp3"
+  }
+  file
+  {
+    filenumber 818
+    fromfs 1
+    subdirindex 2
+    short "6-07 The Twilight Princess.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-07 the twilight princess.mp3"
+  }
+  file
+  {
+    filenumber 819
+    fromfs 1
+    subdirindex 2
+    short "6-08 Entering the Twilight Realm.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-08 entering the twilight realm.mp3"
+  }
+  file
+  {
+    filenumber 820
+    fromfs 1
+    subdirindex 2
+    short "6-09 Palace of Twilight.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-09 palace of twilight.mp3"
+  }
+  file
+  {
+    filenumber 821
+    fromfs 1
+    subdirindex 2
+    short "6-10 Phantom Zant Battle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-10 phantom zant battle.mp3"
+  }
+  file
+  {
+    filenumber 822
+    fromfs 1
+    subdirindex 2
+    short "6-11 Confrontation with Zant.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-11 confrontation with zant.mp3"
+  }
+  file
+  {
+    filenumber 823
+    fromfs 1
+    subdirindex 2
+    short "6-12 Usurper King, Zant Battle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-12 usurper king, zant battle.mp3"
+  }
+  file
+  {
+    filenumber 824
+    fromfs 1
+    subdirindex 2
+    short "6-13 Zant's Death.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-13 zant's death.mp3"
+  }
+  file
+  {
+    filenumber 825
+    fromfs 1
+    subdirindex 2
+    short "6-14 Game Over.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-14 game over.mp3"
+  }
+  file
+  {
+    filenumber 826
+    fromfs 1
+    subdirindex 2
+    short "6-15 Shattering the Barrier.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-15 shattering the barrier.mp3"
+  }
+  file
+  {
+    filenumber 827
+    fromfs 1
+    subdirindex 2
+    short "6-16 Hyrule Castle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-16 hyrule castle.mp3"
+  }
+  file
+  {
+    filenumber 828
+    fromfs 1
+    subdirindex 2
+    short "6-17 Resistance.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-17 resistance.mp3"
+  }
+  file
+  {
+    filenumber 829
+    fromfs 1
+    subdirindex 2
+    short "6-18 Hyrule Castle Tower.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-18 hyrule castle tower.mp3"
+  }
+  file
+  {
+    filenumber 830
+    fromfs 1
+    subdirindex 2
+    short "6-19 Entering the Throne Room.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-19 entering the throne room.mp3"
+  }
+  file
+  {
+    filenumber 831
+    fromfs 1
+    subdirindex 2
+    short "6-20 Ganon's Puppet, Zelda Battle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-20 ganon's puppet, zelda battle.mp3"
+  }
+  file
+  {
+    filenumber 832
+    fromfs 1
+    subdirindex 2
+    short "6-21 Zelda Rescued.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-21 zelda rescued.mp3"
+  }
+  file
+  {
+    filenumber 833
+    fromfs 1
+    subdirindex 2
+    short "6-22 Ganon Transforms.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-22 ganon transforms.mp3"
+  }
+  file
+  {
+    filenumber 834
+    fromfs 1
+    subdirindex 2
+    short "6-23 Dark Beast, Ganon Battle.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-23 dark beast, ganon battle.mp3"
+  }
+  file
+  {
+    filenumber 835
+    fromfs 1
+    subdirindex 2
+    short "6-24 Combining the Fused Shadows.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-24 combining the fused shadows.mp3"
+  }
+  file
+  {
+    filenumber 836
+    fromfs 1
+    subdirindex 2
+    short "6-25 Midna's Sacrifice.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-25 midna's sacrifice.mp3"
+  }
+  file
+  {
+    filenumber 837
+    fromfs 1
+    subdirindex 2
+    short "6-26 The Light Arrows.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-26 the light arrows.mp3"
+  }
+  file
+  {
+    filenumber 838
+    fromfs 1
+    subdirindex 2
+    short "6-27 Princess Zelda's Theme.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-27 princess zelda's theme.mp3"
+  }
+  file
+  {
+    filenumber 839
+    fromfs 1
+    subdirindex 2
+    short "6-28 Dark Lord, Ganondorf Battle First Half.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-28 dark lord, ganondorf battle first half.mp3"
+  }
+  file
+  {
+    filenumber 840
+    fromfs 1
+    subdirindex 2
+    short "6-29 Dark Lord, Ganondorf Battle Second Half.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-29 dark lord, ganondorf battle second half.mp3"
+  }
+  file
+  {
+    filenumber 841
+    fromfs 1
+    subdirindex 2
+    short "6-30 Ganondorf's End.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-30 ganondorf's end.mp3"
+  }
+  file
+  {
+    filenumber 842
+    fromfs 1
+    subdirindex 2
+    short "6-31 Ending.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-31 ending.mp3"
+  }
+  file
+  {
+    filenumber 843
+    fromfs 1
+    subdirindex 2
+    short "6-32 Staff Credits.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\6-32 staff credits.mp3"
+  }
+  file
+  {
+    filenumber 844
+    fromfs 1
+    subdirindex 2
+    short "7-01 The Legend of Zelda- Orchestra Piece #2 (MIDI).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\7-01 the legend of zelda- orchestra piece #2 (midi).mp3"
+  }
+  file
+  {
+    filenumber 845
+    fromfs 1
+    subdirindex 2
+    short "7-02 The Legend of Zelda- Orchestra Piece #3.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\7-02 the legend of zelda- orchestra piece #3.mp3"
+  }
+  file
+  {
+    filenumber 846
+    fromfs 1
+    subdirindex 2
+    short "7-03 Title Logo (E3 2005).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\7-03 title logo (e3 2005).mp3"
+  }
+  file
+  {
+    filenumber 847
+    fromfs 1
+    subdirindex 2
+    short "7-04 Zelda Gallery.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\7-04 zelda gallery.mp3"
+  }
+  file
+  {
+    filenumber 848
+    fromfs 1
+    subdirindex 2
+    short "7-05 Title Logo (E3 2006).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\7-05 title logo (e3 2006).mp3"
+  }
+  file
+  {
+    filenumber 849
+    fromfs 1
+    subdirindex 2
+    short "7-06 Stage Select (E3 2006).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\7-06 stage select (e3 2006).mp3"
+  }
+  file
+  {
+    filenumber 850
+    fromfs 1
+    subdirindex 2
+    short "7-07 The Legend of Zelda- Orchestra Piece #2.mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\7-07 the legend of zelda- orchestra piece #2.mp3"
+  }
+  file
+  {
+    filenumber 851
+    fromfs 1
+    subdirindex 2
+    short "7-08 Midna's Theme (Album Version).mp3"
+    filename "the legend of zelda - twilight princess (gc) (gamerip) (2006)\7-08 midna's theme (album version).mp3"
+  }
+  file
+  {
+    filenumber 852
+    fromfs 1
+    subdirindex 2
+    short "Zombieland Saga OP FULL -- Adabana Necromancy ????????? -- .mp3"
+    filename "zombieland saga op full -- adabana necromancy ????????? -- .mp3"
+  }
+  file
+  {
+    filenumber 853
+    fromfs 1
+    subdirindex 2
+    short "Zombieland Saga Revenge Opening Full - Taiga yo Tomo ni Naite Kure - Franchouchou.mp3"
+    filename "zombieland saga revenge opening full - taiga yo tomo ni naite kure - franchouchou.mp3"
+  }
+}
+directories
+{
+  directory
+  {
+    gamesounds 1
+    name ""
+    dirname "Game Sounds"
+    fullpath ""
+    files
+    {
+      file 1
+      file 2
+      file 0
+      file 3
+      file 4
+      file 5
+      file 6
+      file 7
+      file 8
+      file 9
+      file 10
+      file 11
+      file 12
+      file 13
+      file 14
+      file 15
+      file 16
+      file 17
+      file 18
+      file 19
+      file 20
+      file 21
+      file 22
+      file 23
+      file 24
+      file 25
+      file 26
+      file 27
+      file 28
+      file 29
+      file 30
+      file 31
+      file 32
+      file 33
+      file 34
+      file 35
+      file 36
+      file 37
+      file 38
+      file 39
+      file 40
+      file 41
+      file 42
+      file 43
+      file 44
+      file 45
+      file 46
+      file 47
+      file 48
+      file 49
+      file 50
+      file 51
+      file 52
+      file 53
+      file 54
+      file 55
+      file 56
+      file 57
+      file 58
+      file 59
+      file 60
+      file 61
+      file 62
+      file 63
+      file 64
+      file 65
+      file 66
+      file 67
+      file 68
+      file 69
+      file 70
+      file 71
+      file 72
+      file 73
+      file 74
+      file 75
+      file 76
+      file 77
+      file 78
+      file 84
+      file 85
+      file 86
+      file 87
+      file 88
+      file 89
+      file 90
+      file 91
+      file 92
+      file 93
+      file 94
+      file 95
+      file 96
+      file 97
+      file 98
+      file 99
+      file 100
+      file 101
+      file 102
+      file 103
+      file 104
+      file 105
+      file 106
+      file 107
+      file 108
+      file 109
+      file 110
+      file 111
+      file 112
+      file 113
+      file 114
+      file 79
+      file 80
+      file 81
+      file 82
+      file 83
+      file 115
+      file 116
+      file 117
+      file 118
+      file 119
+    }
+  }
+  directory
+  {
+    gamesounds 0
+    name "c:\Users\Elouan\Documents\Rockstar Games\GTA V\User Music"
+    dirname "c:\Users\Elouan\Documents\Rockstar Games\GTA V\User Music"
+    fullpath "c:\Users\Elouan\Documents\Rockstar Games\GTA V\User Music"
+    files
+    {
+      file 120
+      file 121
+      file 122
+      file 123
+      file 124
+      file 125
+    }
+  }
+  directory
+  {
+    gamesounds 0
+    name "c:\Users\Elouan\Music"
+    dirname "c:\Users\Elouan\Music"
+    fullpath "c:\Users\Elouan\Music"
+    files
+    {
+      file 120
+      file 121
+      file 122
+      file 123
+      file 124
+      file 125
+      file 126
+      file 127
+      file 128
+      file 129
+      file 280
+      file 281
+      file 313
+      file 314
+      file 315
+      file 485
+      file 510
+      file 556
+      file 557
+      file 558
+      file 852
+      file 853
+      file 130
+      file 131
+      file 132
+      file 133
+      file 134
+      file 135
+      file 136
+      file 137
+      file 138
+      file 139
+      file 140
+      file 141
+      file 142
+      file 143
+      file 144
+      file 145
+      file 146
+      file 147
+      file 148
+      file 149
+      file 150
+      file 151
+      file 152
+      file 153
+      file 154
+      file 155
+      file 156
+      file 157
+      file 158
+      file 159
+      file 160
+      file 161
+      file 162
+      file 163
+      file 164
+      file 165
+      file 166
+      file 167
+      file 168
+      file 169
+      file 170
+      file 171
+      file 172
+      file 173
+      file 174
+      file 175
+      file 176
+      file 177
+      file 178
+      file 179
+      file 180
+      file 181
+      file 182
+      file 183
+      file 184
+      file 185
+      file 186
+      file 187
+      file 188
+      file 189
+      file 190
+      file 191
+      file 192
+      file 193
+      file 194
+      file 195
+      file 196
+      file 197
+      file 198
+      file 199
+      file 200
+      file 201
+      file 202
+      file 203
+      file 204
+      file 205
+      file 206
+      file 207
+      file 208
+      file 209
+      file 210
+      file 211
+      file 212
+      file 213
+      file 214
+      file 215
+      file 216
+      file 217
+      file 218
+      file 219
+      file 220
+      file 221
+      file 222
+      file 223
+      file 224
+      file 225
+      file 226
+      file 227
+      file 228
+      file 229
+      file 230
+      file 231
+      file 232
+      file 233
+      file 234
+      file 235
+      file 236
+      file 237
+      file 238
+      file 239
+      file 240
+      file 241
+      file 242
+      file 243
+      file 244
+      file 245
+      file 246
+      file 247
+      file 248
+      file 249
+      file 250
+      file 251
+      file 252
+      file 253
+      file 254
+      file 255
+      file 256
+      file 257
+      file 258
+      file 259
+      file 260
+      file 261
+      file 262
+      file 263
+      file 264
+      file 265
+      file 266
+      file 267
+      file 268
+      file 269
+      file 270
+      file 271
+      file 272
+      file 273
+      file 274
+      file 275
+      file 276
+      file 277
+      file 278
+      file 279
+      file 282
+      file 283
+      file 284
+      file 285
+      file 286
+      file 287
+      file 288
+      file 289
+      file 290
+      file 291
+      file 292
+      file 293
+      file 294
+      file 295
+      file 296
+      file 297
+      file 298
+      file 299
+      file 300
+      file 301
+      file 302
+      file 303
+      file 304
+      file 305
+      file 306
+      file 307
+      file 308
+      file 309
+      file 310
+      file 311
+      file 312
+      file 316
+      file 317
+      file 318
+      file 319
+      file 320
+      file 321
+      file 322
+      file 323
+      file 324
+      file 325
+      file 326
+      file 327
+      file 328
+      file 329
+      file 330
+      file 331
+      file 332
+      file 333
+      file 334
+      file 335
+      file 336
+      file 337
+      file 338
+      file 339
+      file 340
+      file 341
+      file 342
+      file 343
+      file 344
+      file 345
+      file 346
+      file 347
+      file 348
+      file 349
+      file 350
+      file 351
+      file 352
+      file 353
+      file 354
+      file 355
+      file 356
+      file 357
+      file 358
+      file 359
+      file 360
+      file 361
+      file 362
+      file 363
+      file 364
+      file 365
+      file 366
+      file 367
+      file 368
+      file 369
+      file 370
+      file 371
+      file 372
+      file 373
+      file 374
+      file 375
+      file 376
+      file 377
+      file 378
+      file 379
+      file 380
+      file 381
+      file 382
+      file 383
+      file 384
+      file 385
+      file 386
+      file 387
+      file 388
+      file 389
+      file 390
+      file 391
+      file 392
+      file 393
+      file 394
+      file 395
+      file 396
+      file 397
+      file 398
+      file 399
+      file 400
+      file 401
+      file 402
+      file 403
+      file 404
+      file 405
+      file 406
+      file 407
+      file 408
+      file 409
+      file 410
+      file 411
+      file 412
+      file 413
+      file 414
+      file 415
+      file 416
+      file 417
+      file 418
+      file 419
+      file 420
+      file 421
+      file 422
+      file 423
+      file 424
+      file 425
+      file 426
+      file 427
+      file 428
+      file 429
+      file 430
+      file 431
+      file 432
+      file 433
+      file 434
+      file 435
+      file 436
+      file 437
+      file 438
+      file 439
+      file 440
+      file 441
+      file 442
+      file 443
+      file 444
+      file 445
+      file 446
+      file 447
+      file 448
+      file 449
+      file 450
+      file 451
+      file 452
+      file 453
+      file 454
+      file 455
+      file 456
+      file 457
+      file 458
+      file 459
+      file 460
+      file 461
+      file 462
+      file 463
+      file 464
+      file 465
+      file 466
+      file 467
+      file 468
+      file 469
+      file 470
+      file 471
+      file 472
+      file 473
+      file 474
+      file 475
+      file 476
+      file 477
+      file 478
+      file 479
+      file 480
+      file 481
+      file 482
+      file 483
+      file 484
+      file 486
+      file 487
+      file 488
+      file 489
+      file 490
+      file 491
+      file 500
+      file 501
+      file 502
+      file 503
+      file 504
+      file 507
+      file 508
+      file 509
+      file 492
+      file 493
+      file 494
+      file 495
+      file 496
+      file 497
+      file 498
+      file 499
+      file 505
+      file 506
+      file 511
+      file 512
+      file 513
+      file 514
+      file 515
+      file 516
+      file 517
+      file 518
+      file 519
+      file 520
+      file 521
+      file 522
+      file 523
+      file 524
+      file 525
+      file 526
+      file 527
+      file 528
+      file 529
+      file 530
+      file 531
+      file 532
+      file 533
+      file 534
+      file 535
+      file 536
+      file 537
+      file 538
+      file 539
+      file 540
+      file 541
+      file 542
+      file 543
+      file 544
+      file 545
+      file 546
+      file 547
+      file 548
+      file 549
+      file 550
+      file 551
+      file 552
+      file 553
+      file 554
+      file 555
+      file 559
+      file 560
+      file 561
+      file 562
+      file 563
+      file 564
+      file 565
+      file 566
+      file 567
+      file 568
+      file 569
+      file 570
+      file 571
+      file 572
+      file 573
+      file 574
+      file 575
+      file 576
+      file 577
+      file 578
+      file 579
+      file 580
+      file 581
+      file 582
+      file 583
+      file 584
+      file 585
+      file 586
+      file 587
+      file 588
+      file 589
+      file 590
+      file 591
+      file 592
+      file 593
+      file 594
+      file 595
+      file 596
+      file 597
+      file 598
+      file 599
+      file 600
+      file 601
+      file 602
+      file 603
+      file 604
+      file 605
+      file 606
+      file 607
+      file 608
+      file 609
+      file 610
+      file 611
+      file 612
+      file 613
+      file 614
+      file 615
+      file 616
+      file 617
+      file 618
+      file 619
+      file 620
+      file 621
+      file 622
+      file 623
+      file 624
+      file 625
+      file 626
+      file 627
+      file 628
+      file 629
+      file 630
+      file 631
+      file 632
+      file 633
+      file 634
+      file 635
+      file 636
+      file 637
+      file 638
+      file 639
+      file 640
+      file 641
+      file 642
+      file 643
+      file 644
+      file 645
+      file 646
+      file 647
+      file 648
+      file 649
+      file 650
+      file 651
+      file 652
+      file 653
+      file 654
+      file 655
+      file 656
+      file 657
+      file 658
+      file 659
+      file 660
+      file 661
+      file 662
+      file 663
+      file 664
+      file 665
+      file 666
+      file 667
+      file 668
+      file 669
+      file 670
+      file 671
+      file 672
+      file 673
+      file 674
+      file 675
+      file 676
+      file 677
+      file 678
+      file 679
+      file 680
+      file 681
+      file 682
+      file 683
+      file 684
+      file 685
+      file 686
+      file 687
+      file 688
+      file 689
+      file 690
+      file 691
+      file 692
+      file 693
+      file 694
+      file 695
+      file 696
+      file 697
+      file 698
+      file 699
+      file 700
+      file 701
+      file 702
+      file 703
+      file 704
+      file 705
+      file 706
+      file 707
+      file 708
+      file 709
+      file 710
+      file 711
+      file 712
+      file 713
+      file 714
+      file 715
+      file 716
+      file 717
+      file 718
+      file 719
+      file 720
+      file 721
+      file 722
+      file 723
+      file 724
+      file 725
+      file 726
+      file 727
+      file 728
+      file 729
+      file 730
+      file 731
+      file 732
+      file 733
+      file 734
+      file 735
+      file 736
+      file 737
+      file 738
+      file 739
+      file 740
+      file 741
+      file 742
+      file 743
+      file 744
+      file 745
+      file 746
+      file 747
+      file 748
+      file 749
+      file 750
+      file 751
+      file 752
+      file 753
+      file 754
+      file 755
+      file 756
+      file 757
+      file 758
+      file 759
+      file 760
+      file 761
+      file 762
+      file 763
+      file 764
+      file 765
+      file 766
+      file 767
+      file 768
+      file 769
+      file 770
+      file 771
+      file 772
+      file 773
+      file 774
+      file 775
+      file 776
+      file 777
+      file 778
+      file 779
+      file 780
+      file 781
+      file 782
+      file 783
+      file 784
+      file 785
+      file 786
+      file 787
+      file 788
+      file 789
+      file 790
+      file 791
+      file 792
+      file 793
+      file 794
+      file 795
+      file 796
+      file 797
+      file 798
+      file 799
+      file 800
+      file 801
+      file 802
+      file 803
+      file 804
+      file 805
+      file 806
+      file 807
+      file 808
+      file 809
+      file 810
+      file 811
+      file 812
+      file 813
+      file 814
+      file 815
+      file 816
+      file 817
+      file 818
+      file 819
+      file 820
+      file 821
+      file 822
+      file 823
+      file 824
+      file 825
+      file 826
+      file 827
+      file 828
+      file 829
+      file 830
+      file 831
+      file 832
+      file 833
+      file 834
+      file 835
+      file 836
+      file 837
+      file 838
+      file 839
+      file 840
+      file 841
+      file 842
+      file 843
+      file 844
+      file 845
+      file 846
+      file 847
+      file 848
+      file 849
+      file 850
+      file 851
+    }
+  }
+}

@@ -1,0 +1,64 @@
+"GameInfo"
+{
+	game 		"Half-Life 2: Sex Amogus Edition"
+	title 		"H ' L F - L I F E 2"
+	title2		"== sex amogus edition =="
+	type		singleplayer_only
+
+	FileSystem
+	{
+		SteamAppId					243730				// Source SDK Base 2013 Singleplayer
+		
+		SearchPaths
+		{
+			game+mod				|gameinfo_path|custom/*
+			game+mod+mod_write+default_write_path	|gameinfo_path|.		// Mod
+			gamebin					|gameinfo_path|bin		// Mod's Binaries	
+	 
+			// Base Half-Life 2 Content: ep2, episodic, hl2
+			//game					"|all_source_engine_paths|../Half-Life 2/ep2/ep2_sound_vo_french.vpk"
+			//game					"|all_source_engine_paths|../Half-Life 2/episodic/ep1_sound_vo_french.vpk"
+			//game					"|all_source_engine_paths|../Half-Life 2/hl2/hl2_sound_vo_french_dir.vpk"		// Français
+			game					"|all_source_engine_paths|../Half-Life 2/hl2/hl2_sound_vo_german_dir.vpk"		// Deutsch
+			game					"|all_source_engine_paths|../Half-Life 2/hl2/hl2_sound_vo_italian_dir.vpk"		// Italiano
+			game					"|all_source_engine_paths|../Half-Life 2/hl2/hl2_sound_vo_koreana_dir.vpk"		// 한국어
+			game					"|all_source_engine_paths|../Half-Life 2/hl2/hl2_sound_vo_russian_dir.vpk"		// Русский
+			game					"|all_source_engine_paths|../Half-Life 2/hl2/hl2_sound_vo_schinese_dir.vpk"		// 简体中文
+			game					"|all_source_engine_paths|../Half-Life 2/hl2/hl2_sound_vo_spanish_dir.vpk"		// Español
+			game					"|all_source_engine_paths|../Half-Life 2/hl2/hl2_sound_vo_tchinese_dir.vpk"		// 繁體中文
+			game					|all_source_engine_paths|hl2/hl2_english.vpk
+			game					|all_source_engine_paths|ep2/ep2_pak.vpk
+			game					|all_source_engine_paths|episodic/ep1_pak.vpk
+			game_lv					|all_source_engine_paths|hl2/hl2_lv.vpk
+			game					|all_source_engine_paths|hl2/hl2_pak.vpk
+			game					|all_source_engine_paths|hl2/hl2_textures.vpk
+			game					|all_source_engine_paths|hl2/hl2_sound_vo_english.vpk
+			game					|all_source_engine_paths|hl2/hl2_sound_misc.vpk
+			game					|all_source_engine_paths|hl2/hl2_misc.vpk
+			platform				|all_source_engine_paths|platform/platform_misc.vpk
+	 
+			// TODO; find out what is it and why it's here
+			game					|all_source_engine_paths|hl2
+			platform				|all_source_engine_paths|platform
+
+			
+			// Counter-Strike: Source
+           		game					"D:/SteamLibrary/steamapps/common/Counter-Strike Source/cstrike/cstrike_pak_dir.vpk"
+            		game                			"D:/SteamLibrary/steamapps/common/Counter-Strike Source/cstrike/"
+			
+			//HL1
+			game					"C:/Program Files (x86)/Steam/steamapps/common/Half-Life 2/hl1/hl1_sound_vo_french_dir.vpk"
+			game					"C:/Program Files (x86)/Steam/steamapps/common/Half-Life 2/hl1/hl1_pak_dir.vpk"
+			
+			//Day of Defeat
+			game					"L:/SteamLibrary/steamapps/common/Day of Defeat Source/dod/dod_pak.vpk"
+
+			//Portal
+			game					"L:\SteamLibrary\steamapps\common\Portal\portal\portal_pak_dir.vpk"
+			
+			
+	
+		}
+	}
+	
+}

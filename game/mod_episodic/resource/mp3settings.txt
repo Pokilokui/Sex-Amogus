@@ -1,0 +1,10 @@
+// mp3 settings, automatically generated
+settings
+{
+  directories
+  {
+    dirname ""
+    dirname "c:\Users\Elouan\Documents\Rockstar Games\GTA V\User Music"
+    dirname "c:\Users\Elouan\Music"
+  }
+}

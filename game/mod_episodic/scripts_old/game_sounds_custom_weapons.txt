@@ -1,0 +1,219 @@
+// CS:S WEAPON : USP
+"Weapon_USP.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_NORM"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/usp/usp_unsil-1.wav"
+}
+
+"Weapon_USP.SilencedShot"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"ATTN_IDLE"
+	"pitch"		"PITCH_NORM"
+	
+	"wave"			"weapons/usp/usp1.wav"
+	
+}
+
+"Weapon_USP.DetachSilencer"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/usp/usp_silencer_off.wav"
+	
+}
+
+"Weapon_USP.AttachSilencer"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/usp/usp_silencer_on.wav"
+	
+}
+
+"Weapon_USP.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/usp/usp_clipout.wav"
+	
+}
+
+"Weapon_USP.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/usp/usp_clipin.wav"
+	
+}
+
+"Weapon_USP.Sliderelease"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/usp/usp_sliderelease.wav"
+	
+}
+
+"Weapon_USP.Slideback"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/usp/usp_slideback.wav"
+	
+}
+
+"Weapon_USP.Slideback2"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/usp/usp_slideback2.wav"
+	
+}
+
+// CS:S WEAPON : AK47
+"Weapon_AK47.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			")weapons/ak47/ak47-1.wav"
+	
+}
+
+"3rd_Weapon_AK47.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.52"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			")weapons/ak47/ak47-1.wav"
+	
+}
+
+"Weapon_AK47.BoltPull"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/ak47/ak47_boltpull.wav"
+}
+
+"Weapon_AK47.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/ak47/ak47_clipin.wav"
+}
+
+"Weapon_AK47.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/ak47/ak47_clipout.wav"
+
+}
+
+// weapon_gluon
+"Weapon_Gluon.Start"
+{
+	"channel"		"CHAN_WEAPON"
+	"pitch"			"98"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+
+	"wave"			"weapons/egon/egon_windup2.wav"
+}
+
+"Weapon_Gluon.Run"
+{
+	"channel"		"CHAN_STATIC"
+	"pitch"			"98"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+
+	"wave"			"weapons/egon/egon_run3.wav"
+}
+
+"Weapon_Gluon.Off"
+{
+	"channel"		"CHAN_WEAPON"
+	"pitch"			"98"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_140db"
+
+	"wave"			"weapons/egon/egon_off1.wav"
+}
+
+// weapon_gauss.txt
+"Weapon_Gauss.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+
+	"wave"				"weapons/gauss/fire1.wav"
+}
+
+"Weapon_Gauss.Special2"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_120dB"
+	"pitch"			"95,105"
+
+	"rndwave"
+	{
+		"wave"			"weapons/gauss/electro1.wav"
+		"wave"			"weapons/gauss/electro2.wav"
+		"wave"			"weapons/gauss/electro3.wav"
+	}
+}
+
+// weapon_molotov.txt
+"Weapon_Molotov.Special1"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"		"weapon/molotov/wood1.wav"
+}
+
