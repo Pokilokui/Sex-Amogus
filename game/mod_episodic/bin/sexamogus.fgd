@@ -1,0 +1,40 @@
+@include "base.fgd"
+@include "halflife2.fgd"
+@include "css_weapons_in_hl2.fgd"
+@include "hlsprout.fgd"
+
+
+//Weapons
+
+//Sex Amogus
+@PointClass base(Weapon) studio("models/weapons/physics/w_physics.mdl") = weapon_physgun : "Physics Gun" []
+@PointClass base(Weapon) studio("models/weapons/w_molotov/w_molotov.mdl") = weapon_molotov : "Molotov" []
+@PointClass base(Weapon) studio("models/weapons/w_grenade.mdl") = weapon_hopwire : "Hopwire" []
+@PointClass base(Weapon) studio("models/weapons/w_flaregun.mdl") = weapon_flaregun : "Flare Gun" []
+@PointClass base(Weapon) studio("models/weapons/w_gauss.mdl") = weapon_gauss : "Tau Cannon" []
+@PointClass base(Weapon) studio("models/weapons/w_slam.mdl") = weapon_slam : "S.L.A.M" []
+@PointClass base(Weapon) studio("models/weapons/w_guardgun.mdl") = weapon_cguard : "Combine Guard Gun" []
+@PointClass base(Weapon) studio("models/weapons/w_oicw.mdl") = weapon_oicw : "XM29 Objective Individual Combat Weapon" []
+@PointClass base(Weapon) studio("models/weapons/w_binoculars.mdl") = weapon_binoculars : "Binoculars" []
+@PointClass base(Weapon) studio("models/weapons/w_immolator.mdl") = weapon_immolator : "Immolator" []
+@PointClass base(Weapon) studio("models/weapons/w_pistol.mdl") = weapon_stickylauncher : "Sticky Launcher" []
+
+@PointClass base(Weapon) studio("models/hl1/w_9mmhandgun.mdl") = weapon_hl1_glock : "Glock 17" []
+@PointClass base(Weapon) studio("models/hl1/w_crowbar.mdl") = weapon_hl1_crowbar : "Crowbar" []
+@PointClass base(Weapon) studio("models/hl1/w_9mmAR.mdl") = weapon_mp5 : "MP5" []
+@PointClass base(Weapon) studio("models/weapons/w_egon.mdl") = weapon_egon : "Gluon Gun" []
+@PointClass base(Weapon) studio("models/w_tripmine.mdl") = weapon_tripmine : "Laser Tripmine" []
+@PointClass base(Weapon) studio("models/w_shotgun.mdl") = weapon_hl1_shotgun : "Semi-Automatic Assault Shotgun" []
+@PointClass base(Weapon) studio("models/w_hgun.mdl") = weapon_hornetgun : "Hivehand" []
+@PointClass base(Item) studio("models/w_ARgrenade.mdl") = ammo_mp5grenades : "MP5 Grenades" []
+
+
+//NPC
+
+@NPCClass base (BaseNPC) studio("models/light.mdl") = npc_xenlight : "Xen Light" []
+
+
+//Ammo
+
+@PointClass base(Item) studio("models/items/combine_rifle_cartridge01.mdl")= item_ammo_ar2 : "Box of AR2 ammo" []
+

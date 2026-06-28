@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "[REUPLOAD] HL:S Fixed Chrome Textures"
+	"author_name" "Author Name"
+	"info" "{"title":"[REUPLOAD] HL:S Fixed Chrome Textures","type":"tool","tags":["fun","realism"],"ignore":[]}"
+}

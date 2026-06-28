@@ -1,0 +1,331 @@
+//====== Copyright © 1996-2005, Valve Corporation, All rights reserved. =======
+//
+// Purpose: Half-Life: Source & Half-Life Deathmatch: Source game definition file (.fgd) by ts2do
+// Updated by Dmx6 October 2007, by SiPlus June 2011, by BlackShadow 2018, and by Kennert007 2023
+//
+//=============================================================================
+
+
+@include "base.fgd"
+
+//-------------------------------------------------------------------------
+//
+// NPCs
+//
+//-------------------------------------------------------------------------
+@PointClass base(BaseNPC) studio() = cycler_actor : "Actor Cycler"
+[
+	model(studio) : "Model"
+	Sentence(string) : "Sentence Group" : ""
+
+	input Alpha(integer) : "Set Alpha Value"
+]
+@PointClass base(BaseNPC, Parentname) studio() = generic_actor : "Generic Actor NPC"
+[
+	model(studio) : "Model"
+
+	hull_name(choices) : "Hull type" : "Human" =
+	[
+		"HUMAN_HULL" : "Human"
+		"WIDE_HUMAN_HULL" : "Wide"
+		"TINY_HULL" : "Tiny"
+		"MEDIUM_HULL" : "Medium"
+		"LARGE_HULL" : "Large"
+	]
+]
+@NPCClass base(BaseNPC) studio("models/controller.mdl") = monster_alien_controller : "Controller" []
+@NPCClass base(BaseNPC) studio("models/agrunt.mdl") = monster_alien_grunt : "Alien Grunt" 
+[
+	netname(string) : "Squad Name"
+	spawnflags(Flags) =
+	[
+		32 : "SquadLeader" : 0
+	]
+]
+@NPCClass base(BaseNPC) studio("models/islave.mdl") = monster_alien_slave : "Vortigaunt"
+[
+	netname(string) : "Squad Name"
+	spawnflags(Flags) =
+	[
+		32 : "SquadLeader" : 0
+		64 : "IgnorePlayer" : 0
+	]
+]
+@NPCClass base(BaseNPC) studio("models/apache.mdl" ) = monster_apache : "Apache"
+[
+	spawnflags(Flags) = 
+	[
+		8 : "NoWreckage"	: 0
+		64 : "Start Inactive" : 0
+		128 : "Don't go across level transitions" : 0
+	]
+	input Activate(void)
+]
+@NPCClass base(BaseNPC) studio("models/osprey.mdl" ) = monster_osprey : "Osprey"
+[
+	spawnflags(Flags) = 
+	[
+		64 : "Start Inactive" : 0
+	]
+	input Activate(void)
+]
+@NPCClass base(BaseNPC) studio("models/baby_headcrab.mdl") = monster_babycrab : "Baby Headcrab" []
+@NPCClass base(RenderFields) color(0 200 200) studio("models/barnacle.mdl") = monster_barnacle : "Barnacle" []
+@NPCClass base(TalkNPC) studio("models/hl1/barney.mdl") = monster_barney : "Barney"
+[
+	spawnflags(Flags) = 
+	[
+		65536 : "Pre-Disaster" : 0
+	]
+]
+@PointClass base(RenderFields, Angles) studio("models/hl1/barney.mdl") = monster_barney_dead : "Dead Barney"
+[
+	pose(Choices) : "Pose" : 0 =
+	[
+		0 : "On back"
+		1 : "On side"
+		2 : "On stomach"
+	]
+]
+@NPCClass base(BaseNPC) studio("models/big_mom.mdl") = monster_bigmomma : "Big Mamma" 
+[
+	netname(target_destination) : "First node" : ""
+]
+@NPCClass base(BaseNPC) studio("models/floater.mdl") = monster_bloater : "Bloater" []
+@NPCClass base(BaseNPC) studio("models/bullsquid.mdl") = monster_bullchicken : "BullChicken" []
+@NPCClass base(BaseNPC) studio("models/roach.mdl") = monster_cockroach : "Cockroach" []
+@NPCClass base(BaseNPC) studio("models/boid.mdl") = monster_flyer_flock : "Flock of Flyers" 
+[
+	iFlockSize(Integer) : "Flock Size" : 8
+	flFlockRadius(Integer) : "Flock Radius" : 128
+]
+@PointClass base(BaseNPC) studio() = monster_furniture : "Monster Furniture" 
+[
+	model(studio) : "model"
+]
+@NPCClass base(BaseNPC) studio("models/garg.mdl") = monster_gargantua : "Gargantua" []
+@PointClass base(BaseNPC) studio() = monster_generic : "Generic Script NPC"
+[
+	spawnflags(Flags) = 
+	[
+		65536 : "Not solid" : 0
+	]
+	model(studio) : "Model"
+	body(Integer) : "Body" : 0
+]
+@NPCClass base(BaseNPC) studio("models/hl1/gman.mdl") = monster_gman : "G-Man" []
+@NPCClass base(BaseNPC) studio("models/hgrunt.mdl") = monster_grunt_repel : "Human Grunt (Repel)" []
+@NPCClass base(BaseNPC) studio("models/hl1/headcrab.mdl") = monster_headcrab : "Headcrab" []
+@PointClass base(RenderFields, Angles) size(-16 -16 0, 16 16 72) = monster_hevsuit_dead : "Dead HEV suit"
+[
+	pose(Choices) : "Pose" : 0 =
+	[
+		0 : "On back"
+		1 : "Seated"
+		2 : "On stomach"
+		3 : "On Table"
+	]
+]
+@NPCClass base(BaseNPC) studio("models/houndeye.mdl") = monster_houndeye : "Houndeye" 
+[
+	netname(string) : "Squad Name"
+	spawnflags(Flags) =
+	[
+		32 : "SquadLeader" : 0
+	]
+]
+@NPCClass base(BaseNPC) studio("models/hassassin.mdl") = monster_human_assassin : "Human Assassin" []
+@NPCClass base(BaseNPC) studio("models/hgrunt.mdl") = monster_human_grunt : "Human Grunt"
+[
+	spawnflags(Flags) =
+	[
+		32 : "SquadLeader" : 0
+	]
+	netname(string) : "Squad Name"
+	weapons(Choices) : "Weapons" : 1 =
+	[
+		1 : "9mmAR"
+		3 : "9mmAR + HG"
+		5 : "9mmAR + GL"
+		8 : "Shotgun"
+		10 : "Shotgun + HG"
+	]
+]
+@PointClass base(RenderFields, Angles) studio("models/hgrunt.mdl") = monster_hgrunt_dead : "Dead Human Grunt"
+[
+	pose(Choices) : "Pose" : 0 =
+	[
+		0 : "On stomach"
+		1 : "On side"
+		2 : "Seated"
+	]
+	body(Choices) : "Body" : 0 =
+	[
+		0 : "Grunt with Gun"
+		1 : "Commander with Gun"
+		2 : "Grunt no Gun"
+		3 : "Commander no Gun"
+	]
+]
+@NPCClass base(BaseNPC) studio("models/icky.mdl") = monster_ichthyosaur : "Ichthyosaur"
+[
+	input EndCombat(void)
+	input StartCombat(void)
+]
+@NPCClass base(BaseNPC) studio("models/leech.mdl") = monster_leech : "Leech" []
+@NPCClass base(BaseNPC) studio("models/miniturret.mdl") = monster_miniturret : "Mini Auto Turret"
+[
+	orientation(Choices) : "Orientation" : 0 =
+	[
+		0 : "Floor Mount"
+		1 : "Ceiling Mount"
+	]
+	spawnflags(Flags) = 
+	[
+		32 : "Autostart" : 0
+		64 : "Start Inactive" : 0
+	]
+	output OnActivate(void) : "When the turret activates"
+	output OnDeactivate(void) : "When the turret stands down or is killed"
+	input Activate(void) : "Activates the turret"
+	input Deactivate(void) : "Deactivates the turret"
+]
+@NPCClass base(BaseNPC) studio("models/turret.mdl") = monster_turret : "Auto Turret"
+[
+	orientation(Choices) : "Orientation" : 0 =
+	[
+		0 : "Floor Mount"
+		1 : "Ceiling Mount"
+	]
+	spawnflags(Flags) = 
+	[
+		32 : "Autostart" : 0
+		64 : "Start Inactive" : 0
+	]
+	output OnActivate(void) : "When the turret activates"
+	output OnDeactivate(void) : "When the turret stands down or is killed"
+	input Activate(void) : "Activates the turret"
+	input Deactivate(void) : "Deactivates the turret"
+]
+@NPCClass base(BaseNPC) studio("models/Sentry.mdl") = monster_sentry : "Sentry Turret Gun"
+[
+	spawnflags(Flags) = 
+	[
+		32 : "Autostart" : 0
+		64 : "Start Inactive" : 0
+	]
+	output OnActivate(void) : "When the turret activates"
+	output OnDeactivate(void) : "When the turret stands down or is killed"
+	input Activate(void) : "Activates the turret"
+	input Deactivate(void) : "Deactivates the turret"
+]
+@NPCClass base(BaseNPC) studio("models/nihilanth.mdl") = monster_nihilanth : "Nihilanth"
+[
+	input TurnBabyOff(void) : "Turn Nihilanth off"
+	input TurnBabyOn(void) : "Turn Nihilanth on"
+]
+@NPCClass base(BaseNPC) studio("models/bigrat.mdl") = monster_rat : "Rat (no ai)" []
+@NPCClass base(TalkNPC) studio("models/scientist.mdl") = monster_scientist : "Scientist"
+[
+	spawnflags(Flags) = 
+	[
+		65536 : "Pre-Disaster" : 0
+	]
+	body(Choices) : "Body" : -1 =
+	[
+		-1 : "Random"
+		0 : "Glasses"
+		1 : "Einstein"
+		2 : "Luther"
+		3 : "Slick"
+	]
+]
+@PointClass base(RenderFields, Angles) studio("models/scientist.mdl") = monster_scientist_dead : "Dead Scientist"
+[
+	pose(Choices) : "Pose" : 0 =
+	[
+		0 : "On back"
+		1 : "On Stomach"
+		2 : "Sitting"
+		3 : "Hanging"
+		4 : "Table1"
+		5 : "Table2"
+		6 : "Table3"
+	]
+	body(Choices) : "Body" : -1 =
+	[
+		-1 : "Random"
+		0 : "Glasses"
+		1 : "Einstein"
+		2 : "Luther"
+		3 : "Slick"
+	]
+]
+@NPCClass base(BaseNPC) studio("models/scientist.mdl") = monster_sitting_scientist : "Sitting Scientist"
+[
+	body(Choices) : "Body" : -1 =
+	[
+		-1 : "Random"
+		0 : "Glasses"
+		1 : "Einstein"
+		2 : "Luther"
+		3 : "Slick"
+	]
+]
+@NPCClass base(BaseNPC) studio("models/w_squeak.mdl") = monster_snark : "Armed Snark" []
+@PointClass base(BaseNPC) studio("models/w_tripmine.mdl") = monster_tripmine : "Active Tripmine"
+[
+	spawnflags(Flags) =
+	[
+		1 : "Instant On" : 1
+	]
+]
+@NPCClass base(BaseNPC) studio("models/tentacle2.mdl") = monster_tentacle : "Tentacle Arm"
+[
+	sweeparc(integer) : "Sweep Arc" : 130
+	sound(Choices) : "Tap Sound" : -1 =
+	[
+		-1 : "None"
+		0 : "Silo"
+		1 : "Dirt"
+		2 : "Water"
+	]
+]
+@NPCClass base(BaseNPC) studio("models/zombie.mdl") = monster_zombie : "Zombie" []
+
+@PointClass base(Targetname, Angles) iconsprite("editor/npc_maker.vmt") = monstermaker : "NPC Maker"
+[
+	StartDisabled(choices) : "Start Disabled" : 1 =
+	[
+		0 : "No"
+		1 : "Yes"
+	]
+
+	spawnflags(Flags) = 
+	[
+		16	: "Fade Corpse"		: 0
+		32	: "Infinite Children"	: 0
+		64	: "Do Not Drop" : 0
+	]
+
+	monstertype(npcclass) : "Class name of spawned NPC"
+	monstercount(integer) : "Max Num. of NPCs" : 1
+	
+	// maximum number of live children allowed at one time. (New ones will not be made until one dies)
+	// -1 no limit
+	MaxLiveChildren(integer) : "Max live NPCs" : 5
+
+	// if delay is -1, new NPC will be made when last NPC dies.
+	// else, delay is how often (seconds) a new NPC will be dookied out.
+	delay(string) : "Frequency" : "5"
+
+	// Outputs
+	output OnSpawnNPC(void) : "Fires when an NPC is spawned" 
+
+	// Inputs
+	input Spawn(void) : "Spawns an NPC."
+	input Toggle(void) : "Toggles the spawner enabled/disabled state."
+	input Enable(void) : "Enables the spawner."
+	input Disable(void) : "Disables the spawner."
+]
+
