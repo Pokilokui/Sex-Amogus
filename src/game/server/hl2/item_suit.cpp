@@ -27,17 +27,26 @@ class CItemSuit : public CItem
 public:
 	DECLARE_CLASS( CItemSuit, CItem );
 
+
 	void Spawn( void )
 	{ 
-		Precache( );
-		SetModel( "models/items/hevsuit.mdl" );
+		const char* pModelName = STRING(GetModelName());
+
+		Precache();
+		SetModel(pModelName);
+
+		DevMsg(STRING(GetModelName()));
+		if (!pModelName || pModelName[0] == '\0')  //Checks if model name is empty
+			SetModel("models/items/hevsuit.mdl");
+		
 		BaseClass::Spawn( );
 		
 		CollisionProp()->UseTriggerBounds( false, 0 );
 	}
 	void Precache( void )
 	{
-		PrecacheModel ("models/items/hevsuit.mdl");
+		PrecacheModel("models/items/hevsuit.mdl");
+		PrecacheModel("models/w_suit.mdl");
 	}
 	bool MyTouch( CBasePlayer *pPlayer )
 	{
