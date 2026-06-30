@@ -14,7 +14,7 @@
 #include "hl2_playerlocaldata.h"
 #include "simtimer.h"
 #include "soundenvelope.h"
-#include "singleplayer_animstate.h"
+#include "mod\singleplayer_animstate.h"
 
 class CAI_Squad;
 class CPropCombineBall;

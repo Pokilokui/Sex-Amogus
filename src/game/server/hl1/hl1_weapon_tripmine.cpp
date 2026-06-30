@@ -22,7 +22,7 @@
 #include "hl1_basegrenade.h"
 #include "beam_shared.h"
 
-extern ConVar sk_plr_dmg_tripmine;
+extern ConVar sk_hl1_plr_dmg_tripmine;
 
 
 //-----------------------------------------------------------------------------
@@ -314,7 +314,7 @@ void CHL1TripmineGrenade::Spawn( void )
 	
 	UTIL_SetSize( this, Vector( -8, -8, -8), Vector(8, 8, 8) );
 
-	m_flDamage	= sk_plr_dmg_tripmine.GetFloat();
+	m_flDamage	= sk_hl1_plr_dmg_tripmine.GetFloat();
 	m_DmgRadius	= m_flDamage * 2.5;
 
 	if ( m_spawnflags & 1 )

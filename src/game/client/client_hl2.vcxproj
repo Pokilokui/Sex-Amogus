@@ -62,12 +62,7 @@
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <PreBuildEvent>
-      <Command>if EXIST ..\..\..\game\mod_hl2\bin\.\$(TargetFileName) for /f "delims=" %%A in ('attrib "..\..\..\game\mod_hl2\bin\.\$(TargetFileName)"') do set valveTmpIsReadOnly="%%A"
-set valveTmpIsReadOnlyLetter=%valveTmpIsReadOnly:~6,1%
-if "%valveTmpIsReadOnlyLetter%"=="R" del /q "$(TargetDir)"$(TargetFileName)
-if exist "..\..\devtools\bin\vpc.exe" "..\..\devtools\bin\vpc.exe" -crc2 "client_hl2.vcxproj"
-if ERRORLEVEL 1 exit /b 1
-</Command>
+      <Command>if EXIST ..\..\..\game\mod_hl2\bin\.\$(TargetFileName) for /f &quot;delims=&quot; %%A in (&apos;attrib &quot;..\..\..\game\mod_hl2\bin\.\$(TargetFileName)&quot;&apos;) do set valveTmpIsReadOnly=&quot;%%A&quot;&#x0D;&#x0A;set valveTmpIsReadOnlyLetter=%valveTmpIsReadOnly:~6,1%&#x0D;&#x0A;if &quot;%valveTmpIsReadOnlyLetter%&quot;==&quot;R&quot; del /q &quot;$(TargetDir)&quot;$(TargetFileName)&#x0D;&#x0A;if exist &quot;..\..\devtools\bin\vpc.exe&quot; &quot;..\..\devtools\bin\vpc.exe&quot; -crc2 &quot;client_hl2.vcxproj&quot;&#x0D;&#x0A;if ERRORLEVEL 1 exit /b 1&#x0D;&#x0A;</Command>
     </PreBuildEvent>
     <ClCompile>
       <AdditionalOptions>/Zm200 /Gw</AdditionalOptions>
@@ -118,8 +113,7 @@ if ERRORLEVEL 1 exit /b 1
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <ProgramDatabaseFile>$(IntDir)/$(TargetName).pdb</ProgramDatabaseFile>
       <SubSystem>Windows</SubSystem>
-      <BaseAddress>
-      </BaseAddress>
+      <BaseAddress> </BaseAddress>
       <TargetMachine>MachineX86</TargetMachine>
       <LinkErrorReporting>PromptImmediately</LinkErrorReporting>
       <RandomizedBaseAddress>false</RandomizedBaseAddress>
@@ -137,31 +131,14 @@ if ERRORLEVEL 1 exit /b 1
     </Bscmake>
     <PostBuildEvent>
       <Message>Publishing to ..\..\..\game\mod_hl2\bin\.</Message>
-      <Command>if not exist "..\..\..\game\mod_hl2\bin\." mkdir "..\..\..\game\mod_hl2\bin\."
-copy "$(TargetDir)$(TargetFileName)" "..\..\..\game\mod_hl2\bin\.\$(TargetFileName)"
-if ERRORLEVEL 1 goto BuildEventFailed
-if exist "$(TargetDir)$(TargetName).map" copy "$(TargetDir)$(TargetName).map" ..\..\..\game\mod_hl2\bin\.\$(TargetName).map
-copy "$(TargetDir)$(TargetName).pdb" ..\..\..\game\mod_hl2\bin\.\$(TargetName).pdb
-if ERRORLEVEL 1 goto BuildEventFailed
-goto BuildEventOK
-:BuildEventFailed
-echo *** ERROR! PostBuildStep FAILED for $(ProjectName)! EXE or DLL is probably running. ***
-del /q "$(TargetDir)$(TargetFileName)"
-exit 1
-:BuildEventOK
-</Command>
+      <Command>if not exist &quot;..\..\..\game\mod_hl2\bin\.&quot; mkdir &quot;..\..\..\game\mod_hl2\bin\.&quot;&#x0D;&#x0A;copy &quot;$(TargetDir)$(TargetFileName)&quot; &quot;..\..\..\game\mod_hl2\bin\.\$(TargetFileName)&quot;&#x0D;&#x0A;if ERRORLEVEL 1 goto BuildEventFailed&#x0D;&#x0A;if exist &quot;$(TargetDir)$(TargetName).map&quot; copy &quot;$(TargetDir)$(TargetName).map&quot; ..\..\..\game\mod_hl2\bin\.\$(TargetName).map&#x0D;&#x0A;copy &quot;$(TargetDir)$(TargetName).pdb&quot; ..\..\..\game\mod_hl2\bin\.\$(TargetName).pdb&#x0D;&#x0A;if ERRORLEVEL 1 goto BuildEventFailed&#x0D;&#x0A;goto BuildEventOK&#x0D;&#x0A;:BuildEventFailed&#x0D;&#x0A;echo *** ERROR! PostBuildStep FAILED for $(ProjectName)! EXE or DLL is probably running. ***&#x0D;&#x0A;del /q &quot;$(TargetDir)$(TargetFileName)&quot;&#x0D;&#x0A;exit 1&#x0D;&#x0A;:BuildEventOK&#x0D;&#x0A;</Command>
     </PostBuildEvent>
     <CustomBuildStep>
     </CustomBuildStep>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <PreBuildEvent>
-      <Command>if EXIST ..\..\..\game\mod_hl2\bin\.\$(TargetFileName) for /f "delims=" %%A in ('attrib "..\..\..\game\mod_hl2\bin\.\$(TargetFileName)"') do set valveTmpIsReadOnly="%%A"
-set valveTmpIsReadOnlyLetter=%valveTmpIsReadOnly:~6,1%
-if "%valveTmpIsReadOnlyLetter%"=="R" del /q "$(TargetDir)"$(TargetFileName)
-if exist "..\..\devtools\bin\vpc.exe" "..\..\devtools\bin\vpc.exe" -crc2 "client_hl2.vcxproj"
-if ERRORLEVEL 1 exit /b 1
-</Command>
+      <Command>if EXIST ..\..\..\game\mod_hl2\bin\.\$(TargetFileName) for /f &quot;delims=&quot; %%A in (&apos;attrib &quot;..\..\..\game\mod_hl2\bin\.\$(TargetFileName)&quot;&apos;) do set valveTmpIsReadOnly=&quot;%%A&quot;&#x0D;&#x0A;set valveTmpIsReadOnlyLetter=%valveTmpIsReadOnly:~6,1%&#x0D;&#x0A;if &quot;%valveTmpIsReadOnlyLetter%&quot;==&quot;R&quot; del /q &quot;$(TargetDir)&quot;$(TargetFileName)&#x0D;&#x0A;if exist &quot;..\..\devtools\bin\vpc.exe&quot; &quot;..\..\devtools\bin\vpc.exe&quot; -crc2 &quot;client_hl2.vcxproj&quot;&#x0D;&#x0A;if ERRORLEVEL 1 exit /b 1&#x0D;&#x0A;</Command>
     </PreBuildEvent>
     <ClCompile>
       <AdditionalOptions>/Zm200 /d2Zi+ /Gw</AdditionalOptions>
@@ -170,7 +147,7 @@ if ERRORLEVEL 1 exit /b 1
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
       <AdditionalIncludeDirectories>.\hl2;.\hl2\elements;..\..\game\shared\hl2;.\;..\..\common;..\..\public;..\..\public\tier0;..\..\public\tier1;..\..\game\client\generated_proto_mod_hl2;..\..\thirdparty\protobuf-2.3.0\src;..\..\vgui2\include;..\..\vgui2\controls;..\..\game\shared;.\game_controls;..\..\thirdparty\sixensesdk\include</AdditionalIncludeDirectories>
-      <PreprocessorDefinitions>GLOWS_ENABLE;VPC;RAD_TELEMETRY_DISABLED;WIN32;_WIN32;NDEBUG;_WINDOWS;_USRDLL;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_ALLOW_RUNTIME_LIBRARY_MISMATCH;_ALLOW_ITERATOR_DEBUG_LEVEL_MISMATCH;_ALLOW_MSC_VER_MISMATCH;%(PreprocessorDefinitions);COMPILER_MSVC32;COMPILER_MSVC32;COMPILER_MSVC;_DLL_EXT=.dll;DLLNAME=client;BINK_VIDEO;AVI_VIDEO;WMV_VIDEO;DEV_BUILD;FRAME_POINTER_OMISSION_DISABLED;NO_STRING_T;CLIENT_DLL;VECTOR;VERSION_SAFE_STEAM_API_INTERFACES;PROTECTED_THINGS_ENABLE;strncpy=use_Q_strncpy_instead;_snprintf=use_Q_snprintf_instead;GAMEPADUI;ENABLE_CHROMEHTMLWINDOW;fopen=dont_use_fopen;HL2_CLIENT_DLL;_EXTERNAL_DLL_EXT=.dll;VPCGAMECAPS=VALVE;PROJECTDIR=C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\game\client;_DLL_EXT=.dll;VPCGAME=valve;SOURCE1=1</PreprocessorDefinitions>
+      <PreprocessorDefinitions>VPC;RAD_TELEMETRY_DISABLED;WIN32;_WIN32;NDEBUG;_WINDOWS;_USRDLL;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_ALLOW_RUNTIME_LIBRARY_MISMATCH;_ALLOW_ITERATOR_DEBUG_LEVEL_MISMATCH;_ALLOW_MSC_VER_MISMATCH;%(PreprocessorDefinitions);COMPILER_MSVC32;COMPILER_MSVC32;COMPILER_MSVC;_DLL_EXT=.dll;DLLNAME=client;BINK_VIDEO;AVI_VIDEO;WMV_VIDEO;DEV_BUILD;FRAME_POINTER_OMISSION_DISABLED;NO_STRING_T;CLIENT_DLL;VECTOR;VERSION_SAFE_STEAM_API_INTERFACES;PROTECTED_THINGS_ENABLE;strncpy=use_Q_strncpy_instead;_snprintf=use_Q_snprintf_instead;GAMEPADUI;ENABLE_CHROMEHTMLWINDOW;fopen=dont_use_fopen;HL2_CLIENT_DLL;_EXTERNAL_DLL_EXT=.dll;VPCGAMECAPS=VALVE;PROJECTDIR=C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\game\client;_DLL_EXT=.dll;VPCGAME=valve;SOURCE1=1</PreprocessorDefinitions>
       <StringPooling>true</StringPooling>
       <ExceptionHandling>false</ExceptionHandling>
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
@@ -217,8 +194,7 @@ if ERRORLEVEL 1 exit /b 1
       <SubSystem>Windows</SubSystem>
       <OptimizeReferences>true</OptimizeReferences>
       <EnableCOMDATFolding>false</EnableCOMDATFolding>
-      <BaseAddress>
-      </BaseAddress>
+      <BaseAddress> </BaseAddress>
       <TargetMachine>MachineX86</TargetMachine>
       <LinkErrorReporting>PromptImmediately</LinkErrorReporting>
       <RandomizedBaseAddress>false</RandomizedBaseAddress>
@@ -236,19 +212,7 @@ if ERRORLEVEL 1 exit /b 1
     </Bscmake>
     <PostBuildEvent>
       <Message>Publishing to ..\..\..\game\mod_hl2\bin\.</Message>
-      <Command>if not exist "..\..\..\game\mod_hl2\bin\." mkdir "..\..\..\game\mod_hl2\bin\."
-copy "$(TargetDir)$(TargetFileName)" "..\..\..\game\mod_hl2\bin\.\$(TargetFileName)"
-if ERRORLEVEL 1 goto BuildEventFailed
-if exist "$(TargetDir)$(TargetName).map" copy "$(TargetDir)$(TargetName).map" ..\..\..\game\mod_hl2\bin\.\$(TargetName).map
-copy "$(TargetDir)$(TargetName).pdb" ..\..\..\game\mod_hl2\bin\.\$(TargetName).pdb
-if ERRORLEVEL 1 goto BuildEventFailed
-goto BuildEventOK
-:BuildEventFailed
-echo *** ERROR! PostBuildStep FAILED for $(ProjectName)! EXE or DLL is probably running. ***
-del /q "$(TargetDir)$(TargetFileName)"
-exit 1
-:BuildEventOK
-</Command>
+      <Command>if not exist &quot;..\..\..\game\mod_hl2\bin\.&quot; mkdir &quot;..\..\..\game\mod_hl2\bin\.&quot;&#x0D;&#x0A;copy &quot;$(TargetDir)$(TargetFileName)&quot; &quot;..\..\..\game\mod_hl2\bin\.\$(TargetFileName)&quot;&#x0D;&#x0A;if ERRORLEVEL 1 goto BuildEventFailed&#x0D;&#x0A;if exist &quot;$(TargetDir)$(TargetName).map&quot; copy &quot;$(TargetDir)$(TargetName).map&quot; ..\..\..\game\mod_hl2\bin\.\$(TargetName).map&#x0D;&#x0A;copy &quot;$(TargetDir)$(TargetName).pdb&quot; ..\..\..\game\mod_hl2\bin\.\$(TargetName).pdb&#x0D;&#x0A;if ERRORLEVEL 1 goto BuildEventFailed&#x0D;&#x0A;goto BuildEventOK&#x0D;&#x0A;:BuildEventFailed&#x0D;&#x0A;echo *** ERROR! PostBuildStep FAILED for $(ProjectName)! EXE or DLL is probably running. ***&#x0D;&#x0A;del /q &quot;$(TargetDir)$(TargetFileName)&quot;&#x0D;&#x0A;exit 1&#x0D;&#x0A;:BuildEventOK&#x0D;&#x0A;</Command>
     </PostBuildEvent>
     <CustomBuildStep>
     </CustomBuildStep>
@@ -492,7 +456,6 @@ exit 1
     <ClInclude Include="..\..\game\shared\hintmessage.h" />
     <ClInclude Include="..\..\game\shared\hintsystem.h" />
     <ClInclude Include="history_resource.h" />
-    <ClInclude Include="hl1\hud_numbers.h" />
     <ClInclude Include="hltvcamera.h" />
     <ClInclude Include="hud.h" />
     <ClInclude Include="hud_basechat.h" />
@@ -538,7 +501,6 @@ exit 1
     <ClInclude Include="..\..\common\language.h" />
     <ClInclude Include="lerp_functions.h" />
     <ClInclude Include="menu.h" />
-    <ClInclude Include="mod\IMyPanel.h" />
     <ClInclude Include="movehelper_client.h" />
     <ClInclude Include="mumble.h" />
     <ClInclude Include="networkstringtable_clientdll.h" />
@@ -848,6 +810,7 @@ exit 1
     <ClInclude Include="vgui_avatarimage.h" />
     <ClInclude Include="viewdebug.h" />
     <ClInclude Include="viewpostprocess.h" />
+    <ClInclude Include="beta\energy_wave_effect.h" />
     <ClInclude Include="game_controls\basemodel_panel.h" />
     <ClInclude Include="game_controls\basemodelpanel.h" />
     <ClInclude Include="hl2\c_basehelicopter.h" />
@@ -864,6 +827,7 @@ exit 1
     <ClInclude Include="..\..\game\shared\hl2\hl2_shareddefs.h" />
     <ClInclude Include="..\..\game\shared\hl2\hl_gamemovement.h" />
     <ClInclude Include="hl2\hud_suitpower.h" />
+    <ClInclude Include="mod\IMyPanel.h" />
     <ClInclude Include="sixense\in_sixense.h" />
     <ClInclude Include="sixense\in_sixense_gesture_bindings.h" />
     <ClInclude Include="..\..\game\shared\sixense\sixense_convars_extern.h" />
@@ -871,8 +835,6 @@ exit 1
     <ClInclude Include="toolframework_client.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hl1\hud_numbers.cpp" />
-    <ClCompile Include="mod\PlayerModelPanel.cpp" />
     <ClCompile Include="mp3player.cpp" />
     <ClCompile Include="replay\cdll_replay.cpp" />
     <ClCompile Include="replay\replaycamera.cpp" />
@@ -1314,6 +1276,7 @@ exit 1
     <ClCompile Include="weapon_selection.cpp" />
     <ClCompile Include="weapons_resource.cpp" />
     <ClCompile Include="WorldDimsProxy.cpp" />
+    <ClCompile Include="beta\energy_wave_effect.cpp" />
     <ClCompile Include="game_controls\basemodel_panel.cpp" />
     <ClCompile Include="game_controls\basemodelpanel.cpp" />
     <ClCompile Include="game_controls\baseviewport.cpp" />
@@ -1394,6 +1357,7 @@ exit 1
     <ClCompile Include="..\..\game\shared\script_intro_shared.cpp" />
     <ClCompile Include="hl2\shieldproxy.cpp" />
     <ClCompile Include="hl2\vgui_rootpanel_hl2.cpp" />
+    <ClCompile Include="mod\PlayerModelPanel.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
@@ -1473,22 +1437,18 @@ exit 1
   <ItemGroup>
     <CustomBuild Include="..\..\public\tier0\pointeroverride.asm">
       <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Compiling pointeroverride.asm</Message>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">"$(VCInstallDir)bin\ml.exe" /safeseh /c /Cp /Zi /Fo"$(IntDir)\%(Filename).obj" "%(FullPath)"</Command>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">&quot;$(VCInstallDir)bin\ml.exe&quot; /safeseh /c /Cp /Zi /Fo&quot;$(IntDir)\%(Filename).obj&quot; &quot;%(FullPath)&quot;</Command>
       <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(IntDir)\%(Filename).obj</Outputs>
       <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Compiling pointeroverride.asm</Message>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">"$(VCInstallDir)bin\ml.exe" /safeseh /c /Cp /Zi /Fo"$(IntDir)\%(Filename).obj" "%(FullPath)"</Command>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">&quot;$(VCInstallDir)bin\ml.exe&quot; /safeseh /c /Cp /Zi /Fo&quot;$(IntDir)\%(Filename).obj&quot; &quot;%(FullPath)&quot;</Command>
       <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(IntDir)\%(Filename).obj</Outputs>
     </CustomBuild>
     <CustomBuild Include="client_hl2.vpc">
       <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Running VPC CRC Check - client_hl2.vpc</Message>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">if exist "..\..\devtools\bin\vpc.exe" "..\..\devtools\bin\vpc.exe" -crc2 "client_hl2.vcxproj"
-if ERRORLEVEL 1 exit /b 1
-echo crc_complete &gt; C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\game\client\client_hl2.vpc.sentinel</Command>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">if exist &quot;..\..\devtools\bin\vpc.exe&quot; &quot;..\..\devtools\bin\vpc.exe&quot; -crc2 &quot;client_hl2.vcxproj&quot;&#x0D;&#x0A;if ERRORLEVEL 1 exit /b 1&#x0D;&#x0A;echo crc_complete &gt; C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\game\client\client_hl2.vpc.sentinel</Command>
       <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\game\client\client_hl2.vpc.sentinel</Outputs>
       <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Running VPC CRC Check - client_hl2.vpc</Message>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">if exist "..\..\devtools\bin\vpc.exe" "..\..\devtools\bin\vpc.exe" -crc2 "client_hl2.vcxproj"
-if ERRORLEVEL 1 exit /b 1
-echo crc_complete &gt; C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\game\client\client_hl2.vpc.sentinel</Command>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">if exist &quot;..\..\devtools\bin\vpc.exe&quot; &quot;..\..\devtools\bin\vpc.exe&quot; -crc2 &quot;client_hl2.vcxproj&quot;&#x0D;&#x0A;if ERRORLEVEL 1 exit /b 1&#x0D;&#x0A;echo crc_complete &gt; C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\game\client\client_hl2.vpc.sentinel</Command>
       <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\game\client\client_hl2.vpc.sentinel</Outputs>
     </CustomBuild>
   </ItemGroup>

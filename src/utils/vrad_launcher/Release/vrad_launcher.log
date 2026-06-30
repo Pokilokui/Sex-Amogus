@@ -1,4 +1,2 @@
-﻿  StdAfx.cpp
-  vrad_launcher.cpp
-     Creating library .\Release\.\vrad.lib and object .\Release\.\vrad.exp
+﻿     Creating library .\Release\.\vrad.lib and object .\Release\.\vrad.exp
   vrad_launcher.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\utils\vrad_launcher\.\Release\.\vrad.exe

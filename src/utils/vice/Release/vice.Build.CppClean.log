@@ -1,3 +1,9 @@
+c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\cmdlib.obj
+c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\filesystem_init.obj
+c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\vice.obj
+c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\filesystem_helpers.obj
+c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\memoverride.obj
+c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\filesystem_tools.obj
 c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\vc120.pdb
 c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\pointeroverride.obj
 c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\vice.vpc.sentinel
@@ -5,12 +11,6 @@ c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\vice.exe
 c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\vice.pdb
 c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\vice.lib
 c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\vice.exp
-c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\cmdlib.obj
-c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\filesystem_helpers.obj
-c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\filesystem_init.obj
-c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\filesystem_tools.obj
-c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\memoverride.obj
-c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\vice.obj
 c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\.\release\.\vice.exe
 c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\vice.tlog\cl.command.1.tlog
 c:\users\elouan\documents\sdk\mod_hl2\sp\src\utils\vice\release\vice.tlog\cl.read.1.tlog

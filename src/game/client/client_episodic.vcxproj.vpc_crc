@@ -1,7 +1,7 @@
 [vpc crc file version 2]
 8209bbc3 C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\devtools\bin\vpc.exe
 _Nc_VS2013/vpcgame:valve_
-b0aae05a client_episodic.vpc
+abba1e0d client_episodic.vpc
 046756f8 ..\..\game\client\client_base.vpc
 4832e67a ..\..\vpc_scripts\source_dll_base.vpc
 d752cf80 ..\..\vpc_scripts\platform_dirs.vpc

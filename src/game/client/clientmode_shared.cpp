@@ -37,7 +37,7 @@
 #include "hud_vote.h"
 #include "ienginevgui.h"
 #include "sourcevr/isourcevirtualreality.h"
-#include "mod_convars.h"
+//#include "mod/mod_convars.h"
 #if defined( _X360 )
 #include "xbox/xbox_console.h"
 #endif

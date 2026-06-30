@@ -51,7 +51,7 @@
 #include "BasePropDoor.h"
 #include "doors.h"
 
-#include "mod_convars.h"
+//#include "mod/mod_convars.h"
 
 #ifdef HL2_EPISODIC
 #include "npc_alyx_episodic.h"
@@ -124,8 +124,8 @@ ConVar sv_stickysprint("sv_stickysprint", "0", FCVAR_ARCHIVE | FCVAR_ARCHIVE_XBO
 #define	FLASH_CHARGE_TIME	 50.0f	// 100 units / 2 secs
 
 //kick
-#define KICK_MODEL_NO_SUIT "models/weapons/v_kick_nosuit.mdl"
-#define KICK_MODEL_SUIT "models/weapons/v_kick.mdl"
+//#define KICK_MODEL_NO_SUIT "models/weapons/v_kick_nosuit.mdl"
+//#define KICK_MODEL_SUIT "models/weapons/v_kick.mdl"
 //kick
 
 //#define PLAYER_MODEL "models/gordon/gordon.mdl"
@@ -476,8 +476,8 @@ void CHL2_Player::Precache( void )
 	PrecacheScriptSound("HL2Player.KickHitWall");
 	PrecacheScriptSound("HL2Player.KickNotHit");
 
-	PrecacheModel(KICK_MODEL_NO_SUIT);
-	PrecacheModel(KICK_MODEL_SUIT);
+	//PrecacheModel(KICK_MODEL_NO_SUIT);
+	//PrecacheModel(KICK_MODEL_SUIT);
 	//
 	PrecacheScriptSound( "HL2Player.SprintNoPower" );
 	PrecacheScriptSound( "HL2Player.SprintStart" );

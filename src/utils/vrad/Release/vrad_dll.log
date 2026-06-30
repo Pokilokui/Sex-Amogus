@@ -1,21 +1,4 @@
-﻿  SampleHash.cpp
-  VRAD_DispColl.cpp
-  VRadDisps.cpp
-  VRadStaticProps.cpp
-  VradDetailProps.cpp
-  disp_vrad.cpp
-  imagepacker.cpp
-  incremental.cpp
-  leaf_ambient_lighting.cpp
-  lightmap.cpp
-  macro_texture.cpp
-  mpivrad.cpp
-  radial.cpp
-  trace.cpp
-  vismat.cpp
-  vrad.cpp
-  vraddll.cpp
-     Creating library .\Release\.\vrad_dll.lib and object .\Release\.\vrad_dll.exp
+﻿     Creating library .\Release\.\vrad_dll.lib and object .\Release\.\vrad_dll.exp
   vrad_dll.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\utils\vrad\.\Release\.\vrad_dll.dll
           1 fichier(s) copié(s).
           1 fichier(s) copié(s).

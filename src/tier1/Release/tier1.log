@@ -1,4 +1,5 @@
-﻿  bitbuf.cpp
+﻿  Running VPC CRC Check - tier1.vpc
+  bitbuf.cpp
   byteswap.cpp
   characterset.cpp
   checksum_crc.cpp
@@ -11,10 +12,12 @@
   generichash.cpp
   ilocalize.cpp
   interface.cpp
+  KeyValues.cpp
   kvpacker.cpp
   lzmaDecoder.cpp
   mempool.cpp
   memstack.cpp
+  NetAdr.cpp
   newbitbuf.cpp
   rangecheckedvar.cpp
   reliabletimer.cpp

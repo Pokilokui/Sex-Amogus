@@ -27,7 +27,19 @@ $Project "Client (HL2)"
 		$File	"hud_chat.cpp"
 		$File	"c_team_objectiveresource.cpp"
 		$File	"c_team_objectiveresource.h"
-
+		
+		$Folder	"mod"
+		{
+			$File	"mod\PlayerModelPanel.cpp"
+			$File	"mod\IMyPanel.h"
+		}
+		
+		$Folder	"beta"
+		{
+			$File	"beta\energy_wave_effect.cpp"
+			$File	"beta\energy_wave_effect.h"
+		}
+		
 		$Folder	"HL2 DLL"
 		{
 			$File	"$SRCDIR\game\shared\hl2\basehlcombatweapon_shared.cpp"

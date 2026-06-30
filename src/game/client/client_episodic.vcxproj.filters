@@ -25,11 +25,20 @@
     <Filter Include="Source Files">
       <UniqueIdentifier>{BA03E055-4FA2-FCE3-8A1C-D348547D379C}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\beta">
+      <UniqueIdentifier>{A2F7AC47-6639-E61E-7424-41CE7E64BF7F}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Source Files\game_controls">
       <UniqueIdentifier>{1E7DB91A-DC0A-B17F-617D-4C4FB3FA7A3E}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\hl1">
+      <UniqueIdentifier>{C4818993-DD2C-46F2-A16B-F6FD9DED14C2}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Source Files\HL2 DLL">
       <UniqueIdentifier>{3C43D38A-46AF-2183-A5E5-44383B1D2652}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\mod">
+      <UniqueIdentifier>{980C7FC5-AAFE-7FF7-AC7E-A59E83560895}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\Precompiled Header">
       <UniqueIdentifier>{A7D26A13-21F4-C6B5-5922-8A4FB05AF07D}</UniqueIdentifier>
@@ -1820,11 +1829,17 @@
     <ClInclude Include="viewpostprocess.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="beta\energy_wave_effect.h">
+      <Filter>Source Files\beta</Filter>
+    </ClInclude>
     <ClInclude Include="game_controls\basemodel_panel.h">
       <Filter>Source Files\game_controls</Filter>
     </ClInclude>
     <ClInclude Include="game_controls\basemodelpanel.h">
       <Filter>Source Files\game_controls</Filter>
+    </ClInclude>
+    <ClInclude Include="hl1\hud_numbers.h">
+      <Filter>Source Files\hl1</Filter>
     </ClInclude>
     <ClInclude Include="hl2\c_basehelicopter.h">
       <Filter>Source Files\HL2 DLL</Filter>
@@ -1877,6 +1892,12 @@
     <ClInclude Include="..\..\game\shared\episodic\npc_advisor_shared.h">
       <Filter>Source Files\HL2 DLL</Filter>
     </ClInclude>
+    <ClInclude Include="mod\IMyPanel.h">
+      <Filter>Source Files\mod</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\game\shared\mod\singleplayer_animstate.h">
+      <Filter>Source Files\mod</Filter>
+    </ClInclude>
     <ClInclude Include="sixense\in_sixense.h">
       <Filter>Source Files\Sixense</Filter>
     </ClInclude>
@@ -1892,9 +1913,6 @@
     <ClInclude Include="toolframework_client.h">
       <Filter>Tool Framework</Filter>
     </ClInclude>
-    <ClInclude Include="beta\energy_wave_effect.h" />
-    <ClInclude Include="mod\IMyPanel.h" />
-    <ClInclude Include="hl1\hud_numbers.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="mp3player.cpp">
@@ -2932,6 +2950,9 @@
     <ClCompile Include="WorldDimsProxy.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="beta\energy_wave_effect.cpp">
+      <Filter>Source Files\beta</Filter>
+    </ClCompile>
     <ClCompile Include="game_controls\basemodel_panel.cpp">
       <Filter>Source Files\game_controls</Filter>
     </ClCompile>
@@ -2967,6 +2988,15 @@
     </ClCompile>
     <ClCompile Include="game_controls\vguitextwindow.cpp">
       <Filter>Source Files\game_controls</Filter>
+    </ClCompile>
+    <ClCompile Include="hl1\hl1_fx_shelleject.cpp">
+      <Filter>Source Files\hl1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\game\shared\hl1\hl1mp_weapon_hornetgun.cpp">
+      <Filter>Source Files\hl1</Filter>
+    </ClCompile>
+    <ClCompile Include="hl1\hud_numbers.cpp">
+      <Filter>Source Files\hl1</Filter>
     </ClCompile>
     <ClCompile Include="..\..\game\shared\episodic\achievements_ep1.cpp">
       <Filter>Source Files\HL2 DLL</Filter>
@@ -3005,6 +3035,9 @@
       <Filter>Source Files\HL2 DLL</Filter>
     </ClCompile>
     <ClCompile Include="hl2\c_corpse.cpp">
+      <Filter>Source Files\HL2 DLL</Filter>
+    </ClCompile>
+    <ClCompile Include="hl2\c_energy_wave.cpp">
       <Filter>Source Files\HL2 DLL</Filter>
     </ClCompile>
     <ClCompile Include="hl2\c_env_alyxtemp.cpp">
@@ -3092,6 +3125,9 @@
       <Filter>Source Files\HL2 DLL</Filter>
     </ClCompile>
     <ClCompile Include="hl2\c_weapon_crossbow.cpp">
+      <Filter>Source Files\HL2 DLL</Filter>
+    </ClCompile>
+    <ClCompile Include="hl2\c_weapon_gravitygun.cpp">
       <Filter>Source Files\HL2 DLL</Filter>
     </ClCompile>
     <ClCompile Include="episodic\c_weapon_hopwire.cpp">
@@ -3207,6 +3243,27 @@
     </ClCompile>
     <ClCompile Include="hl2\vgui_rootpanel_hl2.cpp">
       <Filter>Source Files\HL2 DLL</Filter>
+    </ClCompile>
+    <ClCompile Include="mod\c_item_ammo.cpp">
+      <Filter>Source Files\mod</Filter>
+    </ClCompile>
+    <ClCompile Include="mod\c_item_battery.cpp">
+      <Filter>Source Files\mod</Filter>
+    </ClCompile>
+    <ClCompile Include="mod\c_item_healthkit.cpp">
+      <Filter>Source Files\mod</Filter>
+    </ClCompile>
+    <ClCompile Include="mod\dynamic_c_arms.cpp">
+      <Filter>Source Files\mod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\game\shared\mod\handviewmodel_shared.cpp">
+      <Filter>Source Files\mod</Filter>
+    </ClCompile>
+    <ClCompile Include="mod\PlayerModelPanel.cpp">
+      <Filter>Source Files\mod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\game\shared\mod\singleplayer_animstate.cpp">
+      <Filter>Source Files\mod</Filter>
     </ClCompile>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files\Precompiled Header</Filter>
@@ -3418,19 +3475,6 @@
     <ClCompile Include="toolframework_client.cpp">
       <Filter>Tool Framework</Filter>
     </ClCompile>
-    <ClCompile Include="hl2\c_item_battery.cpp" />
-    <ClCompile Include="hl2\c_item_healthkit.cpp" />
-    <ClCompile Include="hl2\c_item_ammo.cpp" />
-    <ClCompile Include="hl2\c_energy_wave.cpp" />
-    <ClCompile Include="beta\energy_wave_effect.cpp" />
-    <ClCompile Include="hl2\c_weapon_gravitygun.cpp" />
-    <ClCompile Include="..\shared\handviewmodel_shared.cpp" />
-    <ClCompile Include="mod\PlayerModelPanel.cpp" />
-    <ClCompile Include="dynamic_c_arms.cpp" />
-    <ClCompile Include="fx_cs_weaponfx.cpp" />
-    <ClCompile Include="hl1\hl1_fx_shelleject.cpp" />
-    <ClCompile Include="..\shared\hl1\hl1mp_weapon_hornetgun.cpp" />
-    <ClCompile Include="hl1\hud_numbers.cpp" />
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>

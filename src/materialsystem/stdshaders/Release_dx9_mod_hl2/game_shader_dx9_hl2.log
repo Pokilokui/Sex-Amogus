@@ -1,15 +1,4 @@
-﻿  Compiling pointeroverride.asm
-   Assembling: C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\public\tier0\pointeroverride.asm
-  Microsoft (R) Macro Assembler Version 12.00.40629.0
-  Copyright (C) Microsoft Corporation.  All rights reserved.
-  
-  memoverride.cpp
-  BaseVSShader.cpp
-  Bloom.cpp
-  example_model_dx9.cpp
-  example_model_dx9_helper.cpp
-  screenspace_general.cpp
-     Creating library Release_dx9_mod_hl2\game_shader_dx9.lib and object Release_dx9_mod_hl2\game_shader_dx9.exp
+﻿     Creating library Release_dx9_mod_hl2\game_shader_dx9.lib and object Release_dx9_mod_hl2\game_shader_dx9.exp
   game_shader_dx9_hl2.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\materialsystem\stdshaders\Release_dx9_mod_hl2\game_shader_dx9.dll
           1 fichier(s) copié(s).
           1 fichier(s) copié(s).

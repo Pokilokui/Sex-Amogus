@@ -1,10 +1,11 @@
-﻿  3dnow.cpp
-  IceKey.cpp
+﻿  Running VPC CRC Check - mathlib.vpc
+  3dnow.cpp
   almostequal.cpp
   anorms.cpp
   bumpvects.cpp
   color_conversion.cpp
   halton.cpp
+  IceKey.cpp
   imagequant.cpp
   lightdesc.cpp
   mathlib_base.cpp

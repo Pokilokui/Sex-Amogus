@@ -15,7 +15,7 @@ $Configuration
 	$Compiler
 	{
 		$AdditionalIncludeDirectories	".\hl2;.\hl2\elements;$SRCDIR\game\shared\hl2;$SRCDIR\game\shared\episodic;..\..\public;$BASE"
-		$PreprocessorDefinitions		"$BASE;HL2_CLIENT_DLL;HL2_EPISODIC"
+		$PreprocessorDefinitions		"$BASE;HL2_CLIENT_DLL;HL2_EPISODIC;GLOWS_ENABLE"
 	}
 }
 
@@ -26,6 +26,33 @@ $Project "Client (Episodic)"
 		$File	"hud_chat.cpp"
 		$File	"c_team_objectiveresource.cpp"
 		$File	"c_team_objectiveresource.h"
+		
+		$Folder	"mod"
+		{
+			$File	"mod\PlayerModelPanel.cpp"
+			$File	"mod\IMyPanel.h"
+			$File	"$SRCDIR\game\shared\mod\singleplayer_animstate.cpp"
+			$File	"$SRCDIR\game\shared\mod\singleplayer_animstate.h"
+			$File	"mod\c_item_ammo.cpp"
+			$File	"mod\c_item_battery.cpp"
+			$File	"mod\c_item_healthkit.cpp"
+			$File	"mod\dynamic_c_arms.cpp"
+			$File	"$SRCDIR\game\shared\mod\handviewmodel_shared.cpp"
+		}
+		
+		$Folder	"beta"
+		{
+			$File	"beta\energy_wave_effect.cpp"
+			$File	"beta\energy_wave_effect.h"
+		}
+		
+		$Folder	"hl1"
+		{
+			$File	"hl1\hl1_fx_shelleject.cpp"
+			$File	"hl1\hud_numbers.cpp"
+			$File	"hl1\hud_numbers.h"
+			$File	"$SRCDIR\game\shared\hl1\hl1mp_weapon_hornetgun.cpp"
+		}
 
 		$Folder	"HL2 DLL"
 		{
@@ -126,6 +153,9 @@ $Project "Client (Episodic)"
 			$File	"$SRCDIR\game\shared\hl2\survival_gamerules.cpp"
 			$File	"hl2\vgui_rootpanel_hl2.cpp"
 			$File	"episodic\c_npc_puppet.cpp"
+			
+			$File	"hl2\c_energy_wave.cpp"
+			$File	"hl2\c_weapon_gravitygun.cpp"
 		}
 	}
 }
