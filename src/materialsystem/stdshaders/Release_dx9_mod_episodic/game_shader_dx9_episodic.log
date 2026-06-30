@@ -1,4 +1,9 @@
-﻿  memoverride.cpp
+﻿  Compiling pointeroverride.asm
+   Assembling: C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\public\tier0\pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 12.00.40629.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  memoverride.cpp
   BaseVSShader.cpp
   Bloom.cpp
   example_model_dx9.cpp

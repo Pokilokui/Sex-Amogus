@@ -1,10 +1,9 @@
-﻿  KeyValues.cpp
-  NetAdr.cpp
-  bitbuf.cpp
+﻿  bitbuf.cpp
   byteswap.cpp
   characterset.cpp
   checksum_crc.cpp
   checksum_md5.cpp
+  checksum_sha1.cpp
   commandbuffer.cpp
   convar.cpp
   datamanager.cpp
@@ -19,6 +18,7 @@
   newbitbuf.cpp
   rangecheckedvar.cpp
   reliabletimer.cpp
+  snappy-sinksource.cpp
   snappy-stubs-internal.cpp
   snappy.cpp
   sparsematrix.cpp
@@ -32,4 +32,5 @@
   utlbufferutil.cpp
   utlstring.cpp
   utlsymbol.cpp
+  processor_detect.cpp
   tier1.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\tier1\..\lib\public\.\tier1.lib

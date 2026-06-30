@@ -1,9 +1,4 @@
-﻿  compiledcaptionswap.cpp
-  filesystem_helpers.cpp
-  filesystem_init.cpp
-  stringregistry.cpp
-  memoverride.cpp
-  cmdlib.cpp
+﻿  cmdlib.cpp
   filesystem_tools.cpp
   pacifier.cpp
   scriplib.cpp

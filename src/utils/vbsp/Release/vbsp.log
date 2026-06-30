@@ -1,28 +1,4 @@
-﻿  ChunkFile.cpp
-  CollisionUtils.cpp
-  ScratchPad3D.cpp
-  builddisp.cpp
-  disp_common.cpp
-  disp_powerinfo.cpp
-  filesystem_helpers.cpp
-  filesystem_init.cpp
-  loadcmdline.cpp
-  lumpfiles.cpp
-  memoverride.cpp
-  zip_utils.cpp
-  bsplib.cpp
-  cmdlib.cpp
-  filesystem_tools.cpp
-  map_shared.cpp
-  pacifier.cpp
-  physdll.cpp
-  polylib.cpp
-  scratchpad_helpers.cpp
-  scriplib.cpp
-  threads.cpp
-  tools_minidump.cpp
-  utilmatlib.cpp
-  StaticProp.cpp
+﻿  StaticProp.cpp
   boundbox.cpp
   brushbsp.cpp
   csg.cpp

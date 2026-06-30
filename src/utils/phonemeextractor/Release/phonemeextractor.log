@@ -1,6 +1,4 @@
-﻿  phonemeconverter.cpp
-  sentence.cpp
-  memoverride.cpp
+﻿  extractor_utils.cpp
   phonemeextractor.cpp
      Creating library .\Release\.\phonemeextractor.lib and object .\Release\.\phonemeextractor.exp
   phonemeextractor.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\utils\phonemeextractor\.\Release\.\phonemeextractor.dll

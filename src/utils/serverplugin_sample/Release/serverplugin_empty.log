@@ -1,5 +1,4 @@
-﻿  memoverride.cpp
-  serverplugin_bot.cpp
+﻿  serverplugin_bot.cpp
   serverplugin_empty.cpp
      Creating library .\Release\.\serverplugin_empty.lib and object .\Release\.\serverplugin_empty.exp
   serverplugin_empty.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\utils\serverplugin_sample\.\Release\.\serverplugin_empty.dll

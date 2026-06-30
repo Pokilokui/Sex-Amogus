@@ -1,4 +1,3 @@
-﻿  memoverride.cpp
-  vtf2tga.cpp
+﻿  vtf2tga.cpp
      Creating library .\Release\.\vtf2tga.lib and object .\Release\.\vtf2tga.exp
   vtf2tga.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\utils\vtf2tga\.\Release\.\vtf2tga.exe

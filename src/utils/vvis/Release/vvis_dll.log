@@ -1,20 +1,4 @@
-﻿  collisionutils.cpp
-  filesystem_helpers.cpp
-  loadcmdline.cpp
-  lumpfiles.cpp
-  scratchpad3d.cpp
-  zip_utils.cpp
-  MySqlDatabase.cpp
-  bsplib.cpp
-  cmdlib.cpp
-  mpi_stats.cpp
-  pacifier.cpp
-  scratchpad_helpers.cpp
-  scriplib.cpp
-  threads.cpp
-  tools_minidump.cpp
-  vmpi_tools_shared.cpp
-  WaterDist.cpp
+﻿  WaterDist.cpp
   flow.cpp
   mpivis.cpp
   vvis.cpp

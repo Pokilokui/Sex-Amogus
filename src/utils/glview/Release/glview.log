@@ -1,9 +1,3 @@
-﻿  filesystem_helpers.cpp
-  filesystem_init.cpp
-  memoverride.cpp
-  cmdlib.cpp
-  filesystem_tools.cpp
-  physdll.cpp
-  glview.cpp
+﻿  glview.cpp
      Creating library .\Release\.\glview.lib and object .\Release\.\glview.exp
   glview.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\utils\glview\.\Release\.\glview.exe
