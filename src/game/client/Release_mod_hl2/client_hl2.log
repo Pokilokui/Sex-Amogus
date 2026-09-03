@@ -1,4 +1,9 @@
-﻿  Running VPC CRC Check - client_hl2.vpc
+﻿  Compiling pointeroverride.asm
+   Assembling: C:\Users\IB\Documents\sdk\mod_hl2\src\public\tier0\pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 12.00.40629.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  Running VPC CRC Check - client_hl2.vpc
   stdafx.cpp
   mp3player.cpp
   cdll_replay.cpp
@@ -171,9 +176,6 @@
   hintsystem.cpp
   history_resource.cpp
   hltvcamera.cpp
-c:\users\elouan\documents\sdk\mod_hl2\sp\src\game\client\clientmode_shared.cpp(779): error C2065: 'g_GlowObjectManager' : undeclared identifier
-c:\users\elouan\documents\sdk\mod_hl2\sp\src\game\client\clientmode_shared.cpp(779): error C2228: left of '.RenderGlowEffects' must have class/struct/union
-          type is 'unknown-type'
   hud.cpp
   hud_animationinfo.cpp
   hud_autoaim.cpp
@@ -190,6 +192,9 @@ c:\users\elouan\documents\sdk\mod_hl2\sp\src\game\client\clientmode_shared.cpp(7
   hud_msg.cpp
   hud_numericdisplay.cpp
   hud_pdump.cpp
+c:\users\ib\documents\sdk\mod_hl2\src\game\client\clientmode_shared.cpp(779): error C2065: 'g_GlowObjectManager' : undeclared identifier
+c:\users\ib\documents\sdk\mod_hl2\src\game\client\clientmode_shared.cpp(779): error C2228: left of '.RenderGlowEffects' must have class/struct/union
+          type is 'unknown-type'
   hud_redraw.cpp
   hud_vehicle.cpp
   hud_weapon.cpp

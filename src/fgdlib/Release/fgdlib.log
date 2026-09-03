@@ -1,1 +1,7 @@
-﻿  fgdlib.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\fgdlib\..\lib\public\.\fgdlib.lib
+﻿  Running VPC CRC Check - fgdlib.vpc
+  gamedata.cpp
+  gdclass.cpp
+  gdvar.cpp
+  inputoutput.cpp
+  wckeyvalues.cpp
+  fgdlib.vcxproj -> C:\Users\IB\Documents\sdk\mod_hl2\src\fgdlib\..\lib\public\.\fgdlib.lib

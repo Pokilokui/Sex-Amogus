@@ -1,4 +1,30 @@
-﻿     Creating library .\Release\.\vvis_dll.lib and object .\Release\.\vvis_dll.exp
-  vvis_dll.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\utils\vvis\.\Release\.\vvis_dll.dll
+﻿  Compiling pointeroverride.asm
+   Assembling: C:\Users\IB\Documents\sdk\mod_hl2\src\public\tier0\pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 12.00.40629.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  Running VPC CRC Check - vvis_dll.vpc
+  bsplib.cpp
+  cmdlib.cpp
+  collisionutils.cpp
+  filesystem_helpers.cpp
+  flow.cpp
+  loadcmdline.cpp
+  lumpfiles.cpp
+  mpi_stats.cpp
+  mpivis.cpp
+  MySqlDatabase.cpp
+  pacifier.cpp
+  scratchpad3d.cpp
+  scratchpad_helpers.cpp
+  scriplib.cpp
+  threads.cpp
+  tools_minidump.cpp
+  vmpi_tools_shared.cpp
+  vvis.cpp
+  WaterDist.cpp
+  zip_utils.cpp
+     Creating library .\Release\.\vvis_dll.lib and object .\Release\.\vvis_dll.exp
+  vvis_dll.vcxproj -> C:\Users\IB\Documents\sdk\mod_hl2\src\utils\vvis\.\Release\.\vvis_dll.dll
           1 fichier(s) copié(s).
           1 fichier(s) copié(s).

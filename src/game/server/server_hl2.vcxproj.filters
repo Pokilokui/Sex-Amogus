@@ -1634,6 +1634,9 @@
     <ClInclude Include="hl2\npc_antlion.h">
       <Filter>Source Files\HL2 DLL</Filter>
     </ClInclude>
+    <ClInclude Include="hl2\npc_assassin.h">
+      <Filter>Source Files\HL2 DLL</Filter>
+    </ClInclude>
     <ClInclude Include="hl2\npc_attackchopper.h">
       <Filter>Source Files\HL2 DLL</Filter>
     </ClInclude>
@@ -1769,17 +1772,6 @@
     <ClInclude Include="toolframework_server.h">
       <Filter>Tools Framework</Filter>
     </ClInclude>
-    <ClInclude Include="episodic\weapon_gauss.h" />
-    <ClInclude Include="hl2\grenade_tripmine.h" />
-    <ClInclude Include="hl2\grenade_molotov.h" />
-    <ClInclude Include="hl2\weapon_molotov.h" />
-    <ClInclude Include="hl2\npc_assassin.h" />
-    <ClInclude Include="..\shared\singleplayer_animstate.h" />
-    <ClInclude Include="beta\weapon_oicw.h" />
-    <ClInclude Include="beta\npc_xenlight.h" />
-    <ClInclude Include="MyBlockHandler.h" />
-    <ClInclude Include="blacklist.h" />
-    <ClInclude Include="hl2\vehicle_jeep.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="gamedll_replay.cpp">
@@ -3045,6 +3037,9 @@
     <ClCompile Include="hl2\npc_apcdriver.cpp">
       <Filter>Source Files\HL2 DLL</Filter>
     </ClCompile>
+    <ClCompile Include="hl2\npc_assassin.cpp">
+      <Filter>Source Files\HL2 DLL</Filter>
+    </ClCompile>
     <ClCompile Include="hl2\npc_attackchopper.cpp">
       <Filter>Source Files\HL2 DLL</Filter>
     </ClCompile>
@@ -3447,22 +3442,6 @@
     <ClCompile Include="toolframework_server.cpp">
       <Filter>Tools Framework</Filter>
     </ClCompile>
-    <ClCompile Include="episodic\weapon_egon.cpp" />
-    <ClCompile Include="episodic\weapon_gauss.cpp" />
-    <ClCompile Include="hl2\grenade_tripmine.cpp" />
-    <ClCompile Include="hl2\grenade_molotov.cpp" />
-    <ClCompile Include="hl2\weapon_molotov.cpp" />
-    <ClCompile Include="hl2\npc_assassin.cpp" />
-    <ClCompile Include="..\shared\singleplayer_animstate.cpp" />
-    <ClCompile Include="beta\weapon_binoculars.cpp" />
-    <ClCompile Include="beta\weapon_oicw.cpp" />
-    <ClCompile Include="beta\weapon_stickylauncher.cpp" />
-    <ClCompile Include="beta\npc_xenlight.cpp" />
-    <ClCompile Include="hl2\weapon_immolator.cpp">
-      <Filter>Source Files\HL2 DLL\Unused</Filter>
-    </ClCompile>
-    <ClCompile Include="..\shared\handviewmodel_shared.cpp" />
-    <ClCompile Include="MyBlockHandler.cpp" />
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>

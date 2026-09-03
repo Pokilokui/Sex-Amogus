@@ -1704,6 +1704,37 @@ void CBaseCombatWeapon::ItemPreFrame( void )
 #endif
 }
 
+void CBaseCombatWeapon::ProcessAnimationEvents(void)		//Lower vm while sprinting
+{
+	CBasePlayer* pOwner = ToBasePlayer(GetOwner());
+	if (!pOwner)
+		return;
+
+	if (!m_bWeaponIsLowered && (pOwner->m_nButtons & IN_SPEED))
+	{
+		m_bWeaponIsLowered = true;
+		SendWeaponAnim(ACT_VM_IDLE_LOWERED);
+		m_flNextPrimaryAttack = gpGlobals->curtime + GetViewModelSequenceDuration();
+		m_flNextSecondaryAttack = m_flNextPrimaryAttack;
+	}
+	else if (m_bWeaponIsLowered && !(pOwner->m_nButtons & IN_SPEED))
+	{
+		m_bWeaponIsLowered = false;
+		SendWeaponAnim(ACT_VM_IDLE);
+		m_flNextPrimaryAttack = gpGlobals->curtime + GetViewModelSequenceDuration();
+		m_flNextSecondaryAttack = m_flNextPrimaryAttack;
+	}
+
+	if (m_bWeaponIsLowered)
+	{
+		if (gpGlobals->curtime > m_flNextPrimaryAttack)
+		{
+			SendWeaponAnim(ACT_VM_IDLE_LOWERED);
+			m_flNextPrimaryAttack = gpGlobals->curtime + GetViewModelSequenceDuration();
+			m_flNextSecondaryAttack = m_flNextPrimaryAttack;
+		}
+	}
+}
 
 //====================================================================================
 // WEAPON BEHAVIOUR
@@ -1714,6 +1745,7 @@ void CBaseCombatWeapon::ItemPostFrame( void )
 	if (!pOwner)
 		return;
 
+	ProcessAnimationEvents();		//Lower vm while sprinting
 	UpdateAutoFire();
 
 	//Track the duration of the fire

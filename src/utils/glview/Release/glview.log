@@ -1,2 +1,15 @@
-﻿     Creating library .\Release\.\glview.lib and object .\Release\.\glview.exp
-  glview.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\utils\glview\.\Release\.\glview.exe
+﻿  Compiling pointeroverride.asm
+   Assembling: C:\Users\IB\Documents\sdk\mod_hl2\src\public\tier0\pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 12.00.40629.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  Running VPC CRC Check - glview.vpc
+  glview.cpp
+  memoverride.cpp
+  cmdlib.cpp
+  filesystem_helpers.cpp
+  filesystem_init.cpp
+  filesystem_tools.cpp
+  physdll.cpp
+     Creating library .\Release\.\glview.lib and object .\Release\.\glview.exp
+  glview.vcxproj -> C:\Users\IB\Documents\sdk\mod_hl2\src\utils\glview\.\Release\.\glview.exe
