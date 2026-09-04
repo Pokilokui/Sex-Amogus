@@ -158,7 +158,7 @@ public:
 		if (mat_viewmodel_projected_textures->GetBool() == 0)
 			return false;
 		else
-			return true;
+			return true;		//Cast projected textures on viewmodel
 	}
 
 	// Add entity to visible view models list?

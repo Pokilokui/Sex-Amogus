@@ -1319,8 +1319,9 @@ bool CClientShadowMgr::Init()
 	/*bool bTools = CommandLine()->CheckParm("-tools") != NULL;
 	m_nMaxDepthTextureShadows = bTools ? 4 : 1;	// Just one shadow depth texture in games, more in tools*/
 
-	bool bTools = CommandLine()->CheckParm("-tools") != NULL;
-	m_nMaxDepthTextureShadows = bTools ? 4 : 5; //with your number
+	//bool bTools = CommandLine()->CheckParm("-tools") != NULL;
+	//m_nMaxDepthTextureShadows = bTools ? 4 : 5; //with your number
+	m_nMaxDepthTextureShadows = 10;		//Allow more than one shadow for projected textures
 
 	bool bLowEnd = ( g_pMaterialSystemHardwareConfig->GetDXSupportLevel() < 80 );
 
@@ -3916,7 +3917,7 @@ int CClientShadowMgr::BuildActiveShadowDepthList( const CViewSetup &viewSetup, i
 		{
 			shadowmgr->SetFlashlightDepthTexture( shadow.m_ShadowHandle, NULL, 0 );
 			continue;
-		}
+		}*/
 
 		if ( nActiveDepthShadowCount >= nMaxDepthShadows )
 		{
@@ -3929,7 +3930,7 @@ int CClientShadowMgr::BuildActiveShadowDepthList( const CViewSetup &viewSetup, i
 			}
 			shadowmgr->SetFlashlightDepthTexture( shadow.m_ShadowHandle, NULL, 0 );
 			continue;
-		}*/
+		}
 
 		pActiveDepthShadows[nActiveDepthShadowCount++] = i;
 	}

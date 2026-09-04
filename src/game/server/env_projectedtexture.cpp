@@ -27,6 +27,7 @@ public:
 
 	// Always transmit to clients
 	virtual int UpdateTransmitState();
+	virtual void Spawn(void);			//Fix for enable flag
 	virtual void Activate( void );
 
 	void InputTurnOn( inputdata_t &inputdata );
@@ -242,12 +243,19 @@ void CEnvProjectedTexture::InputSetSpotlightTexture( inputdata_t &inputdata )
 	Q_strcpy( m_SpotlightTextureName.GetForModify(), inputdata.value.String() );
 }
 
+void CEnvProjectedTexture::Spawn(void)
+{
+	m_bState = ((GetSpawnFlags() & ENV_PROJECTEDTEXTURE_STARTON) != 0);
+
+	BaseClass::Spawn();
+}
+
 void CEnvProjectedTexture::Activate( void )
 {
-	if ( GetSpawnFlags() & ENV_PROJECTEDTEXTURE_STARTON )
+	/*if (GetSpawnFlags() & ENV_PROJECTEDTEXTURE_STARTON)
 	{
 		m_bState = true;
-	}
+	}*/
 
 	SetThink( &CEnvProjectedTexture::InitialThink );
 	SetNextThink( gpGlobals->curtime + 0.1f );
