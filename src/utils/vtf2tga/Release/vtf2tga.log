@@ -1,0 +1,10 @@
+﻿  Compiling pointeroverride.asm
+   Assembling: C:\Users\IB\Documents\sdk\mod_hl2\src\public\tier0\pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 12.00.40629.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  Running VPC CRC Check - vtf2tga.vpc
+  memoverride.cpp
+  vtf2tga.cpp
+     Creating library .\Release\.\vtf2tga.lib and object .\Release\.\vtf2tga.exp
+  vtf2tga.vcxproj -> C:\Users\IB\Documents\sdk\mod_hl2\src\utils\vtf2tga\.\Release\.\vtf2tga.exe

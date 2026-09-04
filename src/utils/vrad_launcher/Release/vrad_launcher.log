@@ -1,0 +1,10 @@
+﻿  Compiling pointeroverride.asm
+   Assembling: C:\Users\IB\Documents\sdk\mod_hl2\src\public\tier0\pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 12.00.40629.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  Running VPC CRC Check - vrad_launcher.vpc
+  StdAfx.cpp
+  vrad_launcher.cpp
+     Creating library .\Release\.\vrad.lib and object .\Release\.\vrad.exp
+  vrad_launcher.vcxproj -> C:\Users\IB\Documents\sdk\mod_hl2\src\utils\vrad_launcher\.\Release\.\vrad.exe

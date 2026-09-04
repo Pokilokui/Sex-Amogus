@@ -1,0 +1,11 @@
+﻿  Compiling pointeroverride.asm
+   Assembling: C:\Users\IB\Documents\sdk\mod_hl2\src\public\tier0\pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 12.00.40629.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  Running VPC CRC Check - qc_eyes.vpc
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  QC_Eyes.cpp
+  QC_EyesDlg.cpp
+  qc_eyes.vcxproj -> C:\Users\IB\Documents\sdk\mod_hl2\src\utils\qc_eyes\.\Release\.\qc_eyes.exe

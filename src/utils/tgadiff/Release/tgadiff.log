@@ -1,0 +1,10 @@
+﻿  Compiling pointeroverride.asm
+   Assembling: C:\Users\IB\Documents\sdk\mod_hl2\src\public\tier0\pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 12.00.40629.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  Running VPC CRC Check - tgadiff.vpc
+  memoverride.cpp
+  tgadiff.cpp
+     Creating library .\Release\.\tgadiff.lib and object .\Release\.\tgadiff.exp
+  tgadiff.vcxproj -> C:\Users\IB\Documents\sdk\mod_hl2\src\utils\tgadiff\.\Release\.\tgadiff.exe
