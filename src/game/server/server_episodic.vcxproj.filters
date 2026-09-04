@@ -1901,7 +1901,6 @@
     <ClInclude Include="toolframework_server.h">
       <Filter>Tools Framework</Filter>
     </ClInclude>
-    <ClInclude Include="beta\grenade_molotov.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="beta\energy_wave.cpp">

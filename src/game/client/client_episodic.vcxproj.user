@@ -10,7 +10,7 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LocalDebuggerCommand>C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2.exe</LocalDebuggerCommand>
-    <LocalDebuggerCommandArguments>-allowdebug -novid -windowed -noborder -dev -console -game "C:\Users\IB\Documents\sdk\mod_hl2\game\mod_episodic"</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>-allowdebug -novid -windowed -noborder -dev -console -game "C:\Users\Elouan\Documents\sdk\mod_hl2\sp\game\mod_episodic"</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
     <LocalDebuggerCommandArgumentsHistory>-allowdebug -novid -windowed -noborder -dev -console -game "C:\Users\Elouan\Documents\sdk\mod_hl2\sp\game\mod_episodic"|</LocalDebuggerCommandArgumentsHistory>
   </PropertyGroup>

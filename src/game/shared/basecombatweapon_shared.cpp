@@ -1707,22 +1707,27 @@ void CBaseCombatWeapon::ItemPreFrame( void )
 void CBaseCombatWeapon::ProcessAnimationEvents(void)		//Lower vm while sprinting
 {
 	CBasePlayer* pOwner = ToBasePlayer(GetOwner());
+	CBaseCombatWeapon* pWeapon = pOwner->GetActiveWeapon();
+
 	if (!pOwner)
+		return;
+
+	if (pWeapon && FClassnameIs(pWeapon, "weapon_rpg"))
 		return;
 
 	if (!m_bWeaponIsLowered && (pOwner->m_nButtons & IN_SPEED))
 	{
 		m_bWeaponIsLowered = true;
 		SendWeaponAnim(ACT_VM_IDLE_LOWERED);
-		m_flNextPrimaryAttack = gpGlobals->curtime + GetViewModelSequenceDuration();
-		m_flNextSecondaryAttack = m_flNextPrimaryAttack;
+		//m_flNextPrimaryAttack = gpGlobals->curtime + GetViewModelSequenceDuration();
+		//m_flNextSecondaryAttack = m_flNextPrimaryAttack;
 	}
 	else if (m_bWeaponIsLowered && !(pOwner->m_nButtons & IN_SPEED))
 	{
 		m_bWeaponIsLowered = false;
 		SendWeaponAnim(ACT_VM_IDLE);
-		m_flNextPrimaryAttack = gpGlobals->curtime + GetViewModelSequenceDuration();
-		m_flNextSecondaryAttack = m_flNextPrimaryAttack;
+		//m_flNextPrimaryAttack = gpGlobals->curtime + GetViewModelSequenceDuration();
+		//m_flNextSecondaryAttack = m_flNextPrimaryAttack;
 	}
 
 	if (m_bWeaponIsLowered)
@@ -1730,6 +1735,12 @@ void CBaseCombatWeapon::ProcessAnimationEvents(void)		//Lower vm while sprinting
 		if (gpGlobals->curtime > m_flNextPrimaryAttack)
 		{
 			SendWeaponAnim(ACT_VM_IDLE_LOWERED);
+			//m_flNextPrimaryAttack = gpGlobals->curtime + GetViewModelSequenceDuration();
+			//m_flNextSecondaryAttack = m_flNextPrimaryAttack;
+		}
+		if (pOwner->m_nButtons & IN_RELOAD)
+		{
+			SendWeaponAnim(ACT_VM_RELOAD);
 			m_flNextPrimaryAttack = gpGlobals->curtime + GetViewModelSequenceDuration();
 			m_flNextSecondaryAttack = m_flNextPrimaryAttack;
 		}
