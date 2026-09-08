@@ -837,7 +837,7 @@ void CWeaponGravityGun::EffectUpdate(void)
 
 		if (m_useDown)
 		{
-			pOwner->SetPhysicsFlag(PFLAG_DIROVERRIDE, true);
+			//pOwner->SetPhysicsFlag(PFLAG_DIROVERRIDE, true);   Made the game thinks the player was riding a train causing hud to appear
 			if (pOwner->m_nButtons & IN_FORWARD)
 			{
 				m_distance = UTIL_Approach(1024, m_distance, gpGlobals->frametime * 100);

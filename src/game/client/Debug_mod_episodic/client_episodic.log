@@ -1,8 +1,8 @@
 ﻿  Compiling pointeroverride.asm
-   Assembling: C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\public\tier0\pointeroverride.asm
   Microsoft (R) Macro Assembler Version 12.00.40629.0
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
+   Assembling: C:\Users\IB\Documents\sdk\mod_hl2\src\public\tier0\pointeroverride.asm
   Running VPC CRC Check - client_episodic.vpc
   stdafx.cpp
   mp3player.cpp
@@ -524,7 +524,8 @@
   studio.cpp
   vallocator.cpp
   vgui_controls.cpp
+  LINK : .\Debug_mod_episodic\\client.dll not found or not built by the last incremental link; performing full link
      Creating library .\Debug_mod_episodic\\client.lib and object .\Debug_mod_episodic\\client.exp
-  client_episodic.vcxproj -> C:\Users\Elouan\Documents\sdk\mod_hl2\sp\src\game\client\.\Debug_mod_episodic\client.dll
+  client_episodic.vcxproj -> C:\Users\IB\Documents\sdk\mod_hl2\src\game\client\.\Debug_mod_episodic\client.dll
           1 fichier(s) copié(s).
           1 fichier(s) copié(s).
